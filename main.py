@@ -2,3 +2,4 @@
 # wobei des kann man auch ez ändern, also wie ihr es wollt :)
 
 import pokcalc
+print('dwakodkoiwajkiodwajidajwidjiaw')
