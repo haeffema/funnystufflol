@@ -23,6 +23,7 @@ Dragon=Type("Dragon")
 Dark=Type("Dark")
 Fairy=Type("Fairy")
 
+# Weaknesses:
 Normal.weaknesses =[Fighting]
 Fighting.weaknesses =[Flying,Psychic,Fairy]
 Flying.weaknesses =[Rock,Electric,Ice]
@@ -40,5 +41,9 @@ Ice.weaknesses =[Fighting,Rock,Steel,Fire]
 Dragon.weaknesses =[Ice,Dragon,Fairy]
 Dark.weaknesses =[Fighting,Bug,Fairy]
 Fairy.weaknesses =[Poison,Steel]
+for x in Rock.weaknesses:
+    print(x.name)
+
+# Resistances:
 
 
