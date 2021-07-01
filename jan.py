@@ -1,13 +1,27 @@
-print('info is super*')
-print("pokemon Team")
-pokemon = "Marshadow"
-print(pokemon)
-i=input("message die du sagen willst \n")
-maxstinkt=True
-duschen=0
-while maxstinkt is True:
-    print(i+"\n")
-    duschen=duschen+1
-    if duschen == 10:
-        maxstinkt = False
-        print("stinkt jetzt nicht mehr")
+class Type (object):
+    def __init__(self,name):
+        self.name=name
+    weaknesses = []
+
+
+Normal =Type("Normal")
+Fighting=Type("Fighting")
+Flying=Type("Flying")
+Poison=Type("Poison")
+Ground=Type("Ground")
+Rock=Type("Rock")
+Bug=Type("Bug")
+Ghost=Type("Ghost")
+Steel=Type("Steel")
+Fire=Type("Fire")
+Water=Type("Water")
+Grass=Type("Grass")
+Electric=Type("Electric")
+Psychic=Type()
+Ice = Type()
+Dragon=Type()
+Dark=Type()
+Fairy=Type()
+
+Normal.weaknesses =[Fighting,Poison]
+print(Normal.weaknesses)
