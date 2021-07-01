@@ -2,6 +2,7 @@ class Type (object):
     def __init__(self,name):
         self.name=name
     weaknesses = []
+    resistances=[]
 
 
 Normal =Type("Normal")
@@ -46,4 +47,6 @@ for x in Rock.weaknesses:
 
 # Resistances:
 
-
+Normal.resistances=[None]
+Fighting.resistances=[Rock,Bug,Dark]
+Flying.resistances=[Fighting,Bug,Grass]
