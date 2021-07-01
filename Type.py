@@ -61,3 +61,5 @@ Ghost.immunities=[Normal,Fighting]
 Steel.immunities=[Poison]
 Dark.immunities=[Psychic]
 Fairy.immunities =[Dragon]
+
+#jo jani du zerdi lul man kann des alles in ner txt machen und einlesen lassen, wenn du willst mach ich des schreib halt auf dc hihi
