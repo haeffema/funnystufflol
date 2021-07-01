@@ -1,5 +1,7 @@
 import Type
 
+NoType = Type("None")
+
 
 class Stats(object):
     def __init__(self, hp, physattack, physdef, spezattack, spezdef, speed):
