@@ -19,5 +19,5 @@ class Pokemon(object):
         self.stats = stats
 
 
-GengarBase = (60, 65, 60, 130, 75, 110)
+GengarBase = Stats(60, 65, 60, 130, 75, 110)
 Gengar = Pokemon("Gengar", Type.Ghost, Type.Poison, GengarBase)
