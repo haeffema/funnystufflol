@@ -1,7 +1,6 @@
-import implementation
+import pokemon
+import stats
+import moves
+import type
 
-#Variabeln verkürzen
-type = implementation.type
-Gengar = implementation.Gengar
-
-print(Gengar.calculateEffecticityForPokemon(type.Normal))
+print(pokemon.Gengar.calculateEffecticityForPokemon(type.Normal))
