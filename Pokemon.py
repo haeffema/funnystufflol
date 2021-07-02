@@ -1,7 +1,5 @@
 import Type
 
-NoType = Type("None")
-
 
 class Stats(object):
     def __init__(self, hp, physattack, physdef, spezattack, spezdef, speed):
@@ -20,6 +18,13 @@ class Pokemon(object):
         self.secondType = secondType
         self.stats = stats
 
+    def calculateEffecticityForPokemon(self, type):
+        effect = self.firstType.calculateEffectivity(type)
+        effect2 = self.secondType.calculateEffectivity(type)
+        return effect * effect2
+
 
 GengarBase = Stats(60, 65, 60, 130, 75, 110)
 Gengar = Pokemon("Gengar", Type.Ghost, Type.Poison, GengarBase)
+
+#print(Gengar.calculateEffecticityForPokemon(Type.Bug))

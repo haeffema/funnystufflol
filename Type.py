@@ -3,7 +3,6 @@
 
 
 class Type(object):
-
     weaknesses = []
     resistances = []
     immunities = []
@@ -69,31 +68,20 @@ Fairy.weaknesses = [Poison, Steel]
 Normal.resistances = [None]
 Fighting.resistances = [Rock, Bug, Dark]
 Flying.resistances = [Fighting, Bug, Grass]
-Poison.resistences = [Fighting, Poison, Bug, Grass, Fairy]
-Ground.resistences = [Poison, Rock]
-Rock.resistences = [Normal, Flying, Poison, Fire]
-Bug.resistences = [Fighting, Ground, Grass]
-Ghost.resistences = [Poison, Bug]
-Steel.resistences = [
-    Normal,
-    Flying,
-    Rock,
-    Bug,
-    Steel,
-    Grass,
-    Psychic,
-    Ice,
-    Dragon,
-    Fairy,
-    ]
-Fire.resistences = [Bug, Steel, Fire, Ice, Fairy]
-Water.resistences = [Steel, Fire, Water, Ice]
-Grass.resistences = [Ground, Water, Grass, Electric]
-Electric.resistences = [Flying, Steel, Electric]
-Psychic.resistences = [Fighting, Ice]
-Dragon.resistences = [Fire, Water, Grass, Electric]
-Dark.resistences = [Ghost, Dark]
-Fairy.resistences = [Fighting, Bug, Dark]
+Poison.resistances = [Fighting, Poison, Bug, Grass, Fairy]
+Ground.resistances = [Poison, Rock]
+Rock.resistances = [Normal, Flying, Poison, Fire]
+Bug.resistances = [Fighting, Ground, Grass]
+Ghost.resistances = [Poison, Bug]
+Steel.resistances = [Normal, Flying, Rock, Bug, Steel, Grass, Psychic, Ice, Dragon, Fairy]
+Fire.resistances = [Bug, Steel, Fire, Ice, Fairy]
+Water.resistances = [Steel, Fire, Water, Ice]
+Grass.resistances = [Ground, Water, Grass, Electric]
+Electric.resistances = [Flying, Steel, Electric]
+Psychic.resistances = [Fighting, Ice]
+Dragon.resistances = [Fire, Water, Grass, Electric]
+Dark.resistances = [Ghost, Dark]
+Fairy.resistances = [Fighting, Bug, Dark]
 
 # Immunities:
 
@@ -105,6 +93,5 @@ Steel.immunities = [Poison]
 Dark.immunities = [Psychic]
 Fairy.immunities = [Dragon]
 
-print (Fairy.calculateEffectivity(Ghost))
 
 # jo jani du zerdi lul man kann des alles in ner txt machen und einlesen lassen, wenn du willst mach ich des schreib halt auf dc hihi
