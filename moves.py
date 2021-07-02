@@ -1,4 +1,4 @@
-class Attack(object):
+class Move(object):
     def __init__(self, damage, type, accuracy):
         self.damage = damage
         self.type = type

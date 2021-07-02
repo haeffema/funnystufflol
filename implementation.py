@@ -1,6 +1,7 @@
-import Pokemon
+import pokemon
 import stats
-import Attack
+import moves
+import type
 
 GengarBase = stats.Stats(60, 65, 60, 130, 75, 110)
-Gengar = Pokemon("Gengar", Type.Ghost, Type.Poison, GengarBase)
+Gengar = pokemon.Pokemon("Gengar", type.Ghost, type.Poison, GengarBase)
