@@ -93,5 +93,6 @@ Steel.immunities = [Poison]
 Dark.immunities = [Psychic]
 Fairy.immunities = [Dragon]
 
+types = [Normal, Fighting, Flying, Poison, Ground, Rock, Bug, Ghost, Steel, Fire, Water, Grass, Electric, Psychic, Ice, Dragon, Dark, Fairy]
 
 # jo jani du zerdi lul man kann des alles in ner txt machen und einlesen lassen, wenn du willst mach ich des schreib halt auf dc hihi

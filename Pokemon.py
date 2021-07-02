@@ -1,14 +1,10 @@
 import Type
+import Attack
+import Stats
 
-
-class Stats(object):
-    def __init__(self, hp, physattack, physdef, spezattack, spezdef, speed):
-        self.hp = hp
-        self.attack = physattack
-        self.physdef = physdef
-        self.spezattack = spezattack
-        self.spezdef = spezdef
-        self.speed = speed
+spez = "Special"
+phys = "Physical"
+status = "Status"
 
 
 class Pokemon(object):
@@ -27,4 +23,4 @@ class Pokemon(object):
 GengarBase = Stats(60, 65, 60, 130, 75, 110)
 Gengar = Pokemon("Gengar", Type.Ghost, Type.Poison, GengarBase)
 
-#print(Gengar.calculateEffecticityForPokemon(Type.Bug))
+print(Gengar.calculateEffecticityForPokemon(Type.Ground))
