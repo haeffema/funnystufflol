@@ -11,3 +11,4 @@ class Stats(object):
 # implementation
 GengarBase = Stats(60, 65, 60, 130, 75, 110)
 DragoranBase = Stats(91, 134, 95, 100, 100, 80)
+TestStats = Stats(1, 1, 1, 1, 1, 1)
