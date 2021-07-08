@@ -3,5 +3,4 @@ import stats
 import moves
 import type
 
-for x in type.types:
-    print(x.name + ": " + str(pokemon.Dragoran.calculateEffecticityForPokemon(x)))
+pokemon.Dragoran.calculate_damage(moves.ShadowBall, pokemon.Gengar)

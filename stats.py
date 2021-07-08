@@ -9,6 +9,6 @@ class Stats(object):
 
 
 # implementation
-GengarBase = Stats(60, 65, 60, 130, 75, 110)
-DragoranBase = Stats(91, 134, 95, 100, 100, 80)
+GengarBase = Stats(261, 149, 156, 359, 187, 350)
+DragoranBase = Stats(323, 367, 226, 212, 237, 284)
 TestStats = Stats(1, 1, 1, 1, 1, 1)

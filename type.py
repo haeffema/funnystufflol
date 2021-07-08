@@ -11,20 +11,17 @@ class Type(object):
         self.name = name
 
     def calculateEffectivity(self, type):
-        if type == None:
-            return 1
-        else:
-            effect = 1
-            for z in self.immunities:
-                if z == type:
-                    effect = 0
-            for x in self.weaknesses:
-                if x == type:
-                    effect = 2
-            for y in self.resistances:
-                if y == type:
-                    effect = 0.5
-            return effect
+        effect = 1
+        for z in self.immunities:
+            if z == type:
+                effect = 0
+        for x in self.weaknesses:
+            if x == type:
+                effect = 2
+        for y in self.resistances:
+            if y == type:
+                effect = 0.5
+        return effect
 
 
 Normal = Type('Normal')
