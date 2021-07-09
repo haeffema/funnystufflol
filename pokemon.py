@@ -23,9 +23,11 @@ class Pokemon(object):
         if move.type == attacker.firstType or move.type == attacker.secondType:
             stab = 1.5
         modifier = self.calculateEffecticityForPokemon(move.type) * stab
-        damagemax = ((2 * attacker.level + 10) / 250 * (attacker.stats.spezattack / self.stats.spezdef) * move.damage + 2) * modifier
-        damagemin = ((2 * attacker.level + 10) / 250 * (attacker.stats.spezattack / self.stats.spezdef) * move.damage + 2) * modifier * 0.85
-        print(str(damagemin / self.stats.hp * 100) + "% - " + str(damagemax / self.stats.hp * 100) + "%")
+        firstpart = (2 * attacker.level + 10) / 250
+        secondpart = attacker.stats.spezattack / self.stats.spezdef
+        damagemax = (firstpart * secondpart * move.damage + 2) * modifier
+        damagemin = damagemax * 0.85
+        print(str(round(damagemin / self.stats.hp * 100, 1)) + "% - " + str(round(damagemax / self.stats.hp * 100, 1)) + "%")
 
     # implementation
 
