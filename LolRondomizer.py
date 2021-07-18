@@ -38,7 +38,7 @@ listTop = ["Aatrox", "Akali", "Camille", "Cho'Gath", "Darius", "Dr.Mundo", "Fior
            "Wukong", "Yasuo", "Yone", "Yorick"]
 
 listJungle = ["Amummu", "Diana", "Dr.Mundo", "Ekko", "Elise", "Evelynn", "Fiddlesticks", "Gragas", "Graves",
-              "Heacrim", "Ivern", "Jarvan IV", "Karthus", "Kayn", "Kha'Zix", "Kindred", "Lee-Sin", "Lillia",
+              "Heacrim", "Ivern", "Jarvan-IV", "Karthus", "Kayn", "Kha'Zix", "Kindred", "Lee-Sin", "Lillia",
               "Master-Yi", "Morgana", "Nidalee", "Nocturne", "Nunu", "Olaf", "Poppy", "Rammus",
               "Rek'Sai", "Rengar", "Rumble", "Sejuani", "Shaco", "Shyvana", "Skarner", "Taliyah", "Trundle",
               "Udyr", "Vi", "Viego", "Volibear", "Warwick", "Xin-Zhao", "Zac"]
@@ -58,9 +58,34 @@ listSupport = ["Alistar", "Bard", "Blitzcrank", "Brand", "Braum", "Galio", "Jann
                "Seraphine", "Sett", "Shaco", "Sona", "Soraka", "Swain", "Taric", "Thresh", "Vel'Koz", "Xerath",
                "Yuumi", "Zilean", "Zyra"]
 
+listPrecision1 = ["Press-The-Attack", "Lethal-Tempo", "Fleet-Footwork", "Conqueror"]
+listPrecision2 = ["Overheal", "Triumph", "Presence-Of-Mind"]
+listPrecision3 = ["Legend_Alacrity", "Legend_Tenacity", "Legend_Bloodline"]
+listPrecision4 = ["Coup-De-Grace", "Cut-Down", "Last-Stand"]
+
+listDomination1 = ["Electrocute", "Predator", "Dark-Harvest", "Hail-Of-Blades"]
+listDomination2 = ["Cheap-Shot", "Taste-Of-Blood", "Sudden-Impact"]
+listDomination3 = ["Zombie-Ward", "Ghost-Poro", "Eyeball-Collection"]
+listDomination4 = ["Ravenous-Hunter", "Ingenious-Hunter", "Relentless-Hunter", "Ultimate-Hunter"]
+
+listSorcery1 = ["Summon-Aery", "Arcane-Comet", "Phase-Rush"]
+listSorcery2 = ["Nullifying-Orb", "Manaflow-Band", "Nimbus-Cloak"]
+listSorcery3 = ["Transcendence", "Celerity", "Absolute-Focus"]
+listSorcery4 = ["Scorch", "Waterwalking", "Gathering-Storm"]
+
+listResolve1 = ["Grasp-Of-Undying", "Aftershock", "Guardian"]
+listResolve2 = ["Demolish", "Font-Of-Life", "Shield-Bash"]
+listResolve3 = ["Conditioning", "Second-Wind", "Bone-Plating"]
+listResolve4 = ["Overgrowth", "Revitalize", "Unflinching"]
+
+listInspiration1 = ["Glacial-Gauntlet", "Unsealed-Spellbook", "Prototype_Omnistone"]
+listInspiration2 = ["Hextech-Flashtraption", "Magical-Footwear", "Perfect-Timing"]
+listInspiration3 = ["Future's-Market", "Minion-Dematerializer", "Biscuit-Delivery"]
+listInspiration4 = ["Cosmic-insight", "Approach-Velocity", "Time-Warp-Tonic"]
+
 root = tk.Tk()
 root.title("League Of Legends Randomizer")
-champs = []
+helpList = []
 
 
 # Methoden für Buttons
@@ -72,101 +97,249 @@ def restartProgram():
 
 def randomChamp():
     i = random.choice(listA)
-    champs.append(i)
-    for champ in champs:
-        label = tk.Label(text=champs, height=2, width=12, bg="#FFFFFF")
-        label.grid(row=1, column=2)
-        champs.clear()
+    helpList.append(i)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=0, column=1)
+        helpList.clear()
 
 
 def randomTop():
     i = random.choice(listTop)
-    champs.append(i)
-    for champ in champs:
-        label = tk.Label(text=champs, height=2, width=12, bg="#FFFFFF")
-        label.grid(row=0, column=1)
-        champs.clear()
+    helpList.append(i)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=1, column=1)
+        helpList.clear()
 
 
 def randomJungle():
     i = random.choice(listJungle)
-    champs.append(i)
-    for champ in champs:
-        label = tk.Label(text=champs, height=2, width=12, bg="#FFFFFF")
-        label.grid(row=1, column=1)
-        champs.clear()
+    helpList.append(i)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=2, column=1)
+        helpList.clear()
 
 
 def randomMid():
     i = random.choice(listMid)
-    champs.append(i)
-    for champ in champs:
-        label = tk.Label(text=champs, height=2, width=12, bg="#FFFFFF")
-        label.grid(row=2, column=1)
-        champs.clear()
+    helpList.append(i)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=3, column=1)
+        helpList.clear()
 
 
 def randomBottom():
     i = random.choice(listBottom)
-    champs.append(i)
-    for champ in champs:
-        label = tk.Label(text=champs, height=2, width=12, bg="#FFFFFF")
-        label.grid(row=3, column=1)
-        champs.clear()
+    helpList.append(i)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=4, column=1)
+        helpList.clear()
 
 
 def randomSupport():
     i = random.choice(listSupport)
-    champs.append(i)
-    for champ in champs:
-        label = tk.Label(text=champs, height=2, width=12, bg="#FFFFFF")
-        label.grid(row=4, column=1)
-        champs.clear()
+    helpList.append(i)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=5, column=1)
+        helpList.clear()
+
+
+def randomPresicion():
+    a = random.choice(listPrecision1)
+    helpList.append(a)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=7, column=1)
+        helpList.clear()
+    b = random.choice(listPrecision2)
+    helpList.append(b)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=8, column=1)
+        helpList.clear()
+    c = random.choice(listPrecision3)
+    helpList.append(c)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=9, column=1)
+        helpList.clear()
+    d = random.choice(listPrecision4)
+    helpList.append(d)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=10, column=1)
+        helpList.clear()
+
+
+def randomDomination():
+    a = random.choice(listDomination1)
+    helpList.append(a)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=7, column=1)
+        helpList.clear()
+    b = random.choice(listDomination2)
+    helpList.append(b)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=8, column=1)
+        helpList.clear()
+    c = random.choice(listDomination3)
+    helpList.append(c)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=9, column=1)
+        helpList.clear()
+    d = random.choice(listDomination4)
+    helpList.append(d)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=10, column=1)
+        helpList.clear()
+
+
+def randomSorcery():
+    a = random.choice(listSorcery1)
+    helpList.append(a)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=7, column=1)
+        helpList.clear()
+    b = random.choice(listSorcery2)
+    helpList.append(b)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=8, column=1)
+        helpList.clear()
+    c = random.choice(listSorcery3)
+    helpList.append(c)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=9, column=1)
+        helpList.clear()
+    d = random.choice(listSorcery4)
+    helpList.append(d)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=10, column=1)
+        helpList.clear()
+
+
+def randomResolve():
+    a = random.choice(listResolve1)
+    helpList.append(a)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=7, column=1)
+        helpList.clear()
+    b = random.choice(listResolve2)
+    helpList.append(b)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=8, column=1)
+        helpList.clear()
+    c = random.choice(listResolve3)
+    helpList.append(c)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=9, column=1)
+        helpList.clear()
+    d = random.choice(listResolve4)
+    helpList.append(d)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=10, column=1)
+        helpList.clear()
+
+
+def randomInspiration():
+    a = random.choice(listInspiration1)
+    helpList.append(a)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=7, column=1)
+        helpList.clear()
+    b = random.choice(listInspiration2)
+    helpList.append(b)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=8, column=1)
+        helpList.clear()
+    c = random.choice(listInspiration3)
+    helpList.append(c)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=9, column=1)
+        helpList.clear()
+    d = random.choice(listInspiration4)
+    helpList.append(d)
+    for helpVar in helpList:
+        label = tk.Label(text=helpList, height=2, width=18, bg="#FFFFFF")
+        label.grid(row=10, column=1)
+        helpList.clear()
 
 
 # GUI
-
-# canvas = tk.Canvas(root, height=500, width=500, bg="#7289da")
-# canvas.grid()
-# canvas.pack()
-
-# frame = tk.Frame(root, bg="#2C2F33")
-# frame.place(relwidth=0.8, relheight=0.8, relx=0.1, rely=0.1)
-# frame.grid(row=0, column=0, padx='5', pady='5', sticky='ew')
-
-randTop = tk.Button(text="Random Toplaner", padx=5, pady=5, fg="white", bg="#23272a",
-                    command=randomTop)
-randTop.grid(row=0, column=0, padx='5', pady='5', sticky='ew')
-# randTop.pack()
-
-randJgl = tk.Button(text="Random Jungler", padx=5, pady=5, fg="white", bg="#23272a",
-                    command=randomJungle)
-randJgl.grid(row=1, column=0, padx='5', pady='5', sticky='ew')
-# randJgl.pack()
-
-randMid = tk.Button(text="Random Midlaner", padx=5, pady=5, fg="white", bg="#23272a",
-                    command=randomMid)
-randMid.grid(row=2, column=0, padx='5', pady='5', sticky='ew')
-# randMid.pack()
-
-randBot = tk.Button(text="Random ADC", padx=5, pady=5, fg="white", bg="#23272a",
-                    command=randomBottom)
-randBot.grid(row=3, column=0, padx='5', pady='5', sticky='ew')
-# randBot.pack()
-
-randSup = tk.Button(text="Random Supporter", padx=5, pady=5, fg="white", bg="#23272a",
-                    command=randomSupport)
-randSup.grid(row=4, column=0, padx='5', pady='5', sticky='ew')
-# randSup.pack()
-
-randChamp = tk.Button(text="Random Champion", padx=5, pady=5, fg="white", bg="#23272a",
+randChamp = tk.Button(text="All Champions", padx=5, pady=5, fg="white", bg="#23272a",
                       command=randomChamp)
-randChamp.grid(row=0, column=2, padx='5', pady='5', sticky='ew')
-# randChamp.pack()
+randChamp.grid(row=0, column=0, padx='5', pady='5', sticky='ew')
 
 restart = tk.Button(text="Restart", padx=5, pady=5, fg="white", bg="#23272a",
                     command=restartProgram)
-restart.grid(row=2, column=2, padx='5', pady='5', sticky='ew')
-# restart.pack()
+restart.grid(row=0, column=2, padx='5', pady='5', sticky='ew')
+
+randTop = tk.Button(text="Toplaner", padx=5, pady=5, fg="white", bg="#23272a",
+                    command=randomTop)
+randTop.grid(row=1, column=0, padx='5', pady='5', sticky='ew')
+
+randJgl = tk.Button(text="Jungler", padx=5, pady=5, fg="white", bg="#23272a",
+                    command=randomJungle)
+randJgl.grid(row=2, column=0, padx='5', pady='5', sticky='ew')
+
+randMid = tk.Button(text="Midlaner", padx=5, pady=5, fg="white", bg="#23272a",
+                    command=randomMid)
+randMid.grid(row=3, column=0, padx='5', pady='5', sticky='ew')
+
+randBot = tk.Button(text="ADC", padx=5, pady=5, fg="white", bg="#23272a",
+                    command=randomBottom)
+randBot.grid(row=4, column=0, padx='5', pady='5', sticky='ew')
+
+randSup = tk.Button(text="Supporter", padx=5, pady=5, fg="white", bg="#23272a",
+                    command=randomSupport)
+randSup.grid(row=5, column=0, padx='5', pady='5', sticky='ew')
+
+frame = tk.Frame(height=5, width=132, bg="#7289da")
+frame.grid(row=6, column=0, sticky='nw')
+
+frame2 = tk.Frame(height=5, width=132, bg="#7289da")
+frame2.grid(row=6, column=1, sticky='n')
+
+frame3 = tk.Frame(height=5, width=132, bg="#7289da")
+frame3.grid(row=6, column=2, sticky='ne')
+
+randPre = tk.Button(text="Precision Runes", padx=5, pady=5, fg="white", bg="#23272a",
+                    command=randomPresicion)
+randPre.grid(row=7, column=0, padx='5', pady='5', sticky='ew')
+
+randDom = tk.Button(text="Domination Runes", padx=5, pady=5, fg="white", bg="#23272a",
+                    command=randomDomination)
+randDom.grid(row=8, column=0, padx='5', pady='5', sticky='ew')
+
+randSor = tk.Button(text="Sorcery Runes", padx=5, pady=5, fg="white", bg="#23272a",
+                    command=randomSorcery)
+randSor.grid(row=9, column=0, padx='5', pady='5', sticky='ew')
+
+randRes = tk.Button(text="Resolve Runes", padx=5, pady=5, fg="white", bg="#23272a",
+                    command=randomResolve)
+randRes.grid(row=10, column=0, padx='5', pady='5', sticky='ew')
+
+randIns = tk.Button(text="Inspiration Runes", padx=5, pady=5, fg="white", bg="#23272a",
+                    command=randomInspiration)
+randIns.grid(row=11, column=0, padx='5', pady='5', sticky='ew')
 
 root.mainloop()
