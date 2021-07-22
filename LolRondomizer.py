@@ -8,6 +8,7 @@ import os
 
 # Listen der Champs, alle und nach Lane sortiert
 
+
 listA = ["Aatrox", "Ahri", "Akali", "Alistar", "Amumu", "Anivia", "Annie",
          "Aphelios", "Ashe", "Aurelion-Sol", "Azir", "Bard", "Blitzcrank", "Brand",
          "Braum", "Caitlyn", "Camille", "Cassiopeia", "Cho'Gath", "Corki", "Darius",
@@ -108,50 +109,50 @@ def restartProgram():
 
 
 def randomChamp():
-    label = tk.Label(text=random.choice(listA), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listA), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=0, column=1)
 
 
 def randomTop():
-    label = tk.Label(text=random.choice(listTop), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listTop), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=1, column=1)
 
 
 def randomJungle():
-    label = tk.Label(text=random.choice(listJungle), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listJungle), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=2, column=1)
 
 
 def randomMid():
-    label = tk.Label(text=random.choice(listMid), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listMid), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=3, column=1)
 
 
 def randomBottom():
-    label = tk.Label(text=random.choice(listBottom), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listBottom), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=4, column=1)
 
 
 def randomSupporter():
-    label = tk.Label(text=random.choice(listSupporter), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listSupporter), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=5, column=1)
 
 
 def randomPresicion():
-    label = tk.Label(text=random.choice(listPrecision1), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listPrecision1), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=7, column=1)
-    label = tk.Label(text=random.choice(listPrecision2), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listPrecision2), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=8, column=1)
-    label = tk.Label(text=random.choice(listPrecision3), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listPrecision3), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=9, column=1)
-    label = tk.Label(text=random.choice(listPrecision4), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listPrecision4), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=10, column=1)
 
-    label = tk.Label(text=None, height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=None, height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=10, column=2)
-    label = tk.Label(text=None, height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=None, height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=9, column=2)
-    label = tk.Label(text=None, height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=None, height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=8, column=2)
 
     listSecond = ["1", "2", "3"]
@@ -162,156 +163,156 @@ def randomPresicion():
     ndRow2 = random.choice(listSecond)
 
     if ndPage1 == "Domination" and ndRow1 == "1" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listDomination2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listDomination3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Domination" and ndRow1 == "1" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listDomination2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listDomination4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Domination" and ndRow1 == "2" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listDomination3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listDomination4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Domination" and ndRow1 == "2" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listDomination2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listDomination3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Domination" and ndRow1 == "3" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listDomination2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listDomination4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Domination" and ndRow1 == "3" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listDomination3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listDomination4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Sorcery" and ndRow1 == "1" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listSorcery2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listSorcery3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Sorcery" and ndRow1 == "1" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listSorcery2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listSorcery4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Sorcery" and ndRow1 == "2" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listSorcery3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listSorcery4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Sorcery" and ndRow1 == "2" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listSorcery2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listSorcery3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Sorcery" and ndRow1 == "3" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listSorcery2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listSorcery4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Sorcery" and ndRow1 == "3" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listSorcery3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listSorcery4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Resolve" and ndRow1 == "1" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listResolve2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listResolve3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Resolve" and ndRow1 == "1" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listResolve2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listResolve4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Resolve" and ndRow1 == "2" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listResolve3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listResolve4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Resolve" and ndRow1 == "2" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listResolve2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listResolve3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Resolve" and ndRow1 == "3" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listResolve2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listResolve4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Resolve" and ndRow1 == "3" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listResolve3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listResolve4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Inspiration" and ndRow1 == "1" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listInspiration2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listInspiration3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Inspiration" and ndRow1 == "1" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listInspiration2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listInspiration4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Inspiration" and ndRow1 == "2" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listInspiration3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listInspiration4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Inspiration" and ndRow1 == "2" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listInspiration2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listInspiration3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Inspiration" and ndRow1 == "3" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listInspiration2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listInspiration4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Inspiration" and ndRow1 == "3" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listInspiration3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listInspiration4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
-    label = tk.Label(text=random.choice(listOffense), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listOffense), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=8, column=3)
-    label = tk.Label(text=random.choice(listFlex), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listFlex), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=9, column=3)
-    label = tk.Label(text=random.choice(listDefense), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listDefense), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=10, column=3)
 
 
 def randomDomination():
-    label = tk.Label(text=random.choice(listDomination1), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listDomination1), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=7, column=1)
-    label = tk.Label(text=random.choice(listDomination2), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listDomination2), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=8, column=1)
-    label = tk.Label(text=random.choice(listDomination3), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listDomination3), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=9, column=1)
-    label = tk.Label(text=random.choice(listDomination4), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listDomination4), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=10, column=1)
 
-    label = tk.Label(text=None, height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=None, height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=10, column=2)
-    label = tk.Label(text=None, height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=None, height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=9, column=2)
-    label = tk.Label(text=None, height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=None, height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=8, column=2)
 
     listSecond = ["1", "2", "3"]
@@ -322,156 +323,156 @@ def randomDomination():
     ndRow2 = random.choice(listSecond)
 
     if ndPage1 == "Presicion" and ndRow1 == "1" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listPrecision2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listPrecision3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Presicion" and ndRow1 == "1" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listPrecision2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listPrecision4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Presicion" and ndRow1 == "2" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listPrecision3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listPrecision4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Presicion" and ndRow1 == "2" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listPrecision2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listPrecision3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Presicion" and ndRow1 == "3" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listPrecision2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listPrecision4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Presicion" and ndRow1 == "3" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listPrecision3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listPrecision4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Sorcery" and ndRow1 == "1" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listSorcery2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listSorcery3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Sorcery" and ndRow1 == "1" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listSorcery2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listSorcery4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Sorcery" and ndRow1 == "2" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listSorcery3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listSorcery4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Sorcery" and ndRow1 == "2" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listSorcery2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listSorcery3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Sorcery" and ndRow1 == "3" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listSorcery2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listSorcery4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Sorcery" and ndRow1 == "3" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listSorcery3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listSorcery4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Resolve" and ndRow1 == "1" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listResolve2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listResolve3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Resolve" and ndRow1 == "1" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listResolve2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listResolve4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Resolve" and ndRow1 == "2" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listResolve3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listResolve4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Resolve" and ndRow1 == "2" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listResolve2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listResolve3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Resolve" and ndRow1 == "3" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listResolve2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listResolve4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Resolve" and ndRow1 == "3" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listResolve3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listResolve4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Inspiration" and ndRow1 == "1" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listInspiration2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listInspiration3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Inspiration" and ndRow1 == "1" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listInspiration2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listInspiration4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Inspiration" and ndRow1 == "2" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listInspiration3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listInspiration4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Inspiration" and ndRow1 == "2" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listInspiration2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listInspiration3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Inspiration" and ndRow1 == "3" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listInspiration2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listInspiration4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Inspiration" and ndRow1 == "3" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listInspiration3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listInspiration4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
-    label = tk.Label(text=random.choice(listOffense), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listOffense), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=8, column=3)
-    label = tk.Label(text=random.choice(listFlex), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listFlex), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=9, column=3)
-    label = tk.Label(text=random.choice(listDefense), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listDefense), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=10, column=3)
 
 
 def randomSorcery():
-    label = tk.Label(text=random.choice(listSorcery1), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listSorcery1), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=7, column=1)
-    label = tk.Label(text=random.choice(listSorcery2), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listSorcery2), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=8, column=1)
-    label = tk.Label(text=random.choice(listSorcery3), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listSorcery3), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=9, column=1)
-    label = tk.Label(text=random.choice(listSorcery4), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listSorcery4), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=10, column=1)
 
-    label = tk.Label(text=None, height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=None, height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=10, column=2)
-    label = tk.Label(text=None, height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=None, height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=9, column=2)
-    label = tk.Label(text=None, height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=None, height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=8, column=2)
 
     listSecond = ["1", "2", "3"]
@@ -482,156 +483,156 @@ def randomSorcery():
     ndRow2 = random.choice(listSecond)
 
     if ndPage1 == "Presicion" and ndRow1 == "1" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listPrecision2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listPrecision3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Presicion" and ndRow1 == "1" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listPrecision2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listPrecision4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Presicion" and ndRow1 == "2" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listPrecision3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listPrecision4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Presicion" and ndRow1 == "2" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listPrecision2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listPrecision3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Presicion" and ndRow1 == "3" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listPrecision2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listPrecision4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Presicion" and ndRow1 == "3" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listPrecision3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listPrecision4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Domination" and ndRow1 == "1" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listDomination2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listDomination3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Domination" and ndRow1 == "1" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listDomination2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listDomination4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Domination" and ndRow1 == "2" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listDomination3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listDomination4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Domination" and ndRow1 == "2" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listDomination2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listDomination3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Domination" and ndRow1 == "3" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listDomination2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listDomination4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Domination" and ndRow1 == "3" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listDomination3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listDomination4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Resolve" and ndRow1 == "1" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listResolve2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listResolve3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Resolve" and ndRow1 == "1" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listResolve2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listResolve4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Resolve" and ndRow1 == "2" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listResolve3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listResolve4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Resolve" and ndRow1 == "2" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listResolve2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listResolve3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Resolve" and ndRow1 == "3" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listResolve2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listResolve4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Resolve" and ndRow1 == "3" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listResolve3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listResolve4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Inspiration" and ndRow1 == "1" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listInspiration2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listInspiration3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Inspiration" and ndRow1 == "1" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listInspiration2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listInspiration4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Inspiration" and ndRow1 == "2" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listInspiration3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listInspiration4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Inspiration" and ndRow1 == "2" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listInspiration2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listInspiration3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Inspiration" and ndRow1 == "3" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listInspiration2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listInspiration4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Inspiration" and ndRow1 == "3" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listInspiration3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listInspiration4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
-    label = tk.Label(text=random.choice(listOffense), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listOffense), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=8, column=3)
-    label = tk.Label(text=random.choice(listFlex), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listFlex), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=9, column=3)
-    label = tk.Label(text=random.choice(listDefense), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listDefense), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=10, column=3)
 
 
 def randomResolve():
-    label = tk.Label(text=random.choice(listResolve1), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listResolve1), height=2, width=18, border=5, bg='#000000', fg='#FFFFFF')
     label.grid(row=7, column=1)
-    label = tk.Label(text=random.choice(listResolve2), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listResolve2), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=8, column=1)
-    label = tk.Label(text=random.choice(listResolve3), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listResolve3), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=9, column=1)
-    label = tk.Label(text=random.choice(listResolve4), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listResolve4), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=10, column=1)
 
-    label = tk.Label(text=None, height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=None, height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=10, column=2)
-    label = tk.Label(text=None, height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=None, height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=9, column=2)
-    label = tk.Label(text=None, height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=None, height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=8, column=2)
 
     listSecond = ["1", "2", "3"]
@@ -642,156 +643,156 @@ def randomResolve():
     ndRow2 = random.choice(listSecond)
 
     if ndPage1 == "Presicion" and ndRow1 == "1" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listPrecision2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listPrecision3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Presicion" and ndRow1 == "1" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listPrecision2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listPrecision4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Presicion" and ndRow1 == "2" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listPrecision3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listPrecision4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Presicion" and ndRow1 == "2" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listPrecision2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listPrecision3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Presicion" and ndRow1 == "3" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listPrecision2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listPrecision4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Presicion" and ndRow1 == "3" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listPrecision3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listPrecision4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Domination" and ndRow1 == "1" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listDomination2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listDomination3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Domination" and ndRow1 == "1" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listDomination2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listDomination4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Domination" and ndRow1 == "2" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listDomination3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listDomination4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Domination" and ndRow1 == "2" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listDomination2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listDomination3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Domination" and ndRow1 == "3" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listDomination2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listDomination4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Domination" and ndRow1 == "3" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listDomination3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listDomination4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Sorcery" and ndRow1 == "1" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listSorcery2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listSorcery3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Sorcery" and ndRow1 == "1" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listSorcery2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listSorcery4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Sorcery" and ndRow1 == "2" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listSorcery3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listSorcery4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Sorcery" and ndRow1 == "2" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listSorcery2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listSorcery3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Sorcery" and ndRow1 == "3" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listSorcery2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listSorcery4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Sorcery" and ndRow1 == "3" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listSorcery3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listSorcery4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Inspiration" and ndRow1 == "1" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listInspiration2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listInspiration3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Inspiration" and ndRow1 == "1" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listInspiration2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listInspiration4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Inspiration" and ndRow1 == "2" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listInspiration3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listInspiration4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Inspiration" and ndRow1 == "2" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listInspiration2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listInspiration3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Inspiration" and ndRow1 == "3" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listInspiration2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listInspiration4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Inspiration" and ndRow1 == "3" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listInspiration3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listInspiration4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listInspiration4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
-    label = tk.Label(text=random.choice(listOffense), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listOffense), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=8, column=3)
-    label = tk.Label(text=random.choice(listFlex), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listFlex), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=9, column=3)
-    label = tk.Label(text=random.choice(listDefense), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listDefense), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=10, column=3)
 
 
 def randomInspiration():
-    label = tk.Label(text=random.choice(listInspiration1), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listInspiration1), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=7, column=1)
-    label = tk.Label(text=random.choice(listInspiration2), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listInspiration2), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=8, column=1)
-    label = tk.Label(text=random.choice(listInspiration3), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listInspiration3), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=9, column=1)
-    label = tk.Label(text=random.choice(listInspiration4), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listInspiration4), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=10, column=1)
 
-    label = tk.Label(text=None, height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=None, height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=10, column=2)
-    label = tk.Label(text=None, height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=None, height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=9, column=2)
-    label = tk.Label(text=None, height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=None, height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=8, column=2)
 
     listSecond = ["1", "2", "3"]
@@ -802,230 +803,242 @@ def randomInspiration():
     ndRow2 = random.choice(listSecond)
 
     if ndPage1 == "Presicion" and ndRow1 == "1" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listPrecision2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listPrecision3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Presicion" and ndRow1 == "1" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listPrecision2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listPrecision4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Presicion" and ndRow1 == "2" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listPrecision3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listPrecision4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Presicion" and ndRow1 == "2" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listPrecision2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listPrecision3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Presicion" and ndRow1 == "3" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listPrecision2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listPrecision4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Presicion" and ndRow1 == "3" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listPrecision3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listPrecision4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listPrecision4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Domination" and ndRow1 == "1" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listDomination2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listDomination3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Domination" and ndRow1 == "1" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listDomination2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listDomination4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Domination" and ndRow1 == "2" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listDomination3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listDomination4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Domination" and ndRow1 == "2" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listDomination2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listDomination3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Domination" and ndRow1 == "3" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listDomination2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listDomination4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Domination" and ndRow1 == "3" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listDomination3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listDomination4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listDomination4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Sorcery" and ndRow1 == "1" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listSorcery2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listSorcery3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Sorcery" and ndRow1 == "1" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listSorcery2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listSorcery4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Sorcery" and ndRow1 == "2" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listSorcery3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listSorcery4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Sorcery" and ndRow1 == "2" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listSorcery2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listSorcery3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Sorcery" and ndRow1 == "3" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listSorcery2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listSorcery4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Sorcery" and ndRow1 == "3" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listSorcery3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listSorcery4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listSorcery4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Resolve" and ndRow1 == "1" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listResolve2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listResolve3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Resolve" and ndRow1 == "1" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listResolve2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listResolve4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Resolve" and ndRow1 == "2" and ndRow2 == "3":
-        label = tk.Label(text=random.choice(listResolve3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listResolve4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
     if ndPage1 == "Resolve" and ndRow1 == "2" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listResolve2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listResolve3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
     if ndPage1 == "Resolve" and ndRow1 == "3" and ndRow2 == "1":
-        label = tk.Label(text=random.choice(listResolve2), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve2), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=8, column=2)
-        label = tk.Label(text=random.choice(listResolve4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
     if ndPage1 == "Resolve" and ndRow1 == "3" and ndRow2 == "2":
-        label = tk.Label(text=random.choice(listResolve3), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve3), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=9, column=2)
-        label = tk.Label(text=random.choice(listResolve4), height=2, width=18, bg="#FFFFFF")
+        label = tk.Label(frame, text=random.choice(listResolve4), height=2, width=18, bg='#000000', fg='#FFFFFF')
         label.grid(row=10, column=2)
 
-    label = tk.Label(text=random.choice(listOffense), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listOffense), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=8, column=3)
-    label = tk.Label(text=random.choice(listFlex), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listFlex), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=9, column=3)
-    label = tk.Label(text=random.choice(listDefense), height=2, width=18, bg="#FFFFFF")
+    label = tk.Label(frame, text=random.choice(listDefense), height=2, width=18, bg='#000000', fg='#FFFFFF')
     label.grid(row=10, column=3)
 
 
 def randomRoles():
     rollen = ["Top", "Jungle", "Mid", "ADC", "Support"]
     role1 = random.choice(rollen)
-    label = tk.Label(text="P1 -> " + role1, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=1, column=2)
+    label = tk.Label(frame, text="P1 -> " + role1, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=8, column=5)
     rollen.remove(role1)
     role2 = random.choice(rollen)
-    label = tk.Label(text="P2 -> " + role2, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=2, column=2)
+    label = tk.Label(frame, text="P2 -> " + role2, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=9, column=5)
     rollen.remove(role2)
     role3 = random.choice(rollen)
-    label = tk.Label(text="P3 -> " + role3, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=3, column=2)
+    label = tk.Label(frame, text="P3 -> " + role3, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=10, column=5)
     rollen.remove(role3)
     role4 = random.choice(rollen)
-    label = tk.Label(text="P4 -> " + role4, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=4, column=2)
+    label = tk.Label(frame, text="P4 -> " + role4, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=11, column=5)
     rollen.remove(role4)
     role5 = random.choice(rollen)
-    label = tk.Label(text="P5 -> " + role5, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=5, column=2)
+    label = tk.Label(frame, text="P5 -> " + role5, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=12, column=5)
     rollen.remove(role5)
 
 
 def randomSkillOrder():
     listSKill = ["Q", "W", "E"]
     skill1 = random.choice(listSKill)
-    label = tk.Label(text="1. " + skill1, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=1, column=3)
+    label = tk.Label(frame, text="1. " + skill1, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=8, column=6)
     listSKill.remove(skill1)
     skill2 = random.choice(listSKill)
-    label = tk.Label(text="2. " + skill2, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=2, column=3)
+    label = tk.Label(frame, text="2. " + skill2, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=9, column=6)
     listSKill.remove(skill2)
     skill3 = random.choice(listSKill)
-    label = tk.Label(text="3. " + skill3, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=3, column=3)
+    label = tk.Label(frame, text="3. " + skill3, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=10, column=6)
     listSKill.remove(skill3)
 
 
 def itemSupport():
     listSupport = ["Knight's Vow", "Chemtech Putrifier", "Staff of Flowing Water", "Mikael's Blessing",
                    "Redemption", "Ardent Censer", "Zeke's Convergence"]
-    label = tk.Label(text="Any Mythic", height=2, width=18, bg="#FFFFFF")
-    label.grid(row=0, column=5)
-    label = tk.Label(text=random.choice(listBoots), height=2, width=18, bg="#FFFFFF")
-    label.grid(row=0, column=6)
+    label = tk.Label(frame, text="Any Mythic", height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=5, column=4)
+    label = tk.Label(frame, text=random.choice(listBoots), height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=5, column=5)
     item1 = random.choice(listSupport)
-    label = tk.Label(text=item1, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=0, column=7)
+    label = tk.Label(frame, text=item1, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=5, column=6)
     listSupport.remove(item1)
     item2 = random.choice(listSupport)
-    label = tk.Label(text=item2, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=0, column=8)
+    label = tk.Label(frame, text=item2, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=5, column=7)
     listSupport.remove(item2)
     item3 = random.choice(listSupport)
-    label = tk.Label(text=item3, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=0, column=9)
+    label = tk.Label(frame, text=item3, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=5, column=8)
     listSupport.remove(item3)
     item4 = random.choice(listSupport)
-    label = tk.Label(text=item4, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=0, column=10)
+    label = tk.Label(frame, text=item4, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=5, column=9)
     listSupport.remove(item4)
+
+    i = 6
+    while i <= 9:
+        line = tk.Frame(frame, height=5, width=138, bg='#7289da')
+        line.grid(row=6, column=i, sticky='w')
+        i += 1
 
 
 def itemAssasin():
     listAssasin = ["Chempunk Chainsword", "Umbral Glaive", "Serpent's Fang", "Maw of Malmortius", "Guardian Angel",
                    "Manamune", "Edge of Night", "Silvermere Dawn", "Youmuu's Ghostblade", "The Collector",
                    "Black Cleaver", "Serylda's Grudge", "Ravenous Hydra"]
-    label = tk.Label(text="Any Mythic", height=2, width=18, bg="#FFFFFF")
-    label.grid(row=1, column=5)
-    label = tk.Label(text=random.choice(listBoots), height=2, width=18, bg="#FFFFFF")
-    label.grid(row=1, column=6)
+    label = tk.Label(frame, text="Any Mythic", height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=2, column=4)
+    label = tk.Label(frame, text=random.choice(listBoots), height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=2, column=5)
     item1 = random.choice(listAssasin)
-    label = tk.Label(text=item1, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=1, column=7)
+    label = tk.Label(frame, text=item1, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=2, column=6)
     listAssasin.remove(item1)
     item2 = random.choice(listAssasin)
-    label = tk.Label(text=item2, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=1, column=8)
+    label = tk.Label(frame, text=item2, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=2, column=7)
     listAssasin.remove(item2)
     item3 = random.choice(listAssasin)
-    label = tk.Label(text=item3, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=1, column=9)
+    label = tk.Label(frame, text=item3, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=2, column=8)
     listAssasin.remove(item3)
     item4 = random.choice(listAssasin)
-    label = tk.Label(text=item4, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=1, column=10)
+    label = tk.Label(frame, text=item4, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=2, column=9)
     listAssasin.remove(item4)
+
+    i = 6
+    while i <= 9:
+        line = tk.Frame(frame, height=5, width=138, bg='#7289da')
+        line.grid(row=6, column=i, sticky='w')
+        i += 1
 
 
 def itemFighter():
@@ -1033,26 +1046,32 @@ def itemFighter():
                    "Hullbreaker", "Guardian Angel", "Manamune", "Dead Man's Plate", "Silvermere Dawn",
                    "Black Cleaver", "Sterak's Gage", "Death's Dance", "Wit's End", "Blade of the Ruined King",
                    "Serylda's Grudge", "Ravenous Hydra", "Titanic Hydra"]
-    label = tk.Label(text="Any Mythic", height=2, width=18, bg="#FFFFFF")
-    label.grid(row=2, column=5)
-    label = tk.Label(text=random.choice(listBoots), height=2, width=18, bg="#FFFFFF")
-    label.grid(row=2, column=6)
+    label = tk.Label(frame, text="Any Mythic", height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=0, column=4)
+    label = tk.Label(frame, text=random.choice(listBoots), height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=0, column=5)
     item1 = random.choice(listFighter)
-    label = tk.Label(text=item1, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=2, column=7)
+    label = tk.Label(frame, text=item1, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=0, column=6)
     listFighter.remove(item1)
     item2 = random.choice(listFighter)
-    label = tk.Label(text=item2, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=2, column=8)
+    label = tk.Label(frame, text=item2, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=0, column=7)
     listFighter.remove(item2)
     item3 = random.choice(listFighter)
-    label = tk.Label(text=item3, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=2, column=9)
+    label = tk.Label(frame, text=item3, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=0, column=8)
     listFighter.remove(item3)
     item4 = random.choice(listFighter)
-    label = tk.Label(text=item4, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=2, column=10)
+    label = tk.Label(frame, text=item4, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=0, column=9)
     listFighter.remove(item4)
+
+    i = 6
+    while i <= 9:
+        line = tk.Frame(frame, height=5, width=138, bg='#7289da')
+        line.grid(row=6, column=i, sticky='w')
+        i += 1
 
 
 def itemMarksman():
@@ -1061,146 +1080,179 @@ def itemMarksman():
                     "Guardian Angel", "Manamune",
                     "Lord Dominik's Regards", "Mercurial Scimitar", "The Collector", "Blade of the Ruined King",
                     "Serylda's Grudge", "Infinity Edge", "Navori Quickblades", "Bloodthirster"]
-    label = tk.Label(text="Any Mythic", height=2, width=18, bg="#FFFFFF")
-    label.grid(row=3, column=5)
-    label = tk.Label(text=random.choice(listBoots), height=2, width=18, bg="#FFFFFF")
-    label.grid(row=3, column=6)
+    label = tk.Label(frame, text="Any Mythic", height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=4, column=4)
+    label = tk.Label(frame, text=random.choice(listBoots), height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=4, column=5)
     item1 = random.choice(listMarksman)
-    label = tk.Label(text=item1, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=3, column=7)
+    label = tk.Label(frame, text=item1, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=4, column=6)
     listMarksman.remove(item1)
     item2 = random.choice(listMarksman)
-    label = tk.Label(text=item2, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=3, column=8)
+    label = tk.Label(frame, text=item2, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=4, column=7)
     listMarksman.remove(item2)
     item3 = random.choice(listMarksman)
-    label = tk.Label(text=item3, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=3, column=9)
+    label = tk.Label(frame, text=item3, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=4, column=8)
     listMarksman.remove(item3)
     item4 = random.choice(listMarksman)
-    label = tk.Label(text=item4, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=3, column=10)
+    label = tk.Label(frame, text=item4, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=4, column=9)
     listMarksman.remove(item4)
+
+    i = 6
+    while i <= 9:
+        line = tk.Frame(frame, height=5, width=138, bg='#7289da')
+        line.grid(row=6, column=i, sticky='w')
+        i += 1
 
 
 def itemTank():
     listTank = ["Knight's Vow", "Zeke's Convergence", "Frozen Heart", "Anathema's Chains", "Randuin's Omen",
                 "Thornmail", "Abyssal Mask", "Spirit Visage", "Dead Man's Plate", "Force of Nature", "Warmog's Armor",
                 "Sterak's Gage", "Gargoyle Stoneplate", "Titanic Hydra"]
-    label = tk.Label(text="Any Mythic", height=2, width=18, bg="#FFFFFF")
-    label.grid(row=4, column=5)
-    label = tk.Label(text=random.choice(listBoots), height=2, width=18, bg="#FFFFFF")
-    label.grid(row=4, column=6)
+    label = tk.Label(frame, text="Any Mythic", height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=1, column=4)
+    label = tk.Label(frame, text=random.choice(listBoots), height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=1, column=5)
     item1 = random.choice(listTank)
-    label = tk.Label(text=item1, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=4, column=7)
+    label = tk.Label(frame, text=item1, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=1, column=6)
     listTank.remove(item1)
     item2 = random.choice(listTank)
-    label = tk.Label(text=item2, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=4, column=8)
+    label = tk.Label(frame, text=item2, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=1, column=7)
     listTank.remove(item2)
     item3 = random.choice(listTank)
-    label = tk.Label(text=item3, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=4, column=9)
+    label = tk.Label(frame, text=item3, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=1, column=8)
     listTank.remove(item3)
     item4 = random.choice(listTank)
-    label = tk.Label(text=item4, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=4, column=10)
+    label = tk.Label(frame, text=item4, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=1, column=9)
     listTank.remove(item4)
+
+    i = 6
+    while i <= 9:
+        line = tk.Frame(frame, height=5, width=138, bg='#7289da')
+        line.grid(row=6, column=i, sticky='w')
+        i += 1
 
 
 def itemMage():
     listMage = ["Mejai's Soulstealer", "Morellonomicon", "Zhonyas's Hourglass", "Banshee's Veil", "Void Staff",
                 "Nashor's Tooth", "Rylai's Crystal Scepter", "Horizon Focus", "Cosmic Drive", "Demonic Embrace",
                 "Lich Bane", "Archangel'S Staff", "Rabadon's Deathcap"]
-    label = tk.Label(text="Any Mythic", height=2, width=18, bg="#FFFFFF")
-    label.grid(row=5, column=5)
-    label = tk.Label(text=random.choice(listBoots), height=2, width=18, bg="#FFFFFF")
-    label.grid(row=5, column=6)
+    label = tk.Label(frame, text="Any Mythic", height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=3, column=4)
+    label = tk.Label(frame, text=random.choice(listBoots), height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=3, column=5)
     item1 = random.choice(listMage)
-    label = tk.Label(text=item1, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=5, column=7)
+    label = tk.Label(frame, text=item1, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=3, column=6)
     listMage.remove(item1)
     item2 = random.choice(listMage)
-    label = tk.Label(text=item2, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=5, column=8)
+    label = tk.Label(frame, text=item2, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=3, column=7)
     listMage.remove(item2)
     item3 = random.choice(listMage)
-    label = tk.Label(text=item3, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=5, column=9)
+    label = tk.Label(frame, text=item3, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=3, column=8)
     listMage.remove(item3)
     item4 = random.choice(listMage)
-    label = tk.Label(text=item4, height=2, width=18, bg="#FFFFFF")
-    label.grid(row=5, column=10)
+    label = tk.Label(frame, text=item4, height=2, width=18, bg='#000000', fg='#FFFFFF')
+    label.grid(row=3, column=9)
     listMage.remove(item4)
+
+    i = 6
+    while i <= 9:
+        line = tk.Frame(frame, height=5, width=138, bg='#7289da')
+        line.grid(row=6, column=i, sticky='w')
+        i += 1
 
 
 # GUI
-randChamp = tk.Button(text="All Champions", padx=5, pady=5, fg="white", bg="#23272a", command=randomChamp)
+frame = tk.Frame(bg='#23272a')
+frame.grid()
+randChamp = tk.Button(frame, text="All Champions", padx=5, pady=5, fg="white", bg='#2c2f33', command=randomChamp)
 randChamp.grid(row=0, column=0, padx='5', pady='5', sticky='ew')
 
-restart = tk.Button(text="Restart", padx=5, pady=5, fg="white", bg="#23272a", command=restartProgram)
+restart = tk.Button(frame, text="Restart", padx=5, pady=5, fg="white", bg='#2c2f33', command=restartProgram)
 restart.grid(row=12, column=0, padx='5', pady='5', sticky='ew')
 
-randTop = tk.Button(text="Toplaner", padx=5, pady=5, fg="white", bg="#23272a", command=randomTop)
+randTop = tk.Button(frame, text="Toplaner", padx=5, pady=5, fg="white", bg='#2c2f33', command=randomTop)
 randTop.grid(row=1, column=0, padx='5', pady='5', sticky='ew')
 
-randJgl = tk.Button(text="Jungler", padx=5, pady=5, fg="white", bg="#23272a", command=randomJungle)
+randJgl = tk.Button(frame, text="Jungler", padx=5, pady=5, fg="white", bg='#2c2f33', command=randomJungle)
 randJgl.grid(row=2, column=0, padx='5', pady='5', sticky='ew')
 
-randMid = tk.Button(text="Midlaner", padx=5, pady=5, fg="white", bg="#23272a", command=randomMid)
+randMid = tk.Button(frame, text="Midlaner", padx=5, pady=5, fg="white", bg='#2c2f33', command=randomMid)
 randMid.grid(row=3, column=0, padx='5', pady='5', sticky='ew')
 
-randBot = tk.Button(text="ADC", padx=5, pady=5, fg="white", bg="#23272a", command=randomBottom)
+randBot = tk.Button(frame, text="ADC", padx=5, pady=5, fg="white", bg='#2c2f33', command=randomBottom)
 randBot.grid(row=4, column=0, padx='5', pady='5', sticky='ew')
 
-randSup = tk.Button(text="Supporter", padx=5, pady=5, fg="white", bg="#23272a", command=randomSupporter)
+randSup = tk.Button(frame, text="Supporter", padx=5, pady=5, fg="white", bg='#2c2f33', command=randomSupporter)
 randSup.grid(row=5, column=0, padx='5', pady='5', sticky='ew')
 
-# Blauer horizontaler Strich, i <= Anzahl Spalten
-i = 0
-while i <= 4:
-    frame = tk.Frame(height=5, width=132, bg="#7289da")
-    frame.grid(row=6, column=i, sticky='nw')
-    i += 1
-
-randPre = tk.Button(text="Precision Runes", padx=5, pady=5, fg="white", bg="#23272a", command=randomPresicion)
+randPre = tk.Button(frame, text="Precision Runes", padx=5, pady=5, fg="white", bg='#2c2f33', command=randomPresicion)
 randPre.grid(row=7, column=0, padx='5', pady='5', sticky='ew')
 
-randDom = tk.Button(text="Domination Runes", padx=5, pady=5, fg="white", bg="#23272a", command=randomDomination)
+randDom = tk.Button(frame, text="Domination Runes", padx=5, pady=5, fg="white", bg='#2c2f33', command=randomDomination)
 randDom.grid(row=8, column=0, padx='5', pady='5', sticky='ew')
 
-randSor = tk.Button(text="Sorcery Runes", padx=5, pady=5, fg="white", bg="#23272a", command=randomSorcery)
+randSor = tk.Button(frame, text="Sorcery Runes", padx=5, pady=5, fg="white", bg='#2c2f33', command=randomSorcery)
 randSor.grid(row=9, column=0, padx='5', pady='5', sticky='ew')
 
-randRes = tk.Button(text="Resolve Runes", padx=5, pady=5, fg="white", bg="#23272a", command=randomResolve)
+randRes = tk.Button(frame, text="Resolve Runes", padx=5, pady=5, fg="white", bg='#2c2f33', command=randomResolve)
 randRes.grid(row=10, column=0, padx='5', pady='5', sticky='ew')
 
-randIns = tk.Button(text="Inspiration Runes", padx=5, pady=5, fg="white", bg="#23272a", command=randomInspiration)
+randIns = tk.Button(frame, text="Inspiration Runes", padx=5, pady=5, fg="white", bg='#2c2f33',
+                    command=randomInspiration)
 randIns.grid(row=11, column=0, padx='5', pady='5', sticky='ew')
 
-randRoles = tk.Button(text="Roles", padx="5", pady="5", fg="white", bg="#23272a", command=randomRoles)
-randRoles.grid(row=0, column=2, padx='5', pady='5', sticky='ew')
+randRoles = tk.Button(frame, text="Roles", padx="5", pady="5", fg="white", bg='#2c2f33', command=randomRoles)
+randRoles.grid(row=7, column=5, padx='5', pady='5', sticky='ew')
 
-randSkillOrder = tk.Button(text="Skill Order", padx="5", pady="5", fg="white", bg="#23272a", command=randomSkillOrder)
-randSkillOrder.grid(row=0, column=3, padx='5', pady='5', sticky='ew')
+randSkillOrder = tk.Button(frame, text="Skill Order", padx="5", pady="5", fg="white", bg='#2c2f33',
+                           command=randomSkillOrder)
+randSkillOrder.grid(row=7, column=6, padx='5', pady='5', sticky='ew')
 
-randSupport = tk.Button(text="Support", padx="5", pady="5", fg="white", bg="#23272a", command=itemSupport)
-randSupport.grid(row=0, column=4, padx='5', pady='5', sticky='ew')
+randSupport = tk.Button(frame, text="Support", padx="5", pady="5", fg="white", bg='#2c2f33', command=itemSupport)
+randSupport.grid(row=5, column=3, padx='5', pady='5', sticky='ew')
 
-randAssasin = tk.Button(text="Assasin", padx="5", pady="5", fg="white", bg="#23272a", command=itemAssasin)
-randAssasin.grid(row=1, column=4, padx='5', pady='5', sticky='ew')
+randAssasin = tk.Button(frame, text="Assasin", padx="5", pady="5", fg="white", bg='#2c2f33', command=itemAssasin)
+randAssasin.grid(row=2, column=3, padx='5', pady='5', sticky='ew')
 
-randFighter = tk.Button(text="Fighter", padx="5", pady="5", fg="white", bg="#23272a", command=itemFighter)
-randFighter.grid(row=2, column=4, padx='5', pady='5', sticky='ew')
+randFighter = tk.Button(frame, text="Fighter", padx="5", pady="5", fg="white", bg='#2c2f33', command=itemFighter)
+randFighter.grid(row=0, column=3, padx='5', pady='5', sticky='ew')
 
-randMarksman = tk.Button(text="Marksman", padx="5", pady="5", fg="white", bg="#23272a", command=itemMarksman)
-randMarksman.grid(row=3, column=4, padx='5', pady='5', sticky='ew')
+randMarksman = tk.Button(frame, text="Marksman", padx="5", pady="5", fg="white", bg='#2c2f33', command=itemMarksman)
+randMarksman.grid(row=4, column=3, padx='5', pady='5', sticky='ew')
 
-randTank = tk.Button(text="Tank", padx="5", pady="5", fg="white", bg="#23272a", command=itemTank)
-randTank.grid(row=4, column=4, padx='5', pady='5', sticky='ew')
+randTank = tk.Button(frame, text="Tank", padx="5", pady="5", fg="white", bg='#2c2f33', command=itemTank)
+randTank.grid(row=1, column=3, padx='5', pady='5', sticky='ew')
 
-randMage = tk.Button(text="Mage", padx="5", pady="5", fg="white", bg="#23272a", command=itemMage)
-randMage.grid(row=5, column=4, padx='5', pady='5', sticky='ew')
+randMage = tk.Button(frame, text="Mage", padx="5", pady="5", fg="white", bg='#2c2f33', command=itemMage)
+randMage.grid(row=3, column=3, padx='5', pady='5', sticky='ew')
+
+i = 0
+while i <= 6:
+    line = tk.Frame(frame, height=5, width=138, bg='#7289da')
+    line.grid(row=6, column=i, sticky='w')
+    i += 1
+
+j = 0
+while j <= 5:
+    line = tk.Frame(frame, height=44, width=5, bg='#7289da')
+    line.grid(row=j, column=2, sticky='n')
+    j += 1
+
+k = 7
+while k <= 12:
+    line = tk.Frame(frame, height=44, width=5, bg='#7289da')
+    line.grid(row=k, column=4, sticky='n')
+    k += 1
 
 root.mainloop()
