@@ -1,4 +1,6 @@
-# macht des, ist geil :)
+import math
+
+
 def prob1():
     sum = 0
     for x in range(1000):
@@ -28,3 +30,19 @@ def prob3():
             sum = sum / test
         test = test + 1
     print("Problem 3: " + str(sum))
+
+
+def prob4():
+    sum = 0
+    for first in range(100, 1000):
+        for second in range(100, 1000):
+            num = first * second
+            num2 = (num % 10) * 100000
+            num2 += math.floor(num % 100 / 10) * 10000
+            num2 += math.floor(num % 1000 / 100) * 1000
+            num2 += math.floor(num % 10000 / 1000) * 100
+            num2 += math.floor(num % 100000 / 10000) * 10
+            num2 += math.floor(num % 1000000 / 100000)
+            if num == num2 and sum < num:
+                sum = num
+    print(sum)
