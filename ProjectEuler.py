@@ -47,6 +47,7 @@ def prob4():
                 sum = num
     print(sum)
 
+
 def prob5():
     num = 2520
     sum = num
@@ -61,4 +62,33 @@ def prob5():
             sum += 20
     print(num)
 
+
 def prob6():
+    first = 0
+    second = 0
+    for x in range(1, 101):
+        first += x
+        second += x * x
+    first = first * first
+    sum = first - second
+    print(sum)
+
+
+def prob7():
+    count = 6
+    prime = 13
+    x = prime
+    while count < 10001:
+        x += 2
+        test = True
+        for i in range(2, x):
+            if x % i == 0:
+                test = False
+        if test:
+            prime = x
+            count += 1
+    print(prime)
+
+
+def prob8():
+    pass
