@@ -1,6 +1,20 @@
 import math
 
 
+def is_prime(n):
+    if n == 2:
+        return True
+    if n % 2 == 0 or n <= 1:
+        return False
+
+    sqr = int(math.sqrt(n)) + 1
+
+    for divisor in range(3, sqr, 2):
+        if n % divisor == 0:
+            return False
+    return True
+
+
 def prob1():
     sum = 0
     for x in range(1000):
@@ -113,3 +127,11 @@ def prob9():
                         a = 1000
                         b = 1000
                         c = 1000
+
+
+def prob10():
+    sum = 17
+    for x in range(9, 2000000, 2):
+        if is_prime(x):
+            sum += x
+    print(sum)
