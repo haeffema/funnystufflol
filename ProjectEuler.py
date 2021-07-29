@@ -101,3 +101,6 @@ def prob8():
         if test > sum:
             sum = test
     print(sum)
+
+
+def prob9():
