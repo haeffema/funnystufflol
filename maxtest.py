@@ -11,3 +11,4 @@ while count < 501:
     if count > 500:
         print(num)
     count = 0
+# oder 13 machen, also mal schaeun worauf du bock hast hihi
