@@ -135,3 +135,18 @@ def prob10():
         if is_prime(x):
             sum += x
     print(sum)
+
+def prob11():
+    pass
+
+def prob25():
+    index = 1
+    count = 1
+    zw = 0
+    safe = 0
+    while count < 10 ** 999:
+        zw = safe
+        safe = count
+        count = safe + zw
+        index += 1
+    print(index)

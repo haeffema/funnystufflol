@@ -1,14 +1,12 @@
-num = 1
-add = 2
-count = 0
-while count < 501:
-    num += add
-    add += 1
-    for x in range(1, num):
-        if num % x == 0:
-            count += 1
-            break
-    if count > 500:
-        print(num)
-    count = 0
-# oder 13 machen, also mal schaeun worauf du bock hast hihi
+num = 2520
+sum = num
+test = 0
+while num == 2520:
+    for i in range(1, 21):
+        test += sum % i
+    if test == 0:
+        num = sum
+    else:
+        test = 0
+        sum += 20
+print(num)
