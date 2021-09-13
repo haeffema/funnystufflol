@@ -150,3 +150,12 @@ def prob25():
         count = safe + zw
         index += 1
     print(index)
+
+def prob48():
+    sum = 0
+    for num in range(1, 1001):
+        sum += num ** num
+
+    number = str(sum)
+    for x in range(10):
+        print(number[len(number) - 10 + x])
