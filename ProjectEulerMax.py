@@ -137,7 +137,7 @@ def prob10():
     print(sum)
 
 
-def prob11():
+def prob22():
     text = ["MARY", "PATRICIA", "LINDA", "BARBARA", "ELIZABETH", "JENNIFER", "MARIA", "SUSAN", "MARGARET", "DOROTHY",
             "LISA", "NANCY", "KAREN", "BETTY", "HELEN", "SANDRA", "DONNA", "CAROL", "RUTH", "SHARON", "MICHELLE",
             "LAURA",
@@ -814,6 +814,28 @@ def prob25():
         count = safe + zw
         index += 1
     print(index)
+
+
+def prob46():
+    num = 31
+    test = True
+
+    while test:
+        zw = True
+        num += 2
+        if is_prime(num):
+            pass
+        else:
+            for div in range(num):
+                prime = num - div
+                if is_prime(prime):
+                    for multi in range(num):
+                        if prime + 2 * multi ** 2 == num:
+                            zw = False
+                            break
+            if zw:
+                test = False
+    print(num)
 
 
 def prob48():
