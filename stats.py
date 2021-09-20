@@ -10,6 +10,6 @@ class Stats(object):
 # TODO: Stats je nach Level des Pokemon ausrechnen
 
 # implementation
-GengarBase = Stats(261, 149, 156, 359, 187, 350)
-DragoranBase = Stats(323, 367, 226, 212, 237, 284)
+GengarBase = Stats(261, 166, 156, 296, 186, 256)
+DragoranBase = Stats(323, 304, 226, 236, 236, 196)
 TestStats = Stats(1, 1, 1, 1, 1, 1)
