@@ -14,9 +14,9 @@ def damage_calc(move, attacker, defender):
     STAB = 1
     if attacker.firstType == move.type or attacker.secondType == move.type:
         STAB = 1.5
-    damagelow = e * STAB * TYPE * 0.85
-    damagemax = e * STAB * TYPE
-    print(f'Min Damage: {damagelow/defender.stats.hp * 100}%')
-    print(f'Max Damage: {damagemax/defender.stats.hp * 100}%')
+    damagelow = round(e * STAB * TYPE * 0.85)
+    damagemax = round(e * STAB * TYPE)
+    print(f'Min Damage: {round(damagelow/defender.stats.hp * 100, 1)}%, {damagelow} hp')
+    print(f'Max Damage: {round(damagemax/defender.stats.hp * 100, 1)}%, {damagemax} hp')
 
 damage_calc(moves.ShadowBall, pokemon.Gengar, pokemon.Dragoran)

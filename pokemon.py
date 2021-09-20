@@ -32,6 +32,6 @@ class Pokemon(object):
     # implementation
 
 
-Gengar = Pokemon("Gengar", type.Ghost, type.Poison, stats.GengarBase, 100)
+Gengar = Pokemon("Gengar", type.Ghost, type.Poison, stats.Stats(261, 166, 156, 296, 186, 256), 100)
 Dragoran = Pokemon("Dragoran", type.Dragon, type.Flying, stats.DragoranBase, 100)
 Test = Pokemon("Test", type.Normal, NoType, stats.TestStats, 1)
