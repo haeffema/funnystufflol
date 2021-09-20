@@ -29,6 +29,13 @@ class Pokemon(object):
         damagemin = damagemax * 0.85
         print(str(round(damagemin / self.stats.hp * 100, 1)) + "% - " + str(round(damagemax / self.stats.hp * 100, 1)) + "%")
 
+    def safe_in_txt(self, txt):
+        datei = open(txt, 'a')
+        datei.write(f'{self.name}: {self.firstType.name}, {self.secondType.name}, {self.stats.hp}, {self.stats.physattack}, {self.stats.physdef}, {self.stats.spezattack}, {self.stats.spezdef}, {self.stats.speed}, {self.level}')
+        print(f'{self.name}: {self.firstType.name}, {self.secondType.name}, {self.stats.hp}, {self.stats.physattack}, {self.stats.physdef}, {self.stats.spezattack}, {self.stats.spezdef}, {self.stats.speed}, {self.level}')
+        datei.close()
+
+
     # implementation
 
 
@@ -36,4 +43,4 @@ Gengar = Pokemon("Gengar", type.Ghost, type.Poison, stats.Stats(261, 166, 156, 2
 Dragoran = Pokemon("Dragoran", type.Dragon, type.Flying, stats.DragoranBase, 100)
 Test = Pokemon("Test", type.Normal, NoType, stats.TestStats, 1)
 
-Dragoran.calculate_damage(moves.ShadowBall, Gengar)
+Test.safe_in_txt('test.txt')
