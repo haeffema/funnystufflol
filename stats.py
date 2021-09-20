@@ -7,6 +7,7 @@ class Stats(object):
         self.spezdef = spezdef
         self.speed = speed
 
+# TODO: Stats je nach Level des Pokemon ausrechnen
 
 # implementation
 GengarBase = Stats(261, 149, 156, 359, 187, 350)
