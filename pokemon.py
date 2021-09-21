@@ -31,7 +31,7 @@ class Pokemon(object):
 
     def safe_in_txt(self, txt):
         datei = open(txt, 'a')
-        if self.secondType != None:
+        if self.secondType != NoType:
             datei.write(f' {self.name}: {self.firstType.name}, {self.secondType.name},\n {self.stats.hp}, {self.stats.physattack}, {self.stats.physdef}, {self.stats.spezattack}, {self.stats.spezdef}, {self.stats.speed}, {self.level}\n')
             print(f'{self.name}: {self.firstType.name}, {self.secondType.name},\n {self.stats.hp}, {self.stats.physattack}, {self.stats.physdef}, {self.stats.spezattack}, {self.stats.spezdef}, {self.stats.speed}, {self.level}\n')
         else:
@@ -48,3 +48,4 @@ Dragoran = Pokemon("Dragoran", type.Dragon, type.Flying, stats.DragoranBase, 100
 Test = Pokemon("Test", type.Normal, NoType, stats.TestStats, 1)
 
 Test.safe_in_txt('test.txt')
+Gengar.safe_in_txt('test.txt')
