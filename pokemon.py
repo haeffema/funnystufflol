@@ -39,6 +39,7 @@ class Pokemon(object):
             print(f'{self.name}: {self.firstType.name},\n {self.stats.hp}, {self.stats.physattack}, {self.stats.physdef}, {self.stats.spezattack}, {self.stats.spezdef}, {self.stats.speed}, {self.level}\n')
         datei.close()
 
+    # TODO: pokemon aus txt erstellen
 
     # implementation
 
