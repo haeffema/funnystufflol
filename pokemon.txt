@@ -2881,3 +2881,10 @@
  Zigzagoon-Galar: 
  Dark, Normal,
  38, at: 30, df: 41, sa: 30, sd: 41, sp: 60 
+
+asdas
+dasd
+asdasas
+d#a
+sd#
+as#dasd
