@@ -1,6 +1,5 @@
 datei = open('pokemon.txt', 'r', encoding='UTF-8')
 Text = ""
-counter = 0
 for zeile in datei:
     Text += zeile
 datei.close()
