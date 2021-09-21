@@ -31,8 +31,12 @@ class Pokemon(object):
 
     def safe_in_txt(self, txt):
         datei = open(txt, 'a')
-        datei.write(f'{self.name}: {self.firstType.name}, {self.secondType.name}, {self.stats.hp}, {self.stats.physattack}, {self.stats.physdef}, {self.stats.spezattack}, {self.stats.spezdef}, {self.stats.speed}, {self.level}')
-        print(f'{self.name}: {self.firstType.name}, {self.secondType.name}, {self.stats.hp}, {self.stats.physattack}, {self.stats.physdef}, {self.stats.spezattack}, {self.stats.spezdef}, {self.stats.speed}, {self.level}')
+        if self.secondType != None:
+            datei.write(f' {self.name}: {self.firstType.name}, {self.secondType.name},\n {self.stats.hp}, {self.stats.physattack}, {self.stats.physdef}, {self.stats.spezattack}, {self.stats.spezdef}, {self.stats.speed}, {self.level}\n')
+            print(f'{self.name}: {self.firstType.name}, {self.secondType.name},\n {self.stats.hp}, {self.stats.physattack}, {self.stats.physdef}, {self.stats.spezattack}, {self.stats.spezdef}, {self.stats.speed}, {self.level}\n')
+        else:
+            datei.write(f' {self.name}: {self.firstType.name},\n {self.stats.hp}, {self.stats.physattack}, {self.stats.physdef}, {self.stats.spezattack}, {self.stats.spezdef}, {self.stats.speed}, {self.level}\n')
+            print(f'{self.name}: {self.firstType.name},\n {self.stats.hp}, {self.stats.physattack}, {self.stats.physdef}, {self.stats.spezattack}, {self.stats.spezdef}, {self.stats.speed}, {self.level}\n')
         datei.close()
 
 

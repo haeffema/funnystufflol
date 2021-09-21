@@ -1,3842 +1,2883 @@
- Anorith: 
- Rock, Bug,
- 45, at: 95, df: 50, sa: 40, sd: 50, sp: 75 
-  Armaldo:  Rock, Bug,
- 75, at: 125, df: 100, sa: 70, sd: 80, sp: 45 
- 
- Aron: 
- Steel, Rock,
- 50, at: 70, df: 100, sa: 40, sd: 40, sp: 30 
- 
- Azurill: 
- Normal,
- 50, at: 20, df: 40, sa: 20, sd: 40, sp: 20 
- 
- Bagon: 
- Dragon,
- 45, at: 75, df: 60, sa: 40, sd: 30, sp: 50 
- 
- Baltoy: 
- Ground, Psychic,
- 40, at: 40, df: 55, sa: 40, sd: 70, sp: 55 
- 
- Banette: 
- Ghost,
- 64, at: 115, df: 65, sa: 83, sd: 63, sp: 65 
- 
- Barboach: 
- Water, Ground,
- 50, at: 48, df: 43, sa: 46, sd: 41, sp: 60 
- 
- Beautifly: 
- Bug, Flying,
- 60, at: 70, df: 50, sa: 90, sd: 50, sp: 65 
- 
- Beldum: 
- Steel, Psychic,
- 40, at: 55, df: 80, sa: 35, sd: 60, sp: 30 
- 
- Blaziken: 
- Fire, Fighting,
- 80, at: 120, df: 70, sa: 110, sd: 70, sp: 80 
- 
- Breloom: 
- Grass, Fighting,
- 60, at: 130, df: 80, sa: 60, sd: 60, sp: 70 
- 
- Cacnea: 
- Grass,
- 50, at: 85, df: 40, sa: 85, sd: 40, sp: 35 
- 
- Cacturne: 
- Grass, Dark,
- 70, at: 115, df: 60, sa: 115, sd: 60, sp: 55 
- 
- Camerupt: 
- Fire, Ground,
- 70, at: 100, df: 70, sa: 105, sd: 75, sp: 40 
- 
- Carvanha: 
- Water, Dark,
- 45, at: 90, df: 20, sa: 65, sd: 20, sp: 65 
- 
- Cascoon: 
- Bug,
- 50, at: 35, df: 55, sa: 25, sd: 25, sp: 15 
- 
- Castform: 
- Normal,
- 70, at: 70, df: 70, sa: 70, sd: 70, sp: 70 
- 
- Castform-Rainy: 
- Water,
- 70, at: 70, df: 70, sa: 70, sd: 70, sp: 70 
- 
- Castform-Snowy: 
- Ice,
- 70, at: 70, df: 70, sa: 70, sd: 70, sp: 70 
- 
- Castform-Sunny: 
- Fire,
- 70, at: 70, df: 70, sa: 70, sd: 70, sp: 70 
- 
- Chimecho: 
- Psychic,
- 65, at: 50, df: 70, sa: 95, sd: 80, sp: 65 
- 
- Clamperl: 
- Water,
- 35, at: 64, df: 85, sa: 74, sd: 55, sp: 32 
- 
- Claydol: 
- Ground, Psychic,
- 60, at: 70, df: 105, sa: 70, sd: 120, sp: 75 
- 
- Combusken: 
- Fire, Fighting,
- 60, at: 85, df: 60, sa: 85, sd: 60, sp: 55 
- 
- Corphish: 
- Water,
- 43, at: 80, df: 65, sa: 50, sd: 35, sp: 35 
- 
- Cradily: 
- Rock, Grass,
- 86, at: 81, df: 97, sa: 81, sd: 107, sp: 43 
- 
- Crawdaunt: 
- Water, Dark,
- 63, at: 120, df: 85, sa: 90, sd: 55, sp: 55 
- 
- Delcatty: 
- Normal,
- 70, at: 65, df: 65, sa: 55, sd: 55, sp: 70 
- 
- Deoxys: 
- Psychic,
- 50, at: 150, df: 50, sa: 150, sd: 50, sp: 150 
- 
- Deoxys-Attack: 
- Psychic,
- 50, at: 180, df: 20, sa: 180, sd: 20, sp: 150 
- 
- Deoxys-Defense: 
- Psychic,
- 50, at: 70, df: 160, sa: 70, sd: 160, sp: 90 
- 
- Deoxys-Speed: 
- Psychic,
- 50, at: 95, df: 90, sa: 95, sd: 90, sp: 180 
- 
- Dusclops: 
- Ghost,
- 40, at: 70, df: 130, sa: 60, sd: 130, sp: 25 
- 
- Duskull: 
- Ghost,
- 20, at: 40, df: 90, sa: 30, sd: 90, sp: 25 
- 
- Dustox: 
- Bug, Poison,
- 60, at: 50, df: 70, sa: 50, sd: 90, sp: 65 
- 
- Electrike: 
- Electric,
- 40, at: 45, df: 40, sa: 65, sd: 40, sp: 65 
- 
- Exploud: 
- Normal,
- 104, at: 91, df: 63, sa: 91, sd: 63, sp: 68 
- 
- Feebas: 
- Water,
- 20, at: 15, df: 20, sa: 10, sd: 55, sp: 80 
- 
- Flygon: 
- Ground, Dragon,
- 80, at: 100, df: 80, sa: 80, sd: 80, sp: 100 
- 
- Gardevoir: 
- Psychic,
- 68, at: 65, df: 65, sa: 125, sd: 115, sp: 80 
- 
- Glalie: 
- Ice,
- 80, at: 80, df: 80, sa: 80, sd: 80, sp: 80 
- 
- Gorebyss: 
- Water,
- 55, at: 84, df: 105, sa: 114, sd: 75, sp: 52 
- 
- Groudon: 
- Ground,
- 100, at: 150, df: 140, sa: 100, sd: 90, sp: 90 
- 
- Grovyle: 
- Grass,
- 50, at: 65, df: 45, sa: 85, sd: 65, sp: 95 
- 
- Grumpig: 
- Psychic,
- 80, at: 45, df: 65, sa: 90, sd: 110, sp: 80 
- 
- Gulpin: 
- Poison,
- 70, at: 43, df: 53, sa: 43, sd: 53, sp: 40 
- 
- Hariyama: 
- Fighting,
- 144, at: 120, df: 60, sa: 40, sd: 60, sp: 50 
- 
- Huntail: 
- Water,
- 55, at: 104, df: 105, sa: 94, sd: 75, sp: 52 
- 
- Illumise: 
- Bug,
- 65, at: 47, df: 55, sa: 73, sd: 75, sp: 85 
- 
- Jirachi: 
- Steel, Psychic,
- 100, at: 100, df: 100, sa: 100, sd: 100, sp: 100 
- 
- Kecleon: 
- Normal,
- 60, at: 90, df: 70, sa: 60, sd: 120, sp: 40 
- 
- Kirlia: 
- Psychic,
- 38, at: 35, df: 35, sa: 65, sd: 55, sp: 50 
- 
- Kyogre: 
- Water,
- 100, at: 100, df: 90, sa: 150, sd: 140, sp: 90 
- 
- Lairon: 
- Steel, Rock,
- 60, at: 90, df: 140, sa: 50, sd: 50, sp: 40 
- 
- Latias: 
- Dragon, Psychic,
- 80, at: 80, df: 90, sa: 110, sd: 130, sp: 110 
- 
- Latios: 
- Dragon, Psychic,
- 80, at: 90, df: 80, sa: 130, sd: 110, sp: 110 
- 
- Lileep: 
- Rock, Grass,
- 66, at: 41, df: 77, sa: 61, sd: 87, sp: 23 
- 
- Linoone: 
- Normal,
- 78, at: 70, df: 61, sa: 50, sd: 61, sp: 100 
- 
- Lombre: 
- Water, Grass,
- 60, at: 50, df: 50, sa: 60, sd: 70, sp: 50 
- 
- Lotad: 
- Water, Grass,
- 40, at: 30, df: 30, sa: 40, sd: 50, sp: 30 
- 
- Loudred: 
- Normal,
- 84, at: 71, df: 43, sa: 71, sd: 43, sp: 48 
- 
- Ludicolo: 
- Water, Grass,
- 80, at: 70, df: 70, sa: 90, sd: 100, sp: 70 
- 
- Lunatone: 
- Rock, Psychic,
- 70, at: 55, df: 65, sa: 95, sd: 85, sp: 70 
- 
- Luvdisc: 
- Water,
- 43, at: 30, df: 55, sa: 40, sd: 65, sp: 97 
- 
- Makuhita: 
- Fighting,
- 72, at: 60, df: 30, sa: 20, sd: 30, sp: 25 
- 
- Manectric: 
- Electric,
- 70, at: 75, df: 60, sa: 105, sd: 60, sp: 105 
- 
- Marshtomp: 
- Water, Ground,
- 70, at: 85, df: 70, sa: 60, sd: 70, sp: 50 
- 
- Masquerain: 
- Bug, Flying,
- 70, at: 60, df: 62, sa: 80, sd: 82, sp: 60 
- 
- Mawile: 
- Steel,
- 50, at: 85, df: 85, sa: 55, sd: 55, sp: 50 
- 
- Medicham: 
- Fighting, Psychic,
- 60, at: 60, df: 75, sa: 60, sd: 75, sp: 80 
- 
- Meditite: 
- Fighting, Psychic,
- 30, at: 40, df: 55, sa: 40, sd: 55, sp: 60 
- 
- Metagross: 
- Steel, Psychic,
- 80, at: 135, df: 130, sa: 95, sd: 90, sp: 70 
- 
- Metang: 
- Steel, Psychic,
- 60, at: 75, df: 100, sa: 55, sd: 80, sp: 50 
- 
- Mightyena: 
- Dark,
- 70, at: 90, df: 70, sa: 60, sd: 60, sp: 70 
- 
- Milotic: 
- Water,
- 95, at: 60, df: 79, sa: 100, sd: 125, sp: 81 
- 
- Minun: 
- Electric,
- 60, at: 40, df: 50, sa: 75, sd: 85, sp: 95 
- 
- Mudkip: 
- Water,
- 50, at: 70, df: 50, sa: 50, sd: 50, sp: 40 
- 
- Nincada: 
- Bug, Ground,
- 31, at: 45, df: 90, sa: 30, sd: 30, sp: 40 
- 
- Ninjask: 
- Bug, Flying,
- 61, at: 90, df: 45, sa: 50, sd: 50, sp: 160 
- 
- Nosepass: 
- Rock,
- 30, at: 45, df: 135, sa: 45, sd: 90, sp: 30 
- 
- Numel: 
- Fire, Ground,
- 60, at: 60, df: 40, sa: 65, sd: 45, sp: 35 
- 
- Nuzleaf: 
- Grass, Dark,
- 70, at: 70, df: 40, sa: 60, sd: 40, sp: 60 
- 
- Pelipper: 
- Water, Flying,
- 60, at: 50, df: 100, sa: 85, sd: 70, sp: 65 
- 
- Plusle: 
- Electric,
- 60, at: 50, df: 40, sa: 85, sd: 75, sp: 95 
- 
- Poochyena: 
- Dark,
- 35, at: 55, df: 35, sa: 30, sd: 30, sp: 35 
- 
- Ralts: 
- Psychic,
- 28, at: 25, df: 25, sa: 45, sd: 35, sp: 40 
- 
- Rayquaza: 
- Dragon, Flying,
- 105, at: 150, df: 90, sa: 150, sd: 90, sp: 95 
- 
- Regice: 
- Ice,
- 80, at: 50, df: 100, sa: 100, sd: 200, sp: 50 
- 
- Regirock: 
- Rock,
- 80, at: 100, df: 200, sa: 50, sd: 100, sp: 50 
- 
- Registeel: 
- Steel,
- 80, at: 75, df: 150, sa: 75, sd: 150, sp: 50 
- 
- Relicanth: 
- Water, Rock,
- 100, at: 90, df: 130, sa: 45, sd: 65, sp: 55 
- 
- Roselia: 
- Grass, Poison,
- 50, at: 60, df: 45, sa: 100, sd: 80, sp: 65 
- 
- Sableye: 
- Dark, Ghost,
- 50, at: 75, df: 75, sa: 65, sd: 65, sp: 50 
- 
- Salamence: 
- Dragon, Flying,
- 95, at: 135, df: 80, sa: 110, sd: 80, sp: 100 
- 
- Sceptile: 
- Grass,
- 70, at: 85, df: 65, sa: 105, sd: 85, sp: 120 
- 
- Sealeo: 
- Ice, Water,
- 90, at: 60, df: 70, sa: 75, sd: 70, sp: 45 
- 
- Seedot: 
- Grass,
- 40, at: 40, df: 50, sa: 30, sd: 30, sp: 30 
- 
- Seviper: 
- Poison,
- 73, at: 100, df: 60, sa: 100, sd: 60, sp: 65 
- 
- Sharpedo: 
- Water, Dark,
- 70, at: 120, df: 40, sa: 95, sd: 40, sp: 95 
- 
- Shedinja: 
- Bug, Ghost,
- 1, at: 90, df: 45, sa: 30, sd: 30, sp: 40 
- 
- Shelgon: 
- Dragon,
- 65, at: 95, df: 100, sa: 60, sd: 50, sp: 50 
- 
- Shiftry: 
- Grass, Dark,
- 90, at: 100, df: 60, sa: 90, sd: 60, sp: 80 
- 
- Shroomish: 
- Grass,
- 60, at: 40, df: 60, sa: 40, sd: 60, sp: 35 
- 
- Shuppet: 
- Ghost,
- 44, at: 75, df: 35, sa: 63, sd: 33, sp: 45 
- 
- Silcoon: 
- Bug,
- 50, at: 35, df: 55, sa: 25, sd: 25, sp: 15 
- 
- Skitty: 
- Normal,
- 50, at: 45, df: 45, sa: 35, sd: 35, sp: 50 
- 
- Slaking: 
- Normal,
- 150, at: 160, df: 100, sa: 95, sd: 65, sp: 100 
- 
- Slakoth: 
- Normal,
- 60, at: 60, df: 60, sa: 35, sd: 35, sp: 30 
- 
- Snorunt: 
- Ice,
- 50, at: 50, df: 50, sa: 50, sd: 50, sp: 50 
- 
- Solrock: 
- Rock, Psychic,
- 70, at: 95, df: 85, sa: 55, sd: 65, sp: 70 
- 
- Spheal: 
- Ice, Water,
- 70, at: 40, df: 50, sa: 55, sd: 50, sp: 25 
- 
- Spinda: 
- Normal,
- 60, at: 60, df: 60, sa: 60, sd: 60, sp: 60 
- 
- Spoink: 
- Psychic,
- 60, at: 25, df: 35, sa: 70, sd: 80, sp: 60 
- 
- Surskit: 
- Bug, Water,
- 40, at: 30, df: 32, sa: 50, sd: 52, sp: 65 
- 
- Swablu: 
- Normal, Flying,
- 45, at: 40, df: 60, sa: 40, sd: 75, sp: 50 
- 
- Swalot: 
- Poison,
- 100, at: 73, df: 83, sa: 73, sd: 83, sp: 55 
- 
- Swampert: 
- Water, Ground,
- 100, at: 110, df: 90, sa: 85, sd: 90, sp: 60 
- 
- Swellow: 
- Normal, Flying,
- 60, at: 85, df: 60, sa: 50, sd: 50, sp: 125 
- 
- Taillow: 
- Normal, Flying,
- 40, at: 55, df: 30, sa: 30, sd: 30, sp: 85 
- 
- Torchic: 
- Fire,
- 45, at: 60, df: 40, sa: 70, sd: 50, sp: 45 
- 
- Torkoal: 
- Fire,
- 70, at: 85, df: 140, sa: 85, sd: 70, sp: 20 
- 
- Trapinch: 
- Ground,
- 45, at: 100, df: 45, sa: 45, sd: 45, sp: 10 
- 
- Treecko: 
- Grass,
- 40, at: 45, df: 35, sa: 65, sd: 55, sp: 70 
- 
- Tropius: 
- Grass, Flying,
- 99, at: 68, df: 83, sa: 72, sd: 87, sp: 51 
- 
- Vibrava: 
- Ground, Dragon,
- 50, at: 70, df: 50, sa: 50, sd: 50, sp: 70 
- 
- Vigoroth: 
- Normal,
- 80, at: 80, df: 80, sa: 55, sd: 55, sp: 90 
- 
- Volbeat: 
- Bug,
- 65, at: 73, df: 55, sa: 47, sd: 75, sp: 85 
- 
- Wailmer: 
- Water,
- 130, at: 70, df: 35, sa: 70, sd: 35, sp: 60 
- 
- Wailord: 
- Water,
- 170, at: 90, df: 45, sa: 90, sd: 45, sp: 60 
- 
- Walrein: 
- Ice, Water,
- 110, at: 80, df: 90, sa: 95, sd: 90, sp: 65 
- 
- Whiscash: 
- Water, Ground,
- 110, at: 78, df: 73, sa: 76, sd: 71, sp: 60 
- 
- Whismur: 
- Normal,
- 64, at: 51, df: 23, sa: 51, sd: 23, sp: 28 
- 
- Wingull: 
- Water, Flying,
- 40, at: 30, df: 30, sa: 55, sd: 30, sp: 85 
- 
- Wurmple: 
- Bug,
- 45, at: 45, df: 35, sa: 20, sd: 30, sp: 20 
- 
- Wynaut: 
- Psychic,
- 95, at: 23, df: 48, sa: 23, sd: 48, sp: 23 
- 
- Zangoose: 
- Normal,
- 73, at: 115, df: 60, sa: 60, sd: 60, sp: 90 
- 
- Zigzagoon: 
- Normal,
- 38, at: 30, df: 41, sa: 30, sd: 41, sp: 60 
+ Anorith: Rock, Bug,
+ 45, 95, 50, 40, 50, 75 
+ 
+ Armaldo: Rock, Bug,
+ 75, 125, 100, 70, 80, 45 
+ 
+ Aron: Steel, Rock,
+ 50, 70, 100, 40, 40, 30 
+ 
+ Azurill: Normal,
+ 50, 20, 40, 20, 40, 20 
+ 
+ Bagon: Dragon,
+ 45, 75, 60, 40, 30, 50 
+ 
+ Baltoy: Ground, Psychic,
+ 40, 40, 55, 40, 70, 55 
+ 
+ Banette: Ghost,
+ 64, 115, 65, 83, 63, 65 
+ 
+ Barboach: Water, Ground,
+ 50, 48, 43, 46, 41, 60 
+ 
+ Beautifly: Bug, Flying,
+ 60, 70, 50, 90, 50, 65 
+ 
+ Beldum: Steel, Psychic,
+ 40, 55, 80, 35, 60, 30 
+ 
+ Blaziken: Fire, Fighting,
+ 80, 120, 70, 110, 70, 80 
+ 
+ Breloom: Grass, Fighting,
+ 60, 130, 80, 60, 60, 70 
+ 
+ Cacnea: Grass,
+ 50, 85, 40, 85, 40, 35 
+ 
+ Cacturne: Grass, Dark,
+ 70, 115, 60, 115, 60, 55 
+ 
+ Camerupt: Fire, Ground,
+ 70, 100, 70, 105, 75, 40 
+ 
+ Carvanha: Water, Dark,
+ 45, 90, 20, 65, 20, 65 
+ 
+ Cascoon: Bug,
+ 50, 35, 55, 25, 25, 15 
+ 
+ Castform: Normal,
+ 70, 70, 70, 70, 70, 70 
+ 
+ Castform-Rainy: Water,
+ 70, 70, 70, 70, 70, 70 
+ 
+ Castform-Snowy: Ice,
+ 70, 70, 70, 70, 70, 70 
+ 
+ Castform-Sunny: Fire,
+ 70, 70, 70, 70, 70, 70 
+ 
+ Chimecho: Psychic,
+ 65, 50, 70, 95, 80, 65 
+ 
+ Clamperl: Water,
+ 35, 64, 85, 74, 55, 32 
+ 
+ Claydol: Ground, Psychic,
+ 60, 70, 105, 70, 120, 75 
+ 
+ Combusken: Fire, Fighting,
+ 60, 85, 60, 85, 60, 55 
+ 
+ Corphish: Water,
+ 43, 80, 65, 50, 35, 35 
+ 
+ Cradily: Rock, Grass,
+ 86, 81, 97, 81, 107, 43 
+ 
+ Crawdaunt: Water, Dark,
+ 63, 120, 85, 90, 55, 55 
+ 
+ Delcatty: Normal,
+ 70, 65, 65, 55, 55, 70 
+ 
+ Deoxys: Psychic,
+ 50, 150, 50, 150, 50, 150 
+ 
+ Deoxys-Attack: Psychic,
+ 50, 180, 20, 180, 20, 150 
+ 
+ Deoxys-Defense: Psychic,
+ 50, 70, 160, 70, 160, 90 
+ 
+ Deoxys-Speed: Psychic,
+ 50, 95, 90, 95, 90, 180 
+ 
+ Dusclops: Ghost,
+ 40, 70, 130, 60, 130, 25 
+ 
+ Duskull: Ghost,
+ 20, 40, 90, 30, 90, 25 
+ 
+ Dustox: Bug, Poison,
+ 60, 50, 70, 50, 90, 65 
+ 
+ Electrike: Electric,
+ 40, 45, 40, 65, 40, 65 
+ 
+ Exploud: Normal,
+ 104, 91, 63, 91, 63, 68 
+ 
+ Feebas: Water,
+ 20, 15, 20, 10, 55, 80 
+ 
+ Flygon: Ground, Dragon,
+ 80, 100, 80, 80, 80, 100 
+ 
+ Gardevoir: Psychic,
+ 68, 65, 65, 125, 115, 80 
+ 
+ Glalie: Ice,
+ 80, 80, 80, 80, 80, 80 
+ 
+ Gorebyss: Water,
+ 55, 84, 105, 114, 75, 52 
+ 
+ Groudon: Ground,
+ 100, 150, 140, 100, 90, 90 
+ 
+ Grovyle: Grass,
+ 50, 65, 45, 85, 65, 95 
+ 
+ Grumpig: Psychic,
+ 80, 45, 65, 90, 110, 80 
+ 
+ Gulpin: Poison,
+ 70, 43, 53, 43, 53, 40 
+ 
+ Hariyama: Fighting,
+ 144, 120, 60, 40, 60, 50 
+ 
+ Huntail: Water,
+ 55, 104, 105, 94, 75, 52 
+ 
+ Illumise: Bug,
+ 65, 47, 55, 73, 75, 85 
+ 
+ Jirachi: Steel, Psychic,
+ 100, 100, 100, 100, 100, 100 
+ 
+ Kecleon: Normal,
+ 60, 90, 70, 60, 120, 40 
+ 
+ Kirlia: Psychic,
+ 38, 35, 35, 65, 55, 50 
+ 
+ Kyogre: Water,
+ 100, 100, 90, 150, 140, 90 
+ 
+ Lairon: Steel, Rock,
+ 60, 90, 140, 50, 50, 40 
+ 
+ Latias: Dragon, Psychic,
+ 80, 80, 90, 110, 130, 110 
+ 
+ Latios: Dragon, Psychic,
+ 80, 90, 80, 130, 110, 110 
+ 
+ Lileep: Rock, Grass,
+ 66, 41, 77, 61, 87, 23 
+ 
+ Linoone: Normal,
+ 78, 70, 61, 50, 61, 100 
+ 
+ Lombre: Water, Grass,
+ 60, 50, 50, 60, 70, 50 
+ 
+ Lotad: Water, Grass,
+ 40, 30, 30, 40, 50, 30 
+ 
+ Loudred: Normal,
+ 84, 71, 43, 71, 43, 48 
+ 
+ Ludicolo: Water, Grass,
+ 80, 70, 70, 90, 100, 70 
+ 
+ Lunatone: Rock, Psychic,
+ 70, 55, 65, 95, 85, 70 
+ 
+ Luvdisc: Water,
+ 43, 30, 55, 40, 65, 97 
+ 
+ Makuhita: Fighting,
+ 72, 60, 30, 20, 30, 25 
+ 
+ Manectric: Electric,
+ 70, 75, 60, 105, 60, 105 
+ 
+ Marshtomp: Water, Ground,
+ 70, 85, 70, 60, 70, 50 
+ 
+ Masquerain: Bug, Flying,
+ 70, 60, 62, 80, 82, 60 
+ 
+ Mawile: Steel,
+ 50, 85, 85, 55, 55, 50 
+ 
+ Medicham: Fighting, Psychic,
+ 60, 60, 75, 60, 75, 80 
+ 
+ Meditite: Fighting, Psychic,
+ 30, 40, 55, 40, 55, 60 
+ 
+ Metagross: Steel, Psychic,
+ 80, 135, 130, 95, 90, 70 
+ 
+ Metang: Steel, Psychic,
+ 60, 75, 100, 55, 80, 50 
+ 
+ Mightyena: Dark,
+ 70, 90, 70, 60, 60, 70 
+ 
+ Milotic: Water,
+ 95, 60, 79, 100, 125, 81 
+ 
+ Minun: Electric,
+ 60, 40, 50, 75, 85, 95 
+ 
+ Mudkip: Water,
+ 50, 70, 50, 50, 50, 40 
+ 
+ Nincada: Bug, Ground,
+ 31, 45, 90, 30, 30, 40 
+ 
+ Ninjask: Bug, Flying,
+ 61, 90, 45, 50, 50, 160 
+ 
+ Nosepass: Rock,
+ 30, 45, 135, 45, 90, 30 
+ 
+ Numel: Fire, Ground,
+ 60, 60, 40, 65, 45, 35 
+ 
+ Nuzleaf: Grass, Dark,
+ 70, 70, 40, 60, 40, 60 
+ 
+ Pelipper: Water, Flying,
+ 60, 50, 100, 85, 70, 65 
+ 
+ Plusle: Electric,
+ 60, 50, 40, 85, 75, 95 
+ 
+ Poochyena: Dark,
+ 35, 55, 35, 30, 30, 35 
+ 
+ Ralts: Psychic,
+ 28, 25, 25, 45, 35, 40 
+ 
+ Rayquaza: Dragon, Flying,
+ 105, 150, 90, 150, 90, 95 
+ 
+ Regice: Ice,
+ 80, 50, 100, 100, 200, 50 
+ 
+ Regirock: Rock,
+ 80, 100, 200, 50, 100, 50 
+ 
+ Registeel: Steel,
+ 80, 75, 150, 75, 150, 50 
+ 
+ Relicanth: Water, Rock,
+ 100, 90, 130, 45, 65, 55 
+ 
+ Roselia: Grass, Poison,
+ 50, 60, 45, 100, 80, 65 
+ 
+ Sableye: Dark, Ghost,
+ 50, 75, 75, 65, 65, 50 
+ 
+ Salamence: Dragon, Flying,
+ 95, 135, 80, 110, 80, 100 
+ 
+ Sceptile: Grass,
+ 70, 85, 65, 105, 85, 120 
+ 
+ Sealeo: Ice, Water,
+ 90, 60, 70, 75, 70, 45 
+ 
+ Seedot: Grass,
+ 40, 40, 50, 30, 30, 30 
+ 
+ Seviper: Poison,
+ 73, 100, 60, 100, 60, 65 
+ 
+ Sharpedo: Water, Dark,
+ 70, 120, 40, 95, 40, 95 
+ 
+ Shedinja: Bug, Ghost,
+ 1, 90, 45, 30, 30, 40 
+ 
+ Shelgon: Dragon,
+ 65, 95, 100, 60, 50, 50 
+ 
+ Shiftry: Grass, Dark,
+ 90, 100, 60, 90, 60, 80 
+ 
+ Shroomish: Grass,
+ 60, 40, 60, 40, 60, 35 
+ 
+ Shuppet: Ghost,
+ 44, 75, 35, 63, 33, 45 
+ 
+ Silcoon: Bug,
+ 50, 35, 55, 25, 25, 15 
+ 
+ Skitty: Normal,
+ 50, 45, 45, 35, 35, 50 
+ 
+ Slaking: Normal,
+ 150, 160, 100, 95, 65, 100 
+ 
+ Slakoth: Normal,
+ 60, 60, 60, 35, 35, 30 
+ 
+ Snorunt: Ice,
+ 50, 50, 50, 50, 50, 50 
+ 
+ Solrock: Rock, Psychic,
+ 70, 95, 85, 55, 65, 70 
+ 
+ Spheal: Ice, Water,
+ 70, 40, 50, 55, 50, 25 
+ 
+ Spinda: Normal,
+ 60, 60, 60, 60, 60, 60 
+ 
+ Spoink: Psychic,
+ 60, 25, 35, 70, 80, 60 
+ 
+ Surskit: Bug, Water,
+ 40, 30, 32, 50, 52, 65 
+ 
+ Swablu: Normal, Flying,
+ 45, 40, 60, 40, 75, 50 
+ 
+ Swalot: Poison,
+ 100, 73, 83, 73, 83, 55 
+ 
+ Swampert: Water, Ground,
+ 100, 110, 90, 85, 90, 60 
+ 
+ Swellow: Normal, Flying,
+ 60, 85, 60, 50, 50, 125 
+ 
+ Taillow: Normal, Flying,
+ 40, 55, 30, 30, 30, 85 
+ 
+ Torchic: Fire,
+ 45, 60, 40, 70, 50, 45 
+ 
+ Torkoal: Fire,
+ 70, 85, 140, 85, 70, 20 
+ 
+ Trapinch: Ground,
+ 45, 100, 45, 45, 45, 10 
+ 
+ Treecko: Grass,
+ 40, 45, 35, 65, 55, 70 
+ 
+ Tropius: Grass, Flying,
+ 99, 68, 83, 72, 87, 51 
+ 
+ Vibrava: Ground, Dragon,
+ 50, 70, 50, 50, 50, 70 
+ 
+ Vigoroth: Normal,
+ 80, 80, 80, 55, 55, 90 
+ 
+ Volbeat: Bug,
+ 65, 73, 55, 47, 75, 85 
+ 
+ Wailmer: Water,
+ 130, 70, 35, 70, 35, 60 
+ 
+ Wailord: Water,
+ 170, 90, 45, 90, 45, 60 
+ 
+ Walrein: Ice, Water,
+ 110, 80, 90, 95, 90, 65 
+ 
+ Whiscash: Water, Ground,
+ 110, 78, 73, 76, 71, 60 
+ 
+ Whismur: Normal,
+ 64, 51, 23, 51, 23, 28 
+ 
+ Wingull: Water, Flying,
+ 40, 30, 30, 55, 30, 85 
+ 
+ Wurmple: Bug,
+ 45, 45, 35, 20, 30, 20 
+ 
+ Wynaut: Psychic,
+ 95, 23, 48, 23, 48, 23 
+ 
+ Zangoose: Normal,
+ 73, 115, 60, 60, 60, 90 
+ 
+ Zigzagoon: Normal,
+ 38, 30, 41, 30, 41, 60 
 
- Abomasnow: 
- Grass, Ice,
- 90, at: 92, df: 75, sa: 92, sd: 85, sp: 60 
- 
- Ambipom: 
- Normal,
- 75, at: 100, df: 66, sa: 60, sd: 66, sp: 115 
- 
- Arceus: 
- Normal,
- 120, at: 120, df: 120, sa: 120, sd: 120, sp: 120 
- 
- Arceus-Bug: 
- Bug,
- 120, at: 120, df: 120, sa: 120, sd: 120, sp: 120 
- 
- Arceus-Dark: 
- Dark,
- 120, at: 120, df: 120, sa: 120, sd: 120, sp: 120 
- 
- Arceus-Dragon: 
- Dragon,
- 120, at: 120, df: 120, sa: 120, sd: 120, sp: 120 
- 
- Arceus-Electric: 
- Electric,
- 120, at: 120, df: 120, sa: 120, sd: 120, sp: 120 
- 
- Arceus-Fighting: 
- Fighting,
- 120, at: 120, df: 120, sa: 120, sd: 120, sp: 120 
- 
- Arceus-Fire: 
- Fire,
- 120, at: 120, df: 120, sa: 120, sd: 120, sp: 120 
- 
- Arceus-Flying: 
- Flying,
- 120, at: 120, df: 120, sa: 120, sd: 120, sp: 120 
- 
- Arceus-Ghost: 
- Ghost,
- 120, at: 120, df: 120, sa: 120, sd: 120, sp: 120 
- 
- Arceus-Grass: 
- Grass,
- 120, at: 120, df: 120, sa: 120, sd: 120, sp: 120 
- 
- Arceus-Ground: 
- Ground,
- 120, at: 120, df: 120, sa: 120, sd: 120, sp: 120 
- 
- Arceus-Ice: 
- Ice,
- 120, at: 120, df: 120, sa: 120, sd: 120, sp: 120 
- 
- Arceus-Poison: 
- Poison,
- 120, at: 120, df: 120, sa: 120, sd: 120, sp: 120 
- 
- Arceus-Psychic: 
- Psychic,
- 120, at: 120, df: 120, sa: 120, sd: 120, sp: 120 
- 
- Arceus-Rock: 
- Rock,
- 120, at: 120, df: 120, sa: 120, sd: 120, sp: 120 
- 
- Arceus-Steel: 
- Steel,
- 120, at: 120, df: 120, sa: 120, sd: 120, sp: 120 
- 
- Arceus-Water: 
- Water,
- 120, at: 120, df: 120, sa: 120, sd: 120, sp: 120 
- 
- Arghonaut: 
- Water, Fighting,
- 105, at: 110, df: 95, sa: 70, sd: 100, sp: 75 
- 
- Azelf: 
- Psychic,
- 75, at: 125, df: 70, sa: 125, sd: 70, sp: 115 
- 
- Bastiodon: 
- Rock, Steel,
- 60, at: 52, df: 168, sa: 47, sd: 138, sp: 30 
- 
- Bibarel: 
- Normal, Water,
- 79, at: 85, df: 60, sa: 55, sd: 60, sp: 71 
- 
- Bidoof: 
- Normal,
- 59, at: 45, df: 40, sa: 35, sd: 40, sp: 31 
- 
- Bonsly: 
- Rock,
- 50, at: 80, df: 95, sa: 10, sd: 45, sp: 10 
- 
- Breezi: 
- Poison, Flying,
- 50, at: 46, df: 69, sa: 60, sd: 50, sp: 75 
- 
- Bronzong: 
- Steel, Psychic,
- 67, at: 89, df: 116, sa: 79, sd: 116, sp: 33 
- 
- Bronzor: 
- Steel, Psychic,
- 57, at: 24, df: 86, sa: 24, sd: 86, sp: 23 
- 
- Budew: 
- Grass, Poison,
- 40, at: 30, df: 35, sa: 50, sd: 70, sp: 55 
- 
- Buizel: 
- Water,
- 55, at: 65, df: 35, sa: 60, sd: 30, sp: 85 
- 
- Buneary: 
- Normal,
- 55, at: 66, df: 44, sa: 44, sd: 56, sp: 85 
- 
- Burmy: 
- Bug,
- 40, at: 29, df: 45, sa: 29, sd: 45, sp: 36 
- 
- Carnivine: 
- Grass,
- 74, at: 100, df: 72, sa: 90, sd: 72, sp: 46 
- 
- Chatot: 
- Normal, Flying,
- 76, at: 65, df: 45, sa: 92, sd: 42, sp: 91 
- 
- Cherrim: 
- Grass,
- 70, at: 60, df: 70, sa: 87, sd: 78, sp: 85 
- 
- Cherrim-Sunshine: 
- Grass,
- 70, at: 60, df: 70, sa: 87, sd: 78, sp: 85 
- 
- Cherubi: 
- Grass,
- 45, at: 35, df: 45, sa: 62, sd: 53, sp: 35 
- 
- Chimchar: 
- Fire,
- 44, at: 58, df: 44, sa: 58, sd: 44, sp: 61 
- 
- Chingling: 
- Psychic,
- 45, at: 30, df: 50, sa: 65, sd: 50, sp: 45 
- 
- Colossoil: 
- Dark, Ground,
- 133, at: 122, df: 72, sa: 71, sd: 72, sp: 95 
- 
- Combee: 
- Bug, Flying,
- 30, at: 30, df: 42, sa: 30, sd: 42, sp: 70 
- 
- Cranidos: 
- Rock,
- 67, at: 125, df: 40, sa: 30, sd: 30, sp: 58 
- 
- Cresselia: 
- Psychic,
- 120, at: 70, df: 120, sa: 75, sd: 130, sp: 85 
- 
- Croagunk: 
- Poison, Fighting,
- 48, at: 61, df: 40, sa: 61, sd: 40, sp: 50 
- 
- Cyclohm: 
- Electric, Dragon,
- 108, at: 60, df: 118, sa: 112, sd: 70, sp: 80 
- 
- Darkrai: 
- Dark,
- 70, at: 90, df: 90, sa: 135, sd: 90, sp: 125 
- 
- Dialga: 
- Steel, Dragon,
- 100, at: 120, df: 120, sa: 150, sd: 100, sp: 90 
- 
- Drapion: 
- Poison, Dark,
- 70, at: 90, df: 110, sa: 60, sd: 75, sp: 95 
- 
- Drifblim: 
- Ghost, Flying,
- 150, at: 80, df: 44, sa: 90, sd: 54, sp: 80 
- 
- Drifloon: 
- Ghost, Flying,
- 90, at: 50, df: 34, sa: 60, sd: 44, sp: 70 
- 
- Dusknoir: 
- Ghost,
- 45, at: 100, df: 135, sa: 65, sd: 135, sp: 45 
- 
- Electivire: 
- Electric,
- 75, at: 123, df: 67, sa: 95, sd: 85, sp: 95 
- 
- Embirch: 
- Fire, Grass,
- 60, at: 40, df: 55, sa: 65, sd: 40, sp: 60 
- 
- Empoleon: 
- Water, Steel,
- 84, at: 86, df: 88, sa: 111, sd: 101, sp: 60 
- 
- Fidgit: 
- Poison, Ground,
- 95, at: 76, df: 109, sa: 90, sd: 80, sp: 105 
- 
- Finneon: 
- Water,
- 49, at: 49, df: 56, sa: 49, sd: 61, sp: 66 
- 
- Flarelm: 
- Fire, Grass,
- 90, at: 50, df: 95, sa: 75, sd: 70, sp: 40 
- 
- Floatzel: 
- Water,
- 85, at: 105, df: 55, sa: 85, sd: 50, sp: 115 
- 
- Froslass: 
- Ice, Ghost,
- 70, at: 80, df: 70, sa: 80, sd: 70, sp: 110 
- 
- Gabite: 
- Dragon, Ground,
- 68, at: 90, df: 65, sa: 50, sd: 55, sp: 82 
- 
- Gallade: 
- Psychic, Fighting,
- 68, at: 125, df: 65, sa: 65, sd: 115, sp: 80 
- 
- Garchomp: 
- Dragon, Ground,
- 108, at: 130, df: 95, sa: 80, sd: 85, sp: 102 
- 
- Gastrodon: 
- Water, Ground,
- 111, at: 83, df: 68, sa: 92, sd: 82, sp: 39 
- 
- Gible: 
- Dragon, Ground,
- 58, at: 70, df: 45, sa: 40, sd: 45, sp: 42 
- 
- Giratina: 
- Ghost, Dragon,
- 150, at: 100, df: 120, sa: 100, sd: 120, sp: 90 
- 
- Giratina-Origin: 
- Ghost, Dragon,
- 150, at: 120, df: 100, sa: 120, sd: 100, sp: 90 
- 
- Glaceon: 
- Ice,
- 65, at: 60, df: 110, sa: 130, sd: 95, sp: 65 
- 
- Glameow: 
- Normal,
- 49, at: 55, df: 42, sa: 42, sd: 37, sp: 85 
- 
- Gliscor: 
- Ground, Flying,
- 75, at: 95, df: 125, sa: 45, sd: 75, sp: 95 
- 
- Grotle: 
- Grass,
- 75, at: 89, df: 85, sa: 55, sd: 65, sp: 36 
- 
- Happiny: 
- Normal,
- 100, at: 5, df: 5, sa: 15, sd: 65, sp: 30 
- 
- Heatran: 
- Fire, Steel,
- 91, at: 90, df: 106, sa: 130, sd: 106, sp: 77 
- 
- Hippopotas: 
- Ground,
- 68, at: 72, df: 78, sa: 38, sd: 42, sp: 32 
- 
- Hippowdon: 
- Ground,
- 108, at: 112, df: 118, sa: 68, sd: 72, sp: 47 
- 
- Honchkrow: 
- Dark, Flying,
- 100, at: 125, df: 52, sa: 105, sd: 52, sp: 71 
- 
- Infernape: 
- Fire, Fighting,
- 76, at: 104, df: 71, sa: 104, sd: 71, sp: 108 
- 
- Kitsunoh: 
- Ghost, Steel,
- 80, at: 103, df: 85, sa: 55, sd: 80, sp: 110 
- 
- Kricketot: 
- Bug,
- 37, at: 25, df: 41, sa: 25, sd: 41, sp: 25 
- 
- Kricketune: 
- Bug,
- 77, at: 85, df: 51, sa: 55, sd: 51, sp: 65 
- 
- Krilowatt: 
- Electric, Water,
- 151, at: 84, df: 73, sa: 83, sd: 74, sp: 105 
- 
- Leafeon: 
- Grass,
- 65, at: 110, df: 130, sa: 60, sd: 65, sp: 95 
- 
- Lickilicky: 
- Normal,
- 110, at: 85, df: 95, sa: 80, sd: 95, sp: 50 
- 
- Lopunny: 
- Normal,
- 65, at: 76, df: 84, sa: 54, sd: 96, sp: 105 
- 
- Lucario: 
- Fighting, Steel,
- 70, at: 110, df: 70, sa: 115, sd: 70, sp: 90 
- 
- Lumineon: 
- Water,
- 69, at: 69, df: 76, sa: 69, sd: 86, sp: 91 
- 
- Luxio: 
- Electric,
- 60, at: 85, df: 49, sa: 60, sd: 49, sp: 60 
- 
- Luxray: 
- Electric,
- 80, at: 120, df: 79, sa: 95, sd: 79, sp: 70 
- 
- Magmortar: 
- Fire,
- 75, at: 95, df: 67, sa: 125, sd: 95, sp: 83 
- 
- Magnezone: 
- Electric, Steel,
- 70, at: 70, df: 115, sa: 130, sd: 90, sp: 60 
- 
- Mamoswine: 
- Ice, Ground,
- 110, at: 130, df: 80, sa: 70, sd: 60, sp: 80 
- 
- Manaphy: 
- Water,
- 100, at: 100, df: 100, sa: 100, sd: 100, sp: 100 
- 
- Mantyke: 
- Water, Flying,
- 45, at: 20, df: 50, sa: 60, sd: 120, sp: 50 
- 
- Mesprit: 
- Psychic,
- 80, at: 105, df: 105, sa: 105, sd: 105, sp: 80 
- 
- Mime Jr.: 
- Psychic,
- 20, at: 25, df: 45, sa: 70, sd: 90, sp: 60 
- 
- Mismagius: 
- Ghost,
- 60, at: 60, df: 60, sa: 105, sd: 105, sp: 105 
- 
- Monferno: 
- Fire, Fighting,
- 64, at: 78, df: 52, sa: 78, sd: 52, sp: 81 
- 
- Mothim: 
- Bug, Flying,
- 70, at: 94, df: 50, sa: 94, sd: 50, sp: 66 
- 
- Munchlax: 
- Normal,
- 135, at: 85, df: 40, sa: 40, sd: 85, sp: 5 
- 
- Pachirisu: 
- Electric,
- 60, at: 45, df: 70, sa: 45, sd: 90, sp: 95 
- 
- Palkia: 
- Water, Dragon,
- 90, at: 120, df: 100, sa: 150, sd: 120, sp: 100 
- 
- Phione: 
- Water,
- 80, at: 80, df: 80, sa: 80, sd: 80, sp: 80 
- 
- Pichu-Spiky-eared: 
- Electric,
- 20, at: 40, df: 15, sa: 35, sd: 35, sp: 60 
- 
- Piplup: 
- Water,
- 53, at: 51, df: 53, sa: 61, sd: 56, sp: 40 
- 
- Porygon-Z: 
- Normal,
- 85, at: 80, df: 70, sa: 135, sd: 75, sp: 90 
- 
- Prinplup: 
- Water,
- 64, at: 66, df: 68, sa: 81, sd: 76, sp: 50 
- 
- Privatyke: 
- Water, Fighting,
- 65, at: 75, df: 65, sa: 40, sd: 60, sp: 45 
- 
- Probopass: 
- Rock, Steel,
- 60, at: 55, df: 145, sa: 75, sd: 150, sp: 40 
- 
- Purugly: 
- Normal,
- 71, at: 82, df: 64, sa: 64, sd: 59, sp: 112 
- 
- Pyroak: 
- Fire, Grass,
- 120, at: 70, df: 105, sa: 95, sd: 90, sp: 60 
- 
- Rampardos: 
- Rock,
- 97, at: 165, df: 60, sa: 65, sd: 50, sp: 58 
- 
- Rebble: 
- Rock,
- 45, at: 25, df: 65, sa: 75, sd: 55, sp: 80 
- 
- Regigigas: 
- Normal,
- 110, at: 160, df: 110, sa: 80, sd: 110, sp: 100 
- 
- Revenankh: 
- Ghost, Fighting,
- 90, at: 105, df: 90, sa: 65, sd: 110, sp: 65 
- 
- Rhyperior: 
- Ground, Rock,
- 115, at: 140, df: 130, sa: 55, sd: 55, sp: 40 
- 
- Riolu: 
- Fighting,
- 40, at: 70, df: 40, sa: 35, sd: 40, sp: 60 
- 
- Roserade: 
- Grass, Poison,
- 60, at: 70, df: 55, sa: 125, sd: 105, sp: 90 
- 
- Rotom: 
- Electric, Ghost,
- 50, at: 50, df: 77, sa: 95, sd: 77, sp: 91 
- 
- Rotom-Mow: 
- Electric, Ghost,
- 50, at: 65, df: 107, sa: 105, sd: 107, sp: 86 
- 
- Rotom-Frost: 
- Electric, Ghost,
- 50, at: 65, df: 107, sa: 105, sd: 107, sp: 86 
- 
- Rotom-Heat: 
- Electric, Ghost,
- 50, at: 65, df: 107, sa: 105, sd: 107, sp: 86 
- 
- Rotom-Fan: 
- Electric, Ghost,
- 50, at: 65, df: 107, sa: 105, sd: 107, sp: 86 
- 
- Rotom-Wash: 
- Electric, Ghost,
- 50, at: 65, df: 107, sa: 105, sd: 107, sp: 86 
- 
- Shaymin: 
- Grass,
- 100, at: 100, df: 100, sa: 100, sd: 100, sp: 100 
- 
- Shaymin-Sky: 
- Grass, Flying,
- 100, at: 103, df: 75, sa: 120, sd: 75, sp: 127 
- 
- Shellos: 
- Water,
- 76, at: 48, df: 48, sa: 57, sd: 62, sp: 34 
- 
- Shieldon: 
- Rock, Steel,
- 30, at: 42, df: 118, sa: 42, sd: 88, sp: 30 
- 
- Shinx: 
- Electric,
- 45, at: 65, df: 34, sa: 40, sd: 34, sp: 45 
- 
- Skorupi: 
- Poison, Bug,
- 40, at: 50, df: 90, sa: 30, sd: 55, sp: 65 
- 
- Skuntank: 
- Poison, Dark,
- 103, at: 93, df: 67, sa: 71, sd: 61, sp: 84 
- 
- Snover: 
- Grass, Ice,
- 60, at: 62, df: 50, sa: 62, sd: 60, sp: 40 
- 
- Spiritomb: 
- Ghost, Dark,
- 50, at: 92, df: 108, sa: 92, sd: 108, sp: 35 
- 
- Staraptor: 
- Normal, Flying,
- 85, at: 120, df: 70, sa: 50, sd: 50, sp: 100 
- 
- Staravia: 
- Normal, Flying,
- 55, at: 75, df: 50, sa: 40, sd: 40, sp: 80 
- 
- Starly: 
- Normal, Flying,
- 40, at: 55, df: 30, sa: 30, sd: 30, sp: 60 
- 
- Stratagem: 
- Rock,
- 90, at: 60, df: 65, sa: 120, sd: 70, sp: 130 
- 
- Stunky: 
- Poison, Dark,
- 63, at: 63, df: 47, sa: 41, sd: 41, sp: 74 
- 
- Syclant: 
- Ice, Bug,
- 70, at: 116, df: 70, sa: 114, sd: 64, sp: 121 
- 
- Syclar: 
- Ice, Bug,
- 40, at: 76, df: 45, sa: 74, sd: 39, sp: 91 
- 
- Tactite: 
- Rock,
- 70, at: 40, df: 65, sa: 100, sd: 65, sp: 95 
- 
- Tangrowth: 
- Grass,
- 100, at: 100, df: 125, sa: 110, sd: 50, sp: 50 
- 
- Togekiss: 
- Normal, Flying,
- 85, at: 50, df: 95, sa: 120, sd: 115, sp: 80 
- 
- Torterra: 
- Grass, Ground,
- 95, at: 109, df: 105, sa: 75, sd: 85, sp: 56 
- 
- Toxicroak: 
- Poison, Fighting,
- 83, at: 106, df: 65, sa: 86, sd: 65, sp: 85 
- 
- Turtwig: 
- Grass,
- 55, at: 68, df: 64, sa: 45, sd: 55, sp: 31 
- 
- Uxie: 
- Psychic,
- 75, at: 75, df: 130, sa: 75, sd: 130, sp: 95 
- 
- Vespiquen: 
- Bug, Flying,
- 70, at: 80, df: 102, sa: 80, sd: 102, sp: 40 
- 
- Voodoll: 
- Normal, Dark,
- 55, at: 40, df: 55, sa: 75, sd: 50, sp: 70 
- 
- Voodoom: 
- Fighting, Dark,
- 90, at: 85, df: 80, sa: 105, sd: 80, sp: 110 
- 
- Weavile: 
- Dark, Ice,
- 70, at: 120, df: 65, sa: 45, sd: 85, sp: 125 
- 
- Wormadam: 
- Bug, Grass,
- 60, at: 59, df: 85, sa: 79, sd: 105, sp: 36 
- 
- Wormadam-Sandy: 
- Bug, Ground,
- 60, at: 79, df: 105, sa: 59, sd: 85, sp: 36 
- 
- Wormadam-Trash: 
- Bug, Steel,
- 60, at: 69, df: 95, sa: 69, sd: 95, sp: 36 
- 
- Yanmega: 
- Bug, Flying,
- 86, at: 76, df: 86, sa: 116, sd: 56, sp: 95 
- 
- Accelgor: 
- Bug,
- 80, at: 70, df: 40, sa: 100, sd: 60, sp: 145 
- 
- Alomomola: 
- Water,
- 165, at: 75, df: 80, sa: 40, sd: 45, sp: 65 
- 
- Amoonguss: 
- Grass, Poison,
- 114, at: 85, df: 70, sa: 85, sd: 80, sp: 30 
- 
- Archen: 
- Rock, Flying,
- 55, at: 112, df: 45, sa: 74, sd: 45, sp: 70 
- 
- Archeops: 
- Rock, Flying,
- 75, at: 140, df: 65, sa: 112, sd: 65, sp: 110 
- 
- Argalis: 
- Bug, Psychic,
- 60, at: 90, df: 89, sa: 87, sd: 40, sp: 54 
- 
- Audino: 
- Normal,
- 103, at: 60, df: 86, sa: 60, sd: 86, sp: 50 
- 
- Aurumoth: 
- Bug, Psychic,
- 110, at: 120, df: 99, sa: 117, sd: 60, sp: 94 
- 
- Axew: 
- Dragon,
- 46, at: 87, df: 60, sa: 30, sd: 40, sp: 57 
- 
- Basculin: 
- Water,
- 70, at: 92, df: 65, sa: 80, sd: 55, sp: 98 
- 
- Basculin-Blue-Striped: 
- Water,
- 70, at: 92, df: 65, sa: 80, sd: 55, sp: 98 
- 
- Beartic: 
- Ice,
- 95, at: 110, df: 80, sa: 70, sd: 80, sp: 50 
- 
- Beheeyem: 
- Psychic,
- 75, at: 75, df: 75, sa: 125, sd: 95, sp: 40 
- 
- Bisharp: 
- Dark, Steel,
- 65, at: 125, df: 100, sa: 60, sd: 70, sp: 70 
- 
- Blitzle: 
- Electric,
- 45, at: 60, df: 32, sa: 50, sd: 32, sp: 76 
- 
- Boldore: 
- Rock,
- 70, at: 105, df: 105, sa: 50, sd: 40, sp: 20 
- 
- Bouffalant: 
- Normal,
- 95, at: 110, df: 95, sa: 40, sd: 95, sp: 55 
- 
- Brattler: 
- Dark, Grass,
- 80, at: 70, df: 40, sa: 20, sd: 90, sp: 30 
- 
- Braviary: 
- Normal, Flying,
- 100, at: 123, df: 75, sa: 57, sd: 75, sp: 80 
- 
- Carracosta: 
- Water, Rock,
- 74, at: 108, df: 133, sa: 83, sd: 65, sp: 32 
- 
- Cawdet: 
- Steel, Flying,
- 35, at: 72, df: 85, sa: 40, sd: 55, sp: 88 
- 
- Cawmodore: 
- Steel, Flying,
- 50, at: 92, df: 130, sa: 65, sd: 75, sp: 118 
- 
- Chandelure: 
- Ghost, Fire,
- 60, at: 55, df: 90, sa: 145, sd: 90, sp: 80 
- 
- Cinccino: 
- Normal,
- 75, at: 95, df: 60, sa: 65, sd: 60, sp: 115 
- 
- Cobalion: 
- Steel, Fighting,
- 91, at: 90, df: 129, sa: 90, sd: 72, sp: 108 
- 
- Cofagrigus: 
- Ghost,
- 58, at: 50, df: 145, sa: 95, sd: 105, sp: 30 
- 
- Conkeldurr: 
- Fighting,
- 105, at: 140, df: 95, sa: 55, sd: 65, sp: 45 
- 
- Cottonee: 
- Grass,
- 40, at: 27, df: 60, sa: 37, sd: 50, sp: 66 
- 
- Crustle: 
- Bug, Rock,
- 70, at: 95, df: 125, sa: 65, sd: 75, sp: 45 
- 
- Cryogonal: 
- Ice,
- 70, at: 50, df: 30, sa: 95, sd: 135, sp: 105 
- 
- Cubchoo: 
- Ice,
- 55, at: 70, df: 40, sa: 60, sd: 40, sp: 40 
- 
- Cupra: 
- Bug, Psychic,
- 50, at: 60, df: 49, sa: 67, sd: 30, sp: 44 
- 
- Darmanitan: 
- Fire,
- 105, at: 140, df: 55, sa: 30, sd: 55, sp: 95 
- 
- Darmanitan-Zen: 
- Fire, Psychic,
- 105, at: 30, df: 105, sa: 140, sd: 105, sp: 55 
- 
- Darumaka: 
- Fire,
- 70, at: 90, df: 45, sa: 15, sd: 45, sp: 50 
- 
- Deerling: 
- Normal, Grass,
- 60, at: 60, df: 50, sa: 40, sd: 50, sp: 75 
- 
- Deino: 
- Dark, Dragon,
- 52, at: 65, df: 50, sa: 45, sd: 50, sp: 38 
- 
- Dewott: 
- Water,
- 75, at: 75, df: 60, sa: 83, sd: 60, sp: 60 
- 
- Drilbur: 
- Ground,
- 60, at: 85, df: 40, sa: 30, sd: 45, sp: 68 
- 
- Druddigon: 
- Dragon,
- 77, at: 120, df: 90, sa: 60, sd: 90, sp: 48 
- 
- Ducklett: 
- Water, Flying,
- 62, at: 44, df: 50, sa: 44, sd: 50, sp: 55 
- 
- Duosion: 
- Psychic,
- 65, at: 40, df: 50, sa: 125, sd: 60, sp: 30 
- 
- Durant: 
- Bug, Steel,
- 58, at: 109, df: 112, sa: 48, sd: 48, sp: 109 
- 
- Dwebble: 
- Bug, Rock,
- 50, at: 65, df: 85, sa: 35, sd: 35, sp: 55 
- 
- Eelektrik: 
- Electric,
- 65, at: 85, df: 70, sa: 75, sd: 70, sp: 40 
- 
- Eelektross: 
- Electric,
- 85, at: 115, df: 80, sa: 105, sd: 80, sp: 50 
- 
- Elgyem: 
- Psychic,
- 55, at: 55, df: 55, sa: 85, sd: 55, sp: 30 
- 
- Emboar: 
- Fire, Fighting,
- 110, at: 123, df: 65, sa: 100, sd: 65, sp: 65 
- 
- Emolga: 
- Electric, Flying,
- 55, at: 75, df: 60, sa: 75, sd: 60, sp: 103 
- 
- Escavalier: 
- Bug, Steel,
- 70, at: 135, df: 105, sa: 60, sd: 105, sp: 20 
- 
- Excadrill: 
- Ground, Steel,
- 110, at: 135, df: 60, sa: 50, sd: 65, sp: 88 
- 
- Ferroseed: 
- Grass, Steel,
- 44, at: 50, df: 91, sa: 24, sd: 86, sp: 10 
- 
- Ferrothorn: 
- Grass, Steel,
- 74, at: 94, df: 131, sa: 54, sd: 116, sp: 20 
- 
- Foongus: 
- Grass, Poison,
- 69, at: 55, df: 45, sa: 55, sd: 55, sp: 15 
- 
- Fraxure: 
- Dragon,
- 66, at: 117, df: 70, sa: 40, sd: 50, sp: 67 
- 
- Frillish: 
- Water, Ghost,
- 55, at: 40, df: 50, sa: 65, sd: 85, sp: 40 
- 
- Galvantula: 
- Bug, Electric,
- 70, at: 77, df: 60, sa: 97, sd: 60, sp: 108 
- 
- Garbodor: 
- Poison,
- 80, at: 95, df: 82, sa: 60, sd: 82, sp: 75 
- 
- Genesect: 
- Bug, Steel,
- 71, at: 120, df: 95, sa: 120, sd: 95, sp: 99 
- 
- Genesect-Burn: 
- Bug, Steel,
- 71, at: 120, df: 95, sa: 120, sd: 95, sp: 99 
- 
- Genesect-Chill: 
- Bug, Steel,
- 71, at: 120, df: 95, sa: 120, sd: 95, sp: 99 
- 
- Genesect-Douse: 
- Bug, Steel,
- 71, at: 120, df: 95, sa: 120, sd: 95, sp: 99 
- 
- Genesect-Shock: 
- Bug, Steel,
- 71, at: 120, df: 95, sa: 120, sd: 95, sp: 99 
- 
- Gigalith: 
- Rock,
- 85, at: 135, df: 130, sa: 60, sd: 70, sp: 25 
- 
- Golett: 
- Ground, Ghost,
- 59, at: 74, df: 50, sa: 35, sd: 50, sp: 35 
- 
- Golurk: 
- Ground, Ghost,
- 89, at: 124, df: 80, sa: 55, sd: 80, sp: 55 
- 
- Gothita: 
- Psychic,
- 45, at: 30, df: 50, sa: 55, sd: 65, sp: 45 
- 
- Gothitelle: 
- Psychic,
- 70, at: 55, df: 95, sa: 95, sd: 110, sp: 65 
- 
- Gothorita: 
- Psychic,
- 60, at: 45, df: 70, sa: 75, sd: 85, sp: 55 
- 
- Gurdurr: 
- Fighting,
- 85, at: 105, df: 85, sa: 40, sd: 50, sp: 40 
- 
- Haxorus: 
- Dragon,
- 76, at: 147, df: 90, sa: 60, sd: 70, sp: 97 
- 
- Heatmor: 
- Fire,
- 85, at: 97, df: 66, sa: 105, sd: 66, sp: 65 
- 
- Herdier: 
- Normal,
- 65, at: 80, df: 65, sa: 35, sd: 65, sp: 60 
- 
- Hydreigon: 
- Dark, Dragon,
- 92, at: 105, df: 90, sa: 125, sd: 90, sp: 98 
- 
- Jellicent: 
- Water, Ghost,
- 100, at: 60, df: 70, sa: 85, sd: 105, sp: 60 
- 
- Joltik: 
- Bug, Electric,
- 50, at: 47, df: 50, sa: 57, sd: 50, sp: 65 
- 
- Karrablast: 
- Bug,
- 50, at: 75, df: 45, sa: 40, sd: 45, sp: 60 
- 
- Keldeo: 
- Water, Fighting,
- 91, at: 72, df: 90, sa: 129, sd: 90, sp: 108 
- 
- Keldeo-Resolute: 
- Water, Fighting,
- 91, at: 72, df: 90, sa: 129, sd: 90, sp: 108 
- 
- Klang: 
- Steel,
- 60, at: 80, df: 95, sa: 70, sd: 85, sp: 50 
- 
- Klink: 
- Steel,
- 40, at: 55, df: 70, sa: 45, sd: 60, sp: 30 
- 
- Klinklang: 
- Steel,
- 60, at: 100, df: 115, sa: 70, sd: 85, sp: 90 
- 
- Krokorok: 
- Ground, Dark,
- 60, at: 82, df: 45, sa: 45, sd: 45, sp: 74 
- 
- Krookodile: 
- Ground, Dark,
- 95, at: 117, df: 70, sa: 65, sd: 70, sp: 92 
- 
- Kyurem: 
- Dragon, Ice,
- 125, at: 130, df: 90, sa: 130, sd: 90, sp: 95 
- 
- Kyurem-Black: 
- Dragon, Ice,
- 125, at: 170, df: 100, sa: 120, sd: 90, sp: 95 
- 
- Kyurem-White: 
- Dragon, Ice,
- 125, at: 120, df: 90, sa: 170, sd: 100, sp: 95 
- 
- Lampent: 
- Ghost, Fire,
- 60, at: 40, df: 60, sa: 95, sd: 60, sp: 55 
- 
- Landorus: 
- Ground, Flying,
- 89, at: 125, df: 90, sa: 115, sd: 80, sp: 101 
- 
- Landorus-Therian: 
- Ground, Flying,
- 89, at: 145, df: 90, sa: 105, sd: 80, sp: 91 
- 
- Larvesta: 
- Bug, Fire,
- 55, at: 85, df: 55, sa: 50, sd: 55, sp: 60 
- 
- Leavanny: 
- Bug, Grass,
- 75, at: 103, df: 80, sa: 70, sd: 70, sp: 92 
- 
- Liepard: 
- Dark,
- 64, at: 88, df: 50, sa: 88, sd: 50, sp: 106 
- 
- Lilligant: 
- Grass,
- 70, at: 60, df: 75, sa: 110, sd: 75, sp: 90 
- 
- Lillipup: 
- Normal,
- 45, at: 60, df: 45, sa: 25, sd: 45, sp: 55 
- 
- Litwick: 
- Ghost, Fire,
- 50, at: 30, df: 55, sa: 65, sd: 55, sp: 20 
- 
- Malaconda: 
- Dark, Grass,
- 115, at: 100, df: 60, sa: 40, sd: 130, sp: 55 
- 
- Mandibuzz: 
- Dark, Flying,
- 110, at: 65, df: 105, sa: 55, sd: 95, sp: 80 
- 
- Maractus: 
- Grass,
- 75, at: 86, df: 67, sa: 106, sd: 67, sp: 60 
- 
- Meloetta: 
- Normal, Psychic,
- 100, at: 77, df: 77, sa: 128, sd: 128, sp: 90 
- 
- Meloetta-Pirouette: 
- Normal, Fighting,
- 100, at: 128, df: 90, sa: 77, sd: 77, sp: 128 
- 
- Mienfoo: 
- Fighting,
- 45, at: 85, df: 50, sa: 55, sd: 50, sp: 65 
- 
- Mienshao: 
- Fighting,
- 65, at: 125, df: 60, sa: 95, sd: 60, sp: 105 
- 
- Minccino: 
- Normal,
- 55, at: 50, df: 40, sa: 40, sd: 40, sp: 75 
- 
- Mollux: 
- Fire, Poison,
- 95, at: 45, df: 83, sa: 131, sd: 105, sp: 76 
- 
- Munna: 
- Psychic,
- 76, at: 25, df: 45, sa: 67, sd: 55, sp: 24 
- 
- Musharna: 
- Psychic,
- 116, at: 55, df: 85, sa: 107, sd: 95, sp: 29 
- 
- Necturine: 
- Grass, Ghost,
- 49, at: 55, df: 60, sa: 50, sd: 75, sp: 51 
- 
- Necturna: 
- Grass, Ghost,
- 64, at: 120, df: 100, sa: 85, sd: 120, sp: 81 
- 
- Oshawott: 
- Water,
- 55, at: 55, df: 45, sa: 63, sd: 45, sp: 45 
- 
- Palpitoad: 
- Water, Ground,
- 75, at: 65, df: 55, sa: 65, sd: 55, sp: 69 
- 
- Panpour: 
- Water,
- 50, at: 53, df: 48, sa: 53, sd: 48, sp: 64 
- 
- Pansage: 
- Grass,
- 50, at: 53, df: 48, sa: 53, sd: 48, sp: 64 
- 
- Pansear: 
- Fire,
- 50, at: 53, df: 48, sa: 53, sd: 48, sp: 64 
- 
- Patrat: 
- Normal,
- 45, at: 55, df: 39, sa: 35, sd: 39, sp: 42 
- 
- Pawniard: 
- Dark, Steel,
- 45, at: 85, df: 70, sa: 40, sd: 40, sp: 60 
- 
- Petilil: 
- Grass,
- 45, at: 35, df: 50, sa: 70, sd: 50, sp: 30 
- 
- Pidove: 
- Normal, Flying,
- 50, at: 55, df: 50, sa: 36, sd: 30, sp: 43 
- 
- Pignite: 
- Fire, Fighting,
- 90, at: 93, df: 55, sa: 70, sd: 55, sp: 55 
- 
- Purrloin: 
- Dark,
- 41, at: 50, df: 37, sa: 50, sd: 37, sp: 66 
- 
- Reshiram: 
- Dragon, Fire,
- 100, at: 120, df: 100, sa: 150, sd: 120, sp: 90 
- 
- Reuniclus: 
- Psychic,
- 110, at: 65, df: 75, sa: 125, sd: 85, sp: 30 
- 
- Roggenrola: 
- Rock,
- 55, at: 75, df: 85, sa: 25, sd: 25, sp: 15 
- 
- Rufflet: 
- Normal, Flying,
- 70, at: 83, df: 50, sa: 37, sd: 50, sp: 60 
- 
- Samurott: 
- Water,
- 95, at: 100, df: 85, sa: 108, sd: 70, sp: 70 
- 
- Sandile: 
- Ground, Dark,
- 50, at: 72, df: 35, sa: 35, sd: 35, sp: 65 
- 
- Sawk: 
- Fighting,
- 75, at: 125, df: 75, sa: 30, sd: 75, sp: 85 
- 
- Sawsbuck: 
- Normal, Grass,
- 80, at: 100, df: 70, sa: 60, sd: 70, sp: 95 
- 
- Scolipede: 
- Bug, Poison,
- 60, at: 90, df: 89, sa: 55, sd: 69, sp: 112 
- 
- Scrafty: 
- Dark, Fighting,
- 65, at: 90, df: 115, sa: 45, sd: 115, sp: 58 
- 
- Scraggy: 
- Dark, Fighting,
- 50, at: 75, df: 70, sa: 35, sd: 70, sp: 48 
- 
- Scratchet: 
- Normal, Fighting,
- 55, at: 85, df: 80, sa: 20, sd: 70, sp: 40 
- 
- Seismitoad: 
- Water, Ground,
- 105, at: 85, df: 75, sa: 85, sd: 75, sp: 74 
- 
- Serperior: 
- Grass,
- 75, at: 75, df: 95, sa: 75, sd: 95, sp: 113 
- 
- Servine: 
- Grass,
- 60, at: 60, df: 75, sa: 60, sd: 75, sp: 83 
- 
- Sewaddle: 
- Bug, Grass,
- 45, at: 53, df: 70, sa: 40, sd: 60, sp: 42 
- 
- Shelmet: 
- Bug,
- 50, at: 40, df: 85, sa: 40, sd: 65, sp: 25 
- 
- Sigilyph: 
- Psychic, Flying,
- 72, at: 58, df: 80, sa: 103, sd: 80, sp: 97 
- 
- Simipour: 
- Water,
- 75, at: 98, df: 63, sa: 98, sd: 63, sp: 101 
- 
- Simisage: 
- Grass,
- 75, at: 98, df: 63, sa: 98, sd: 63, sp: 101 
- 
- Simisear: 
- Fire,
- 75, at: 98, df: 63, sa: 98, sd: 63, sp: 101 
- 
- Snivy: 
- Grass,
- 45, at: 45, df: 55, sa: 45, sd: 55, sp: 63 
- 
- Solosis: 
- Psychic,
- 45, at: 30, df: 40, sa: 105, sd: 50, sp: 20 
- 
- Stoutland: 
- Normal,
- 85, at: 100, df: 90, sa: 45, sd: 90, sp: 80 
- 
- Stunfisk: 
- Ground, Electric,
- 109, at: 66, df: 84, sa: 81, sd: 99, sp: 32 
- 
- Swadloon: 
- Bug, Grass,
- 55, at: 63, df: 90, sa: 50, sd: 80, sp: 42 
- 
- Swanna: 
- Water, Flying,
- 75, at: 87, df: 63, sa: 87, sd: 63, sp: 98 
- 
- Swoobat: 
- Psychic, Flying,
- 67, at: 57, df: 55, sa: 77, sd: 55, sp: 114 
- 
- Tepig: 
- Fire,
- 65, at: 63, df: 45, sa: 45, sd: 45, sp: 45 
- 
- Terrakion: 
- Rock, Fighting,
- 91, at: 129, df: 90, sa: 72, sd: 90, sp: 108 
- 
- Throh: 
- Fighting,
- 120, at: 100, df: 85, sa: 30, sd: 85, sp: 45 
- 
- Thundurus: 
- Electric, Flying,
- 79, at: 115, df: 70, sa: 125, sd: 80, sp: 111 
- 
- Thundurus-Therian: 
- Electric, Flying,
- 79, at: 105, df: 70, sa: 145, sd: 80, sp: 101 
- 
- Timburr: 
- Fighting,
- 75, at: 80, df: 55, sa: 25, sd: 35, sp: 35 
- 
- Tirtouga: 
- Water, Rock,
- 54, at: 78, df: 103, sa: 53, sd: 45, sp: 22 
- 
- Tomohawk: 
- Flying, Fighting,
- 105, at: 60, df: 90, sa: 115, sd: 80, sp: 85 
- 
- Tornadus: 
- Flying,
- 79, at: 115, df: 70, sa: 125, sd: 80, sp: 111 
- 
- Tornadus-Therian: 
- Flying,
- 79, at: 100, df: 80, sa: 110, sd: 90, sp: 121 
- 
- Tranquill: 
- Normal, Flying,
- 62, at: 77, df: 62, sa: 50, sd: 42, sp: 65 
- 
- Trubbish: 
- Poison,
- 50, at: 50, df: 62, sa: 40, sd: 62, sp: 65 
- 
- Tympole: 
- Water,
- 50, at: 50, df: 40, sa: 50, sd: 40, sp: 64 
- 
- Tynamo: 
- Electric,
- 35, at: 55, df: 40, sa: 45, sd: 40, sp: 60 
- 
- Unfezant: 
- Normal, Flying,
- 80, at: 105, df: 80, sa: 65, sd: 55, sp: 93 
- 
- Vanillish: 
- Ice,
- 51, at: 65, df: 65, sa: 80, sd: 75, sp: 59 
- 
- Vanillite: 
- Ice,
- 36, at: 50, df: 50, sa: 65, sd: 60, sp: 44 
- 
- Vanilluxe: 
- Ice,
- 71, at: 95, df: 85, sa: 110, sd: 95, sp: 79 
- 
- Venipede: 
- Bug, Poison,
- 30, at: 45, df: 59, sa: 30, sd: 39, sp: 57 
- 
- Victini: 
- Psychic, Fire,
- 100, at: 100, df: 100, sa: 100, sd: 100, sp: 100 
- 
- Virizion: 
- Grass, Fighting,
- 91, at: 90, df: 72, sa: 90, sd: 129, sp: 108 
- 
- Volcarona: 
- Bug, Fire,
- 85, at: 60, df: 65, sa: 135, sd: 105, sp: 100 
- 
- Vullaby: 
- Dark, Flying,
- 70, at: 55, df: 75, sa: 45, sd: 65, sp: 60 
- 
- Watchog: 
- Normal,
- 60, at: 85, df: 69, sa: 60, sd: 69, sp: 77 
- 
- Whimsicott: 
- Grass,
- 60, at: 67, df: 85, sa: 77, sd: 75, sp: 116 
- 
- Whirlipede: 
- Bug, Poison,
- 40, at: 55, df: 99, sa: 40, sd: 79, sp: 47 
- 
- Woobat: 
- Psychic, Flying,
- 55, at: 45, df: 43, sa: 55, sd: 43, sp: 72 
- 
- Yamask: 
- Ghost,
- 38, at: 30, df: 85, sa: 55, sd: 65, sp: 30 
- 
- Zebstrika: 
- Electric,
- 75, at: 100, df: 63, sa: 80, sd: 63, sp: 116 
- 
- Zekrom: 
- Dragon, Electric,
- 100, at: 150, df: 120, sa: 120, sd: 100, sp: 90 
- 
- Zoroark: 
- Dark,
- 60, at: 105, df: 60, sa: 120, sd: 60, sp: 105 
- 
- Zorua: 
- Dark,
- 40, at: 65, df: 40, sa: 80, sd: 40, sp: 65 
- 
- Zweilous: 
- Dark, Dragon,
- 72, at: 85, df: 70, sa: 65, sd: 70, sp: 58 
- 
- Aegislash-Blade: 
- Steel, Ghost,
- 60, at: 150, df: 50, sa: 150, sd: 50, sp: 60 
- 
- Aegislash-Shield: 
- Steel, Ghost,
- 60, at: 50, df: 150, sa: 50, sd: 150, sp: 60 
- 
- Aegislash-Both: 
- Steel, Ghost,
- 60, at: 150, df: 150, sa: 150, sd: 150, sp: 60 
- 
- Amaura: 
- Rock, Ice,
- 77, at: 59, df: 50, sa: 67, sd: 63, sp: 46 
- 
- Arceus-Fairy: 
- Fairy,
- 120, at: 120, df: 120, sa: 120, sd: 120, sp: 120 
- 
- Aromatisse: 
- Fairy,
- 101, at: 72, df: 72, sa: 99, sd: 89, sp: 29 
- 
- Aurorus: 
- Rock, Ice,
- 123, at: 77, df: 72, sa: 99, sd: 92, sp: 58 
- 
- Avalugg: 
- Ice,
- 95, at: 117, df: 184, sa: 44, sd: 46, sp: 28 
- 
- Barbaracle: 
- Rock, Water,
- 72, at: 105, df: 115, sa: 54, sd: 86, sp: 68 
- 
- Bergmite: 
- Ice,
- 55, at: 69, df: 85, sa: 32, sd: 35, sp: 28 
- 
- Binacle: 
- Rock, Water,
- 42, at: 52, df: 67, sa: 39, sd: 56, sp: 50 
- 
- Braixen: 
- Fire,
- 59, at: 59, df: 58, sa: 90, sd: 70, sp: 73 
- 
- Bunnelby: 
- Normal,
- 38, at: 36, df: 38, sa: 32, sd: 36, sp: 57 
- 
- Caimanoe: 
- Water, Steel,
- 73, at: 85, df: 65, sa: 80, sd: 40, sp: 87 
- 
- Carbink: 
- Rock, Fairy,
- 50, at: 50, df: 150, sa: 50, sd: 150, sp: 50 
- 
- Chesnaught: 
- Grass, Fighting,
- 88, at: 107, df: 122, sa: 74, sd: 75, sp: 64 
- 
- Chespin: 
- Grass,
- 56, at: 61, df: 65, sa: 48, sd: 45, sp: 38 
- 
- Clauncher: 
- Water,
- 50, at: 53, df: 62, sa: 58, sd: 63, sp: 44 
- 
- Clawitzer: 
- Water,
- 71, at: 73, df: 88, sa: 120, sd: 89, sp: 59 
- 
- Crucibelle: 
- Rock, Poison,
- 106, at: 105, df: 65, sa: 75, sd: 85, sp: 104 
- 
- Diancie: 
- Rock, Fairy,
- 50, at: 100, df: 150, sa: 100, sd: 150, sp: 50 
- 
- Dedenne: 
- Electric, Fairy,
- 67, at: 58, df: 57, sa: 81, sd: 67, sp: 101 
- 
- Delphox: 
- Fire, Psychic,
- 75, at: 69, df: 72, sa: 114, sd: 100, sp: 104 
- 
- Diggersby: 
- Normal, Ground,
- 85, at: 56, df: 77, sa: 50, sd: 77, sp: 78 
- 
- Doublade: 
- Steel, Ghost,
- 59, at: 110, df: 150, sa: 45, sd: 49, sp: 35 
- 
- Dragalge: 
- Poison, Dragon,
- 65, at: 75, df: 90, sa: 97, sd: 123, sp: 44 
- 
- Espurr: 
- Psychic,
- 62, at: 48, df: 54, sa: 63, sd: 60, sp: 68 
- 
- Fennekin: 
- Fire,
- 40, at: 45, df: 40, sa: 62, sd: 60, sp: 60 
- 
- FlabeÌbeÌ: 
- Fairy,
- 44, at: 38, df: 39, sa: 61, sd: 79, sp: 42 
- 
- Fletchinder: 
- Fire, Flying,
- 62, at: 73, df: 55, sa: 56, sd: 52, sp: 84 
- 
- Fletchling: 
- Normal, Flying,
- 45, at: 50, df: 43, sa: 40, sd: 38, sp: 62 
- 
- Floatoy: 
- Water,
- 48, at: 70, df: 40, sa: 70, sd: 30, sp: 77 
- 
- Floette: 
- Fairy,
- 54, at: 45, df: 47, sa: 75, sd: 98, sp: 52 
- 
- Florges: 
- Fairy,
- 78, at: 65, df: 68, sa: 112, sd: 154, sp: 75 
- 
- Froakie: 
- Water,
- 41, at: 56, df: 40, sa: 62, sd: 44, sp: 71 
- 
- Frogadier: 
- Water,
- 54, at: 63, df: 52, sa: 83, sd: 56, sp: 97 
- 
- Furfrou: 
- Normal,
- 75, at: 80, df: 60, sa: 65, sd: 90, sp: 102 
- 
- Gogoat: 
- Grass,
- 123, at: 100, df: 62, sa: 97, sd: 81, sp: 68 
- 
- Goodra: 
- Dragon,
- 90, at: 100, df: 70, sa: 110, sd: 150, sp: 80 
- 
- Goomy: 
- Dragon,
- 45, at: 50, df: 35, sa: 55, sd: 75, sp: 40 
- 
- Gourgeist: 
- Ghost, Grass,
- 65, at: 90, df: 122, sa: 58, sd: 75, sp: 84 
- 
- Gourgeist-Large: 
- Ghost, Grass,
- 75, at: 95, df: 122, sa: 58, sd: 75, sp: 69 
- 
- Gourgeist-Small: 
- Ghost, Grass,
- 55, at: 85, df: 122, sa: 58, sd: 75, sp: 99 
- 
- Gourgeist-Super: 
- Ghost, Grass,
- 85, at: 100, df: 122, sa: 58, sd: 75, sp: 54 
- 
- Greninja: 
- Water, Dark,
- 72, at: 95, df: 67, sa: 103, sd: 71, sp: 122 
- 
- Hawlucha: 
- Fighting, Flying,
- 78, at: 92, df: 75, sa: 74, sd: 63, sp: 118 
- 
- Heliolisk: 
- Electric, Normal,
- 62, at: 55, df: 52, sa: 109, sd: 94, sp: 109 
- 
- Helioptile: 
- Electric, Normal,
- 44, at: 38, df: 33, sa: 61, sd: 43, sp: 70 
- 
- Honedge: 
- Steel, Ghost,
- 45, at: 80, df: 100, sa: 35, sd: 37, sp: 28 
- 
- Hoopa: 
- Psychic, Ghost,
- 80, at: 110, df: 60, sa: 150, sd: 130, sp: 70 
- 
- Hoopa-Unbound: 
- Psychic, Dark,
- 80, at: 160, df: 60, sa: 170, sd: 130, sp: 80 
- 
- Inkay: 
- Dark, Psychic,
- 53, at: 54, df: 53, sa: 37, sd: 46, sp: 45 
- 
- Kerfluffle: 
- Fairy, Fighting,
- 84, at: 78, df: 86, sa: 115, sd: 88, sp: 119 
- 
- Klefki: 
- Steel, Fairy,
- 57, at: 80, df: 91, sa: 80, sd: 87, sp: 75 
- 
- Litleo: 
- Fire, Normal,
- 62, at: 50, df: 58, sa: 73, sd: 54, sp: 72 
- 
- Malamar: 
- Dark, Psychic,
- 86, at: 92, df: 88, sa: 68, sd: 75, sp: 73 
- 
- Abomasnow-Mega: 
- Grass, Ice,
- 90, at: 132, df: 105, sa: 132, sd: 105, sp: 30 
- 
- Absol-Mega: 
- Dark,
- 65, at: 150, df: 60, sa: 115, sd: 60, sp: 115 
- 
- Aerodactyl-Mega: 
- Rock, Flying,
- 80, at: 135, df: 85, sa: 70, sd: 95, sp: 150 
- 
- Aggron-Mega: 
- Steel,
- 70, at: 140, df: 230, sa: 60, sd: 80, sp: 50 
- 
- Alakazam-Mega: 
- Psychic,
- 55, at: 50, df: 65, sa: 175, sd: 95, sp: 150 
- 
- Altaria-Mega: 
- Dragon, Fairy,
- 75, at: 110, df: 110, sa: 110, sd: 105, sp: 80 
- 
- Ampharos-Mega: 
- Electric, Dragon,
- 90, at: 95, df: 105, sa: 165, sd: 110, sp: 45 
- 
- Audino-Mega: 
- Normal, Fairy,
- 103, at: 60, df: 126, sa: 80, sd: 126, sp: 50 
- 
- Banette-Mega: 
- Ghost,
- 64, at: 165, df: 75, sa: 93, sd: 83, sp: 75 
- 
- Beedrill-Mega: 
- Bug, Poison,
- 65, at: 150, df: 40, sa: 15, sd: 80, sp: 145 
- 
- Blastoise-Mega: 
- Water,
- 79, at: 103, df: 120, sa: 135, sd: 115, sp: 78 
- 
- Blaziken-Mega: 
- Fire, Fighting,
- 80, at: 160, df: 80, sa: 130, sd: 80, sp: 100 
- 
- Camerupt-Mega: 
- Fire, Ground,
- 70, at: 120, df: 100, sa: 145, sd: 105, sp: 20 
- 
- Charizard-Mega-X: 
- Fire, Dragon,
- 78, at: 130, df: 111, sa: 130, sd: 85, sp: 100 
- 
- Charizard-Mega-Y: 
- Fire, Flying,
- 78, at: 104, df: 78, sa: 159, sd: 115, sp: 100 
- 
- Crucibelle-Mega: 
- Rock, Poison,
- 106, at: 135, df: 75, sa: 85, sd: 125, sp: 114 
- 
- Diancie-Mega: 
- Rock, Fairy,
- 50, at: 160, df: 110, sa: 160, sd: 110, sp: 110 
- 
- Gallade-Mega: 
- Psychic, Fighting,
- 68, at: 165, df: 95, sa: 65, sd: 115, sp: 110 
- 
- Garchomp-Mega: 
- Dragon, Ground,
- 108, at: 170, df: 115, sa: 120, sd: 95, sp: 92 
- 
- Gardevoir-Mega: 
- Psychic, Fairy,
- 68, at: 85, df: 65, sa: 165, sd: 135, sp: 100 
- 
- Gengar-Mega: 
- Ghost, Poison,
- 60, at: 65, df: 80, sa: 170, sd: 95, sp: 130 
- 
- Glalie-Mega: 
- Ice,
- 80, at: 120, df: 80, sa: 120, sd: 80, sp: 100 
- 
- Gyarados-Mega: 
- Water, Dark,
- 95, at: 155, df: 109, sa: 70, sd: 130, sp: 81 
- 
- Heracross-Mega: 
- Bug, Fighting,
- 80, at: 185, df: 115, sa: 40, sd: 105, sp: 75 
- 
- Houndoom-Mega: 
- Dark, Fire,
- 75, at: 90, df: 90, sa: 140, sd: 90, sp: 115 
- 
- Kangaskhan-Mega: 
- Normal,
- 105, at: 125, df: 100, sa: 60, sd: 100, sp: 100 
- 
- Latias-Mega: 
- Dragon, Psychic,
- 80, at: 100, df: 120, sa: 140, sd: 150, sp: 110 
- 
- Latios-Mega: 
- Dragon, Psychic,
- 80, at: 130, df: 100, sa: 160, sd: 120, sp: 110 
- 
- Lopunny-Mega: 
- Normal, Fighting,
- 65, at: 136, df: 94, sa: 54, sd: 96, sp: 135 
- 
- Lucario-Mega: 
- Fighting, Steel,
- 70, at: 145, df: 88, sa: 140, sd: 70, sp: 112 
- 
- Manectric-Mega: 
- Electric,
- 70, at: 75, df: 80, sa: 135, sd: 80, sp: 135 
- 
- Mawile-Mega: 
- Steel, Fairy,
- 50, at: 105, df: 125, sa: 55, sd: 95, sp: 50 
- 
- Medicham-Mega: 
- Fighting, Psychic,
- 60, at: 100, df: 85, sa: 80, sd: 85, sp: 100 
- 
- Metagross-Mega: 
- Steel, Psychic,
- 80, at: 145, df: 150, sa: 105, sd: 110, sp: 110 
- 
- Mewtwo-Mega-X: 
- Psychic, Fighting,
- 106, at: 190, df: 100, sa: 154, sd: 100, sp: 130 
- 
- Mewtwo-Mega-Y: 
- Psychic,
- 106, at: 150, df: 70, sa: 194, sd: 120, sp: 140 
- 
- Pidgeot-Mega: 
- Normal, Flying,
- 83, at: 80, df: 80, sa: 135, sd: 80, sp: 121 
- 
- Pinsir-Mega: 
- Bug, Flying,
- 65, at: 155, df: 120, sa: 65, sd: 90, sp: 105 
- 
- Rayquaza-Mega: 
- Dragon, Flying,
- 105, at: 180, df: 100, sa: 180, sd: 100, sp: 115 
- 
- Sableye-Mega: 
- Dark, Ghost,
- 50, at: 85, df: 125, sa: 85, sd: 115, sp: 20 
- 
- Salamence-Mega: 
- Dragon, Flying,
- 95, at: 145, df: 130, sa: 120, sd: 90, sp: 120 
- 
- Sceptile-Mega: 
- Grass, Dragon,
- 70, at: 110, df: 75, sa: 145, sd: 85, sp: 145 
- 
- Scizor-Mega: 
- Bug, Steel,
- 70, at: 150, df: 140, sa: 65, sd: 100, sp: 75 
- 
- Sharpedo-Mega: 
- Water, Dark,
- 70, at: 140, df: 70, sa: 110, sd: 65, sp: 105 
- 
- Slowbro-Mega: 
- Water, Psychic,
- 95, at: 75, df: 180, sa: 130, sd: 80, sp: 30 
- 
- Steelix-Mega: 
- Steel, Ground,
- 75, at: 125, df: 230, sa: 55, sd: 95, sp: 30 
- 
- Swampert-Mega: 
- Water, Ground,
- 100, at: 150, df: 110, sa: 95, sd: 110, sp: 70 
- 
- Tyranitar-Mega: 
- Rock, Dark,
- 100, at: 164, df: 150, sa: 95, sd: 120, sp: 71 
- 
- Venusaur-Mega: 
- Grass, Poison,
- 80, at: 100, df: 123, sa: 122, sd: 120, sp: 80 
- 
- Meowstic: 
- Psychic,
- 74, at: 48, df: 76, sa: 83, sd: 81, sp: 104 
- 
- Meowstic-F: 
- Psychic,
- 74, at: 48, df: 76, sa: 83, sd: 81, sp: 104 
- 
- Naviathan: 
- Water, Steel,
- 103, at: 110, df: 90, sa: 95, sd: 65, sp: 97 
- 
- Noibat: 
- Flying, Dragon,
- 40, at: 30, df: 35, sa: 45, sd: 40, sp: 55 
- 
- Noivern: 
- Flying, Dragon,
- 85, at: 70, df: 80, sa: 97, sd: 80, sp: 123 
- 
- Pancham: 
- Fighting,
- 67, at: 82, df: 62, sa: 46, sd: 48, sp: 43 
- 
- Pangoro: 
- Fighting, Dark,
- 95, at: 124, df: 78, sa: 69, sd: 71, sp: 58 
- 
- Phantump: 
- Ghost, Grass,
- 43, at: 70, df: 48, sa: 50, sd: 60, sp: 38 
- 
- Pikachu-Cosplay: 
- Electric,
- 35, at: 55, df: 40, sa: 50, sd: 50, sp: 90 
- 
- Pikachu-Rock-Star: 
- Electric,
- 35, at: 55, df: 40, sa: 50, sd: 50, sp: 90 
- 
- Pikachu-Belle: 
- Electric,
- 35, at: 55, df: 40, sa: 50, sd: 50, sp: 90 
- 
- Pikachu-PhD: 
- Electric,
- 35, at: 55, df: 40, sa: 50, sd: 50, sp: 90 
- 
- Pikachu-Pop-Star: 
- Electric,
- 35, at: 55, df: 40, sa: 50, sd: 50, sp: 90 
- 
- Pikachu-Libre: 
- Electric,
- 35, at: 55, df: 40, sa: 50, sd: 50, sp: 90 
- 
- Plasmanta: 
- Electric, Poison,
- 60, at: 57, df: 119, sa: 131, sd: 98, sp: 100 
- 
- Pluffle: 
- Fairy,
- 74, at: 38, df: 51, sa: 65, sd: 78, sp: 49 
- 
- Groudon-Primal: 
- Ground, Fire,
- 100, at: 180, df: 160, sa: 150, sd: 90, sp: 90 
- 
- Kyogre-Primal: 
- Water,
- 100, at: 150, df: 90, sa: 180, sd: 160, sp: 90 
- 
- Pumpkaboo: 
- Ghost, Grass,
- 49, at: 66, df: 70, sa: 44, sd: 55, sp: 51 
- 
- Pumpkaboo-Large: 
- Ghost, Grass,
- 54, at: 66, df: 70, sa: 44, sd: 55, sp: 46 
- 
- Pumpkaboo-Small: 
- Ghost, Grass,
- 44, at: 66, df: 70, sa: 44, sd: 55, sp: 56 
- 
- Pumpkaboo-Super: 
- Ghost, Grass,
- 59, at: 66, df: 70, sa: 44, sd: 55, sp: 41 
- 
- Pyroar: 
- Fire, Normal,
- 86, at: 68, df: 72, sa: 109, sd: 66, sp: 106 
- 
- Quilladin: 
- Grass,
- 61, at: 78, df: 95, sa: 56, sd: 58, sp: 57 
- 
- Scatterbug: 
- Bug,
- 38, at: 35, df: 40, sa: 27, sd: 25, sp: 35 
- 
- Skiddo: 
- Grass,
- 66, at: 65, df: 48, sa: 62, sd: 57, sp: 52 
- 
- Skrelp: 
- Poison, Water,
- 50, at: 60, df: 60, sa: 60, sd: 60, sp: 30 
- 
- Sliggoo: 
- Dragon,
- 68, at: 75, df: 53, sa: 83, sd: 113, sp: 60 
- 
- Slurpuff: 
- Fairy,
- 82, at: 80, df: 86, sa: 85, sd: 75, sp: 72 
- 
- Snugglow: 
- Electric, Poison,
- 40, at: 37, df: 79, sa: 91, sd: 68, sp: 70 
- 
- Spewpa: 
- Bug,
- 45, at: 22, df: 60, sa: 27, sd: 30, sp: 29 
- 
- Spritzee: 
- Fairy,
- 78, at: 52, df: 60, sa: 63, sd: 65, sp: 23 
- 
- Swirlix: 
- Fairy,
- 62, at: 48, df: 66, sa: 59, sd: 57, sp: 49 
- 
- Sylveon: 
- Fairy,
- 95, at: 65, df: 65, sa: 110, sd: 130, sp: 60 
- 
- Talonflame: 
- Fire, Flying,
- 78, at: 81, df: 71, sa: 74, sd: 69, sp: 126 
- 
- Trevenant: 
- Ghost, Grass,
- 85, at: 110, df: 76, sa: 65, sd: 82, sp: 56 
- 
- Tyrantrum: 
- Rock, Dragon,
- 82, at: 121, df: 119, sa: 69, sd: 59, sp: 71 
- 
- Tyrunt: 
- Rock, Dragon,
- 58, at: 89, df: 77, sa: 45, sd: 45, sp: 48 
- 
- Vivillon: 
- Bug, Flying,
- 80, at: 52, df: 50, sa: 90, sd: 50, sp: 89 
- 
- Vivillon-Fancy: 
- Bug, Flying,
- 80, at: 52, df: 50, sa: 90, sd: 50, sp: 89 
- 
- Vivillon-Pokeball: 
- Bug, Flying,
- 80, at: 52, df: 50, sa: 90, sd: 50, sp: 89 
- 
- Volcanion: 
- Fire, Water,
- 80, at: 110, df: 120, sa: 130, sd: 90, sp: 70 
- 
- Volkraken: 
- Water, Fire,
- 100, at: 45, df: 80, sa: 135, sd: 100, sp: 95 
- 
- Volkritter: 
- Water, Fire,
- 60, at: 30, df: 50, sa: 80, sd: 60, sp: 70 
- 
- Xerneas: 
- Fairy,
- 126, at: 131, df: 95, sa: 131, sd: 98, sp: 99 
- 
- Yveltal: 
- Dark, Flying,
- 126, at: 131, df: 95, sa: 131, sd: 98, sp: 99 
- 
- Zygarde: 
- Dragon, Ground,
- 108, at: 100, df: 121, sa: 81, sd: 95, sp: 95 
+ Abomasnow: Grass, Ice,
+ 90, 92, 75, 92, 85, 60 
+ 
+ Ambipom: Normal,
+ 75, 100, 66, 60, 66, 115 
+ 
+ Arceus: Normal,
+ 120, 120, 120, 120, 120, 120 
+ 
+ Arceus-Bug: Bug,
+ 120, 120, 120, 120, 120, 120 
+ 
+ Arceus-Dark: Dark,
+ 120, 120, 120, 120, 120, 120 
+ 
+ Arceus-Dragon: Dragon,
+ 120, 120, 120, 120, 120, 120 
+ 
+ Arceus-Electric: Electric,
+ 120, 120, 120, 120, 120, 120 
+ 
+ Arceus-Fighting: Fighting,
+ 120, 120, 120, 120, 120, 120 
+ 
+ Arceus-Fire: Fire,
+ 120, 120, 120, 120, 120, 120 
+ 
+ Arceus-Flying: Flying,
+ 120, 120, 120, 120, 120, 120 
+ 
+ Arceus-Ghost: Ghost,
+ 120, 120, 120, 120, 120, 120 
+ 
+ Arceus-Grass: Grass,
+ 120, 120, 120, 120, 120, 120 
+ 
+ Arceus-Ground: Ground,
+ 120, 120, 120, 120, 120, 120 
+ 
+ Arceus-Ice: Ice,
+ 120, 120, 120, 120, 120, 120 
+ 
+ Arceus-Poison: Poison,
+ 120, 120, 120, 120, 120, 120 
+ 
+ Arceus-Psychic: Psychic,
+ 120, 120, 120, 120, 120, 120 
+ 
+ Arceus-Rock: Rock,
+ 120, 120, 120, 120, 120, 120 
+ 
+ Arceus-Steel: Steel,
+ 120, 120, 120, 120, 120, 120 
+ 
+ Arceus-Water: Water,
+ 120, 120, 120, 120, 120, 120 
+ 
+ Arghonaut: Water, Fighting,
+ 105, 110, 95, 70, 100, 75 
+ 
+ Azelf: Psychic,
+ 75, 125, 70, 125, 70, 115 
+ 
+ Bastiodon: Rock, Steel,
+ 60, 52, 168, 47, 138, 30 
+ 
+ Bibarel: Normal, Water,
+ 79, 85, 60, 55, 60, 71 
+ 
+ Bidoof: Normal,
+ 59, 45, 40, 35, 40, 31 
+ 
+ Bonsly: Rock,
+ 50, 80, 95, 10, 45, 10 
+ 
+ Breezi: Poison, Flying,
+ 50, 46, 69, 60, 50, 75 
+ 
+ Bronzong: Steel, Psychic,
+ 67, 89, 116, 79, 116, 33 
+ 
+ Bronzor: Steel, Psychic,
+ 57, 24, 86, 24, 86, 23 
+ 
+ Budew: Grass, Poison,
+ 40, 30, 35, 50, 70, 55 
+ 
+ Buizel: Water,
+ 55, 65, 35, 60, 30, 85 
+ 
+ Buneary: Normal,
+ 55, 66, 44, 44, 56, 85 
+ 
+ Burmy: Bug,
+ 40, 29, 45, 29, 45, 36 
+ 
+ Carnivine: Grass,
+ 74, 100, 72, 90, 72, 46 
+ 
+ Chatot: Normal, Flying,
+ 76, 65, 45, 92, 42, 91 
+ 
+ Cherrim: Grass,
+ 70, 60, 70, 87, 78, 85 
+ 
+ Cherrim-Sunshine: Grass,
+ 70, 60, 70, 87, 78, 85 
+ 
+ Cherubi: Grass,
+ 45, 35, 45, 62, 53, 35 
+ 
+ Chimchar: Fire,
+ 44, 58, 44, 58, 44, 61 
+ 
+ Chingling: Psychic,
+ 45, 30, 50, 65, 50, 45 
+ 
+ Colossoil: Dark, Ground,
+ 133, 122, 72, 71, 72, 95 
+ 
+ Combee: Bug, Flying,
+ 30, 30, 42, 30, 42, 70 
+ 
+ Cranidos: Rock,
+ 67, 125, 40, 30, 30, 58 
+ 
+ Cresselia: Psychic,
+ 120, 70, 120, 75, 130, 85 
+ 
+ Croagunk: Poison, Fighting,
+ 48, 61, 40, 61, 40, 50 
+ 
+ Cyclohm: Electric, Dragon,
+ 108, 60, 118, 112, 70, 80 
+ 
+ Darkrai: Dark,
+ 70, 90, 90, 135, 90, 125 
+ 
+ Dialga: Steel, Dragon,
+ 100, 120, 120, 150, 100, 90 
+ 
+ Drapion: Poison, Dark,
+ 70, 90, 110, 60, 75, 95 
+ 
+ Drifblim: Ghost, Flying,
+ 150, 80, 44, 90, 54, 80 
+ 
+ Drifloon: Ghost, Flying,
+ 90, 50, 34, 60, 44, 70 
+ 
+ Dusknoir: Ghost,
+ 45, 100, 135, 65, 135, 45 
+ 
+ Electivire: Electric,
+ 75, 123, 67, 95, 85, 95 
+ 
+ Embirch: Fire, Grass,
+ 60, 40, 55, 65, 40, 60 
+ 
+ Empoleon: Water, Steel,
+ 84, 86, 88, 111, 101, 60 
+ 
+ Fidgit: Poison, Ground,
+ 95, 76, 109, 90, 80, 105 
+ 
+ Finneon: Water,
+ 49, 49, 56, 49, 61, 66 
+ 
+ Flarelm: Fire, Grass,
+ 90, 50, 95, 75, 70, 40 
+ 
+ Floatzel: Water,
+ 85, 105, 55, 85, 50, 115 
+ 
+ Froslass: Ice, Ghost,
+ 70, 80, 70, 80, 70, 110 
+ 
+ Gabite: Dragon, Ground,
+ 68, 90, 65, 50, 55, 82 
+ 
+ Gallade: Psychic, Fighting,
+ 68, 125, 65, 65, 115, 80 
+ 
+ Garchomp: Dragon, Ground,
+ 108, 130, 95, 80, 85, 102 
+ 
+ Gastrodon: Water, Ground,
+ 111, 83, 68, 92, 82, 39 
+ 
+ Gible: Dragon, Ground,
+ 58, 70, 45, 40, 45, 42 
+ 
+ Giratina: Ghost, Dragon,
+ 150, 100, 120, 100, 120, 90 
+ 
+ Giratina-Origin: Ghost, Dragon,
+ 150, 120, 100, 120, 100, 90 
+ 
+ Glaceon: Ice,
+ 65, 60, 110, 130, 95, 65 
+ 
+ Glameow: Normal,
+ 49, 55, 42, 42, 37, 85 
+ 
+ Gliscor: Ground, Flying,
+ 75, 95, 125, 45, 75, 95 
+ 
+ Grotle: Grass,
+ 75, 89, 85, 55, 65, 36 
+ 
+ Happiny: Normal,
+ 100, 5, 5, 15, 65, 30 
+ 
+ Heatran: Fire, Steel,
+ 91, 90, 106, 130, 106, 77 
+ 
+ Hippopotas: Ground,
+ 68, 72, 78, 38, 42, 32 
+ 
+ Hippowdon: Ground,
+ 108, 112, 118, 68, 72, 47 
+ 
+ Honchkrow: Dark, Flying,
+ 100, 125, 52, 105, 52, 71 
+ 
+ Infernape: Fire, Fighting,
+ 76, 104, 71, 104, 71, 108 
+ 
+ Kitsunoh: Ghost, Steel,
+ 80, 103, 85, 55, 80, 110 
+ 
+ Kricketot: Bug,
+ 37, 25, 41, 25, 41, 25 
+ 
+ Kricketune: Bug,
+ 77, 85, 51, 55, 51, 65 
+ 
+ Krilowatt: Electric, Water,
+ 151, 84, 73, 83, 74, 105 
+ 
+ Leafeon: Grass,
+ 65, 110, 130, 60, 65, 95 
+ 
+ Lickilicky: Normal,
+ 110, 85, 95, 80, 95, 50 
+ 
+ Lopunny: Normal,
+ 65, 76, 84, 54, 96, 105 
+ 
+ Lucario: Fighting, Steel,
+ 70, 110, 70, 115, 70, 90 
+ 
+ Lumineon: Water,
+ 69, 69, 76, 69, 86, 91 
+ 
+ Luxio: Electric,
+ 60, 85, 49, 60, 49, 60 
+ 
+ Luxray: Electric,
+ 80, 120, 79, 95, 79, 70 
+ 
+ Magmortar: Fire,
+ 75, 95, 67, 125, 95, 83 
+ 
+ Magnezone: Electric, Steel,
+ 70, 70, 115, 130, 90, 60 
+ 
+ Mamoswine: Ice, Ground,
+ 110, 130, 80, 70, 60, 80 
+ 
+ Manaphy: Water,
+ 100, 100, 100, 100, 100, 100 
+ 
+ Mantyke: Water, Flying,
+ 45, 20, 50, 60, 120, 50 
+ 
+ Mesprit: Psychic,
+ 80, 105, 105, 105, 105, 80 
+ 
+ Mime Jr.: Psychic,
+ 20, 25, 45, 70, 90, 60 
+ 
+ Mismagius: Ghost,
+ 60, 60, 60, 105, 105, 105 
+ 
+ Monferno: Fire, Fighting,
+ 64, 78, 52, 78, 52, 81 
+ 
+ Mothim: Bug, Flying,
+ 70, 94, 50, 94, 50, 66 
+ 
+ Munchlax: Normal,
+ 135, 85, 40, 40, 85, 5 
+ 
+ Pachirisu: Electric,
+ 60, 45, 70, 45, 90, 95 
+ 
+ Palkia: Water, Dragon,
+ 90, 120, 100, 150, 120, 100 
+ 
+ Phione: Water,
+ 80, 80, 80, 80, 80, 80 
+ 
+ Pichu-Spiky-eared: Electric,
+ 20, 40, 15, 35, 35, 60 
+ 
+ Piplup: Water,
+ 53, 51, 53, 61, 56, 40 
+ 
+ Porygon-Z: Normal,
+ 85, 80, 70, 135, 75, 90 
+ 
+ Prinplup: Water,
+ 64, 66, 68, 81, 76, 50 
+ 
+ Privatyke: Water, Fighting,
+ 65, 75, 65, 40, 60, 45 
+ 
+ Probopass: Rock, Steel,
+ 60, 55, 145, 75, 150, 40 
+ 
+ Purugly: Normal,
+ 71, 82, 64, 64, 59, 112 
+ 
+ Pyroak: Fire, Grass,
+ 120, 70, 105, 95, 90, 60 
+ 
+ Rampardos: Rock,
+ 97, 165, 60, 65, 50, 58 
+ 
+ Rebble: Rock,
+ 45, 25, 65, 75, 55, 80 
+ 
+ Regigigas: Normal,
+ 110, 160, 110, 80, 110, 100 
+ 
+ Revenankh: Ghost, Fighting,
+ 90, 105, 90, 65, 110, 65 
+ 
+ Rhyperior: Ground, Rock,
+ 115, 140, 130, 55, 55, 40 
+ 
+ Riolu: Fighting,
+ 40, 70, 40, 35, 40, 60 
+ 
+ Roserade: Grass, Poison,
+ 60, 70, 55, 125, 105, 90 
+ 
+ Rotom: Electric, Ghost,
+ 50, 50, 77, 95, 77, 91 
+ 
+ Rotom-Mow: Electric, Ghost,
+ 50, 65, 107, 105, 107, 86 
+ 
+ Rotom-Frost: Electric, Ghost,
+ 50, 65, 107, 105, 107, 86 
+ 
+ Rotom-Heat: Electric, Ghost,
+ 50, 65, 107, 105, 107, 86 
+ 
+ Rotom-Fan: Electric, Ghost,
+ 50, 65, 107, 105, 107, 86 
+ 
+ Rotom-Wash: Electric, Ghost,
+ 50, 65, 107, 105, 107, 86 
+ 
+ Shaymin: Grass,
+ 100, 100, 100, 100, 100, 100 
+ 
+ Shaymin-Sky: Grass, Flying,
+ 100, 103, 75, 120, 75, 127 
+ 
+ Shellos: Water,
+ 76, 48, 48, 57, 62, 34 
+ 
+ Shieldon: Rock, Steel,
+ 30, 42, 118, 42, 88, 30 
+ 
+ Shinx: Electric,
+ 45, 65, 34, 40, 34, 45 
+ 
+ Skorupi: Poison, Bug,
+ 40, 50, 90, 30, 55, 65 
+ 
+ Skuntank: Poison, Dark,
+ 103, 93, 67, 71, 61, 84 
+ 
+ Snover: Grass, Ice,
+ 60, 62, 50, 62, 60, 40 
+ 
+ Spiritomb: Ghost, Dark,
+ 50, 92, 108, 92, 108, 35 
+ 
+ Staraptor: Normal, Flying,
+ 85, 120, 70, 50, 50, 100 
+ 
+ Staravia: Normal, Flying,
+ 55, 75, 50, 40, 40, 80 
+ 
+ Starly: Normal, Flying,
+ 40, 55, 30, 30, 30, 60 
+ 
+ Stratagem: Rock,
+ 90, 60, 65, 120, 70, 130 
+ 
+ Stunky: Poison, Dark,
+ 63, 63, 47, 41, 41, 74 
+ 
+ Syclant: Ice, Bug,
+ 70, 116, 70, 114, 64, 121 
+ 
+ Syclar: Ice, Bug,
+ 40, 76, 45, 74, 39, 91 
+ 
+ Tactite: Rock,
+ 70, 40, 65, 100, 65, 95 
+ 
+ Tangrowth: Grass,
+ 100, 100, 125, 110, 50, 50 
+ 
+ Togekiss: Normal, Flying,
+ 85, 50, 95, 120, 115, 80 
+ 
+ Torterra: Grass, Ground,
+ 95, 109, 105, 75, 85, 56 
+ 
+ Toxicroak: Poison, Fighting,
+ 83, 106, 65, 86, 65, 85 
+ 
+ Turtwig: Grass,
+ 55, 68, 64, 45, 55, 31 
+ 
+ Uxie: Psychic,
+ 75, 75, 130, 75, 130, 95 
+ 
+ Vespiquen: Bug, Flying,
+ 70, 80, 102, 80, 102, 40 
+ 
+ Voodoll: Normal, Dark,
+ 55, 40, 55, 75, 50, 70 
+ 
+ Voodoom: Fighting, Dark,
+ 90, 85, 80, 105, 80, 110 
+ 
+ Weavile: Dark, Ice,
+ 70, 120, 65, 45, 85, 125 
+ 
+ Wormadam: Bug, Grass,
+ 60, 59, 85, 79, 105, 36 
+ 
+ Wormadam-Sandy: Bug, Ground,
+ 60, 79, 105, 59, 85, 36 
+ 
+ Wormadam-Trash: Bug, Steel,
+ 60, 69, 95, 69, 95, 36 
+ 
+ Yanmega: Bug, Flying,
+ 86, 76, 86, 116, 56, 95 
+ 
+ Accelgor: Bug,
+ 80, 70, 40, 100, 60, 145 
+ 
+ Alomomola: Water,
+ 165, 75, 80, 40, 45, 65 
+ 
+ Amoonguss: Grass, Poison,
+ 114, 85, 70, 85, 80, 30 
+ 
+ Archen: Rock, Flying,
+ 55, 112, 45, 74, 45, 70 
+ 
+ Archeops: Rock, Flying,
+ 75, 140, 65, 112, 65, 110 
+ 
+ Argalis: Bug, Psychic,
+ 60, 90, 89, 87, 40, 54 
+ 
+ Audino: Normal,
+ 103, 60, 86, 60, 86, 50 
+ 
+ Aurumoth: Bug, Psychic,
+ 110, 120, 99, 117, 60, 94 
+ 
+ Axew: Dragon,
+ 46, 87, 60, 30, 40, 57 
+ 
+ Basculin: Water,
+ 70, 92, 65, 80, 55, 98 
+ 
+ Basculin-Blue-Striped: Water,
+ 70, 92, 65, 80, 55, 98 
+ 
+ Beartic: Ice,
+ 95, 110, 80, 70, 80, 50 
+ 
+ Beheeyem: Psychic,
+ 75, 75, 75, 125, 95, 40 
+ 
+ Bisharp: Dark, Steel,
+ 65, 125, 100, 60, 70, 70 
+ 
+ Blitzle: Electric,
+ 45, 60, 32, 50, 32, 76 
+ 
+ Boldore: Rock,
+ 70, 105, 105, 50, 40, 20 
+ 
+ Bouffalant: Normal,
+ 95, 110, 95, 40, 95, 55 
+ 
+ Brattler: Dark, Grass,
+ 80, 70, 40, 20, 90, 30 
+ 
+ Braviary: Normal, Flying,
+ 100, 123, 75, 57, 75, 80 
+ 
+ Carracosta: Water, Rock,
+ 74, 108, 133, 83, 65, 32 
+ 
+ Cawdet: Steel, Flying,
+ 35, 72, 85, 40, 55, 88 
+ 
+ Cawmodore: Steel, Flying,
+ 50, 92, 130, 65, 75, 118 
+ 
+ Chandelure: Ghost, Fire,
+ 60, 55, 90, 145, 90, 80 
+ 
+ Cinccino: Normal,
+ 75, 95, 60, 65, 60, 115 
+ 
+ Cobalion: Steel, Fighting,
+ 91, 90, 129, 90, 72, 108 
+ 
+ Cofagrigus: Ghost,
+ 58, 50, 145, 95, 105, 30 
+ 
+ Conkeldurr: Fighting,
+ 105, 140, 95, 55, 65, 45 
+ 
+ Cottonee: Grass,
+ 40, 27, 60, 37, 50, 66 
+ 
+ Crustle: Bug, Rock,
+ 70, 95, 125, 65, 75, 45 
+ 
+ Cryogonal: Ice,
+ 70, 50, 30, 95, 135, 105 
+ 
+ Cubchoo: Ice,
+ 55, 70, 40, 60, 40, 40 
+ 
+ Cupra: Bug, Psychic,
+ 50, 60, 49, 67, 30, 44 
+ 
+ Darmanitan: Fire,
+ 105, 140, 55, 30, 55, 95 
+ 
+ Darmanitan-Zen: Fire, Psychic,
+ 105, 30, 105, 140, 105, 55 
+ 
+ Darumaka: Fire,
+ 70, 90, 45, 15, 45, 50 
+ 
+ Deerling: Normal, Grass,
+ 60, 60, 50, 40, 50, 75 
+ 
+ Deino: Dark, Dragon,
+ 52, 65, 50, 45, 50, 38 
+ 
+ Dewott: Water,
+ 75, 75, 60, 83, 60, 60 
+ 
+ Drilbur: Ground,
+ 60, 85, 40, 30, 45, 68 
+ 
+ Druddigon: Dragon,
+ 77, 120, 90, 60, 90, 48 
+ 
+ Ducklett: Water, Flying,
+ 62, 44, 50, 44, 50, 55 
+ 
+ Duosion: Psychic,
+ 65, 40, 50, 125, 60, 30 
+ 
+ Durant: Bug, Steel,
+ 58, 109, 112, 48, 48, 109 
+ 
+ Dwebble: Bug, Rock,
+ 50, 65, 85, 35, 35, 55 
+ 
+ Eelektrik: Electric,
+ 65, 85, 70, 75, 70, 40 
+ 
+ Eelektross: Electric,
+ 85, 115, 80, 105, 80, 50 
+ 
+ Elgyem: Psychic,
+ 55, 55, 55, 85, 55, 30 
+ 
+ Emboar: Fire, Fighting,
+ 110, 123, 65, 100, 65, 65 
+ 
+ Emolga: Electric, Flying,
+ 55, 75, 60, 75, 60, 103 
+ 
+ Escavalier: Bug, Steel,
+ 70, 135, 105, 60, 105, 20 
+ 
+ Excadrill: Ground, Steel,
+ 110, 135, 60, 50, 65, 88 
+ 
+ Ferroseed: Grass, Steel,
+ 44, 50, 91, 24, 86, 10 
+ 
+ Ferrothorn: Grass, Steel,
+ 74, 94, 131, 54, 116, 20 
+ 
+ Foongus: Grass, Poison,
+ 69, 55, 45, 55, 55, 15 
+ 
+ Fraxure: Dragon,
+ 66, 117, 70, 40, 50, 67 
+ 
+ Frillish: Water, Ghost,
+ 55, 40, 50, 65, 85, 40 
+ 
+ Galvantula: Bug, Electric,
+ 70, 77, 60, 97, 60, 108 
+ 
+ Garbodor: Poison,
+ 80, 95, 82, 60, 82, 75 
+ 
+ Genesect: Bug, Steel,
+ 71, 120, 95, 120, 95, 99 
+ 
+ Genesect-Burn: Bug, Steel,
+ 71, 120, 95, 120, 95, 99 
+ 
+ Genesect-Chill: Bug, Steel,
+ 71, 120, 95, 120, 95, 99 
+ 
+ Genesect-Douse: Bug, Steel,
+ 71, 120, 95, 120, 95, 99 
+ 
+ Genesect-Shock: Bug, Steel,
+ 71, 120, 95, 120, 95, 99 
+ 
+ Gigalith: Rock,
+ 85, 135, 130, 60, 70, 25 
+ 
+ Golett: Ground, Ghost,
+ 59, 74, 50, 35, 50, 35 
+ 
+ Golurk: Ground, Ghost,
+ 89, 124, 80, 55, 80, 55 
+ 
+ Gothita: Psychic,
+ 45, 30, 50, 55, 65, 45 
+ 
+ Gothitelle: Psychic,
+ 70, 55, 95, 95, 110, 65 
+ 
+ Gothorita: Psychic,
+ 60, 45, 70, 75, 85, 55 
+ 
+ Gurdurr: Fighting,
+ 85, 105, 85, 40, 50, 40 
+ 
+ Haxorus: Dragon,
+ 76, 147, 90, 60, 70, 97 
+ 
+ Heatmor: Fire,
+ 85, 97, 66, 105, 66, 65 
+ 
+ Herdier: Normal,
+ 65, 80, 65, 35, 65, 60 
+ 
+ Hydreigon: Dark, Dragon,
+ 92, 105, 90, 125, 90, 98 
+ 
+ Jellicent: Water, Ghost,
+ 100, 60, 70, 85, 105, 60 
+ 
+ Joltik: Bug, Electric,
+ 50, 47, 50, 57, 50, 65 
+ 
+ Karrablast: Bug,
+ 50, 75, 45, 40, 45, 60 
+ 
+ Keldeo: Water, Fighting,
+ 91, 72, 90, 129, 90, 108 
+ 
+ Keldeo-Resolute: Water, Fighting,
+ 91, 72, 90, 129, 90, 108 
+ 
+ Klang: Steel,
+ 60, 80, 95, 70, 85, 50 
+ 
+ Klink: Steel,
+ 40, 55, 70, 45, 60, 30 
+ 
+ Klinklang: Steel,
+ 60, 100, 115, 70, 85, 90 
+ 
+ Krokorok: Ground, Dark,
+ 60, 82, 45, 45, 45, 74 
+ 
+ Krookodile: Ground, Dark,
+ 95, 117, 70, 65, 70, 92 
+ 
+ Kyurem: Dragon, Ice,
+ 125, 130, 90, 130, 90, 95 
+ 
+ Kyurem-Black: Dragon, Ice,
+ 125, 170, 100, 120, 90, 95 
+ 
+ Kyurem-White: Dragon, Ice,
+ 125, 120, 90, 170, 100, 95 
+ 
+ Lampent: Ghost, Fire,
+ 60, 40, 60, 95, 60, 55 
+ 
+ Landorus: Ground, Flying,
+ 89, 125, 90, 115, 80, 101 
+ 
+ Landorus-Therian: Ground, Flying,
+ 89, 145, 90, 105, 80, 91 
+ 
+ Larvesta: Bug, Fire,
+ 55, 85, 55, 50, 55, 60 
+ 
+ Leavanny: Bug, Grass,
+ 75, 103, 80, 70, 70, 92 
+ 
+ Liepard: Dark,
+ 64, 88, 50, 88, 50, 106 
+ 
+ Lilligant: Grass,
+ 70, 60, 75, 110, 75, 90 
+ 
+ Lillipup: Normal,
+ 45, 60, 45, 25, 45, 55 
+ 
+ Litwick: Ghost, Fire,
+ 50, 30, 55, 65, 55, 20 
+ 
+ Malaconda: Dark, Grass,
+ 115, 100, 60, 40, 130, 55 
+ 
+ Mandibuzz: Dark, Flying,
+ 110, 65, 105, 55, 95, 80 
+ 
+ Maractus: Grass,
+ 75, 86, 67, 106, 67, 60 
+ 
+ Meloetta: Normal, Psychic,
+ 100, 77, 77, 128, 128, 90 
+ 
+ Meloetta-Pirouette: Normal, Fighting,
+ 100, 128, 90, 77, 77, 128 
+ 
+ Mienfoo: Fighting,
+ 45, 85, 50, 55, 50, 65 
+ 
+ Mienshao: Fighting,
+ 65, 125, 60, 95, 60, 105 
+ 
+ Minccino: Normal,
+ 55, 50, 40, 40, 40, 75 
+ 
+ Mollux: Fire, Poison,
+ 95, 45, 83, 131, 105, 76 
+ 
+ Munna: Psychic,
+ 76, 25, 45, 67, 55, 24 
+ 
+ Musharna: Psychic,
+ 116, 55, 85, 107, 95, 29 
+ 
+ Necturine: Grass, Ghost,
+ 49, 55, 60, 50, 75, 51 
+ 
+ Necturna: Grass, Ghost,
+ 64, 120, 100, 85, 120, 81 
+ 
+ Oshawott: Water,
+ 55, 55, 45, 63, 45, 45 
+ 
+ Palpitoad: Water, Ground,
+ 75, 65, 55, 65, 55, 69 
+ 
+ Panpour: Water,
+ 50, 53, 48, 53, 48, 64 
+ 
+ Pansage: Grass,
+ 50, 53, 48, 53, 48, 64 
+ 
+ Pansear: Fire,
+ 50, 53, 48, 53, 48, 64 
+ 
+ Patrat: Normal,
+ 45, 55, 39, 35, 39, 42 
+ 
+ Pawniard: Dark, Steel,
+ 45, 85, 70, 40, 40, 60 
+ 
+ Petilil: Grass,
+ 45, 35, 50, 70, 50, 30 
+ 
+ Pidove: Normal, Flying,
+ 50, 55, 50, 36, 30, 43 
+ 
+ Pignite: Fire, Fighting,
+ 90, 93, 55, 70, 55, 55 
+ 
+ Purrloin: Dark,
+ 41, 50, 37, 50, 37, 66 
+ 
+ Reshiram: Dragon, Fire,
+ 100, 120, 100, 150, 120, 90 
+ 
+ Reuniclus: Psychic,
+ 110, 65, 75, 125, 85, 30 
+ 
+ Roggenrola: Rock,
+ 55, 75, 85, 25, 25, 15 
+ 
+ Rufflet: Normal, Flying,
+ 70, 83, 50, 37, 50, 60 
+ 
+ Samurott: Water,
+ 95, 100, 85, 108, 70, 70 
+ 
+ Sandile: Ground, Dark,
+ 50, 72, 35, 35, 35, 65 
+ 
+ Sawk: Fighting,
+ 75, 125, 75, 30, 75, 85 
+ 
+ Sawsbuck: Normal, Grass,
+ 80, 100, 70, 60, 70, 95 
+ 
+ Scolipede: Bug, Poison,
+ 60, 90, 89, 55, 69, 112 
+ 
+ Scrafty: Dark, Fighting,
+ 65, 90, 115, 45, 115, 58 
+ 
+ Scraggy: Dark, Fighting,
+ 50, 75, 70, 35, 70, 48 
+ 
+ Scratchet: Normal, Fighting,
+ 55, 85, 80, 20, 70, 40 
+ 
+ Seismitoad: Water, Ground,
+ 105, 85, 75, 85, 75, 74 
+ 
+ Serperior: Grass,
+ 75, 75, 95, 75, 95, 113 
+ 
+ Servine: Grass,
+ 60, 60, 75, 60, 75, 83 
+ 
+ Sewaddle: Bug, Grass,
+ 45, 53, 70, 40, 60, 42 
+ 
+ Shelmet: Bug,
+ 50, 40, 85, 40, 65, 25 
+ 
+ Sigilyph: Psychic, Flying,
+ 72, 58, 80, 103, 80, 97 
+ 
+ Simipour: Water,
+ 75, 98, 63, 98, 63, 101 
+ 
+ Simisage: Grass,
+ 75, 98, 63, 98, 63, 101 
+ 
+ Simisear: Fire,
+ 75, 98, 63, 98, 63, 101 
+ 
+ Snivy: Grass,
+ 45, 45, 55, 45, 55, 63 
+ 
+ Solosis: Psychic,
+ 45, 30, 40, 105, 50, 20 
+ 
+ Stoutland: Normal,
+ 85, 100, 90, 45, 90, 80 
+ 
+ Stunfisk: Ground, Electric,
+ 109, 66, 84, 81, 99, 32 
+ 
+ Swadloon: Bug, Grass,
+ 55, 63, 90, 50, 80, 42 
+ 
+ Swanna: Water, Flying,
+ 75, 87, 63, 87, 63, 98 
+ 
+ Swoobat: Psychic, Flying,
+ 67, 57, 55, 77, 55, 114 
+ 
+ Tepig: Fire,
+ 65, 63, 45, 45, 45, 45 
+ 
+ Terrakion: Rock, Fighting,
+ 91, 129, 90, 72, 90, 108 
+ 
+ Throh: Fighting,
+ 120, 100, 85, 30, 85, 45 
+ 
+ Thundurus: Electric, Flying,
+ 79, 115, 70, 125, 80, 111 
+ 
+ Thundurus-Therian: Electric, Flying,
+ 79, 105, 70, 145, 80, 101 
+ 
+ Timburr: Fighting,
+ 75, 80, 55, 25, 35, 35 
+ 
+ Tirtouga: Water, Rock,
+ 54, 78, 103, 53, 45, 22 
+ 
+ Tomohawk: Flying, Fighting,
+ 105, 60, 90, 115, 80, 85 
+ 
+ Tornadus: Flying,
+ 79, 115, 70, 125, 80, 111 
+ 
+ Tornadus-Therian: Flying,
+ 79, 100, 80, 110, 90, 121 
+ 
+ Tranquill: Normal, Flying,
+ 62, 77, 62, 50, 42, 65 
+ 
+ Trubbish: Poison,
+ 50, 50, 62, 40, 62, 65 
+ 
+ Tympole: Water,
+ 50, 50, 40, 50, 40, 64 
+ 
+ Tynamo: Electric,
+ 35, 55, 40, 45, 40, 60 
+ 
+ Unfezant: Normal, Flying,
+ 80, 105, 80, 65, 55, 93 
+ 
+ Vanillish: Ice,
+ 51, 65, 65, 80, 75, 59 
+ 
+ Vanillite: Ice,
+ 36, 50, 50, 65, 60, 44 
+ 
+ Vanilluxe: Ice,
+ 71, 95, 85, 110, 95, 79 
+ 
+ Venipede: Bug, Poison,
+ 30, 45, 59, 30, 39, 57 
+ 
+ Victini: Psychic, Fire,
+ 100, 100, 100, 100, 100, 100 
+ 
+ Virizion: Grass, Fighting,
+ 91, 90, 72, 90, 129, 108 
+ 
+ Volcarona: Bug, Fire,
+ 85, 60, 65, 135, 105, 100 
+ 
+ Vullaby: Dark, Flying,
+ 70, 55, 75, 45, 65, 60 
+ 
+ Watchog: Normal,
+ 60, 85, 69, 60, 69, 77 
+ 
+ Whimsicott: Grass,
+ 60, 67, 85, 77, 75, 116 
+ 
+ Whirlipede: Bug, Poison,
+ 40, 55, 99, 40, 79, 47 
+ 
+ Woobat: Psychic, Flying,
+ 55, 45, 43, 55, 43, 72 
+ 
+ Yamask: Ghost,
+ 38, 30, 85, 55, 65, 30 
+ 
+ Zebstrika: Electric,
+ 75, 100, 63, 80, 63, 116 
+ 
+ Zekrom: Dragon, Electric,
+ 100, 150, 120, 120, 100, 90 
+ 
+ Zoroark: Dark,
+ 60, 105, 60, 120, 60, 105 
+ 
+ Zorua: Dark,
+ 40, 65, 40, 80, 40, 65 
+ 
+ Zweilous: Dark, Dragon,
+ 72, 85, 70, 65, 70, 58 
+ 
+ Aegislash-Blade: Steel, Ghost,
+ 60, 150, 50, 150, 50, 60 
+ 
+ Aegislash-Shield: Steel, Ghost,
+ 60, 50, 150, 50, 150, 60 
+ 
+ Aegislash-Both: Steel, Ghost,
+ 60, 150, 150, 150, 150, 60 
+ 
+ Amaura: Rock, Ice,
+ 77, 59, 50, 67, 63, 46 
+ 
+ Arceus-Fairy: Fairy,
+ 120, 120, 120, 120, 120, 120 
+ 
+ Aromatisse: Fairy,
+ 101, 72, 72, 99, 89, 29 
+ 
+ Aurorus: Rock, Ice,
+ 123, 77, 72, 99, 92, 58 
+ 
+ Avalugg: Ice,
+ 95, 117, 184, 44, 46, 28 
+ 
+ Barbaracle: Rock, Water,
+ 72, 105, 115, 54, 86, 68 
+ 
+ Bergmite: Ice,
+ 55, 69, 85, 32, 35, 28 
+ 
+ Binacle: Rock, Water,
+ 42, 52, 67, 39, 56, 50 
+ 
+ Braixen: Fire,
+ 59, 59, 58, 90, 70, 73 
+ 
+ Bunnelby: Normal,
+ 38, 36, 38, 32, 36, 57 
+ 
+ Caimanoe: Water, Steel,
+ 73, 85, 65, 80, 40, 87 
+ 
+ Carbink: Rock, Fairy,
+ 50, 50, 150, 50, 150, 50 
+ 
+ Chesnaught: Grass, Fighting,
+ 88, 107, 122, 74, 75, 64 
+ 
+ Chespin: Grass,
+ 56, 61, 65, 48, 45, 38 
+ 
+ Clauncher: Water,
+ 50, 53, 62, 58, 63, 44 
+ 
+ Clawitzer: Water,
+ 71, 73, 88, 120, 89, 59 
+ 
+ Crucibelle: Rock, Poison,
+ 106, 105, 65, 75, 85, 104 
+ 
+ Diancie: Rock, Fairy,
+ 50, 100, 150, 100, 150, 50 
+ 
+ Dedenne: Electric, Fairy,
+ 67, 58, 57, 81, 67, 101 
+ 
+ Delphox: Fire, Psychic,
+ 75, 69, 72, 114, 100, 104 
+ 
+ Diggersby: Normal, Ground,
+ 85, 56, 77, 50, 77, 78 
+ 
+ Doublade: Steel, Ghost,
+ 59, 110, 150, 45, 49, 35 
+ 
+ Dragalge: Poison, Dragon,
+ 65, 75, 90, 97, 123, 44 
+ 
+ Espurr: Psychic,
+ 62, 48, 54, 63, 60, 68 
+ 
+ Fennekin: Fire,
+ 40, 45, 40, 62, 60, 60 
+ 
+ FlabeÌbeÌ: Fairy,
+ 44, 38, 39, 61, 79, 42 
+ 
+ Fletchinder: Fire, Flying,
+ 62, 73, 55, 56, 52, 84 
+ 
+ Fletchling: Normal, Flying,
+ 45, 50, 43, 40, 38, 62 
+ 
+ Floatoy: Water,
+ 48, 70, 40, 70, 30, 77 
+ 
+ Floette: Fairy,
+ 54, 45, 47, 75, 98, 52 
+ 
+ Florges: Fairy,
+ 78, 65, 68, 112, 154, 75 
+ 
+ Froakie: Water,
+ 41, 56, 40, 62, 44, 71 
+ 
+ Frogadier: Water,
+ 54, 63, 52, 83, 56, 97 
+ 
+ Furfrou: Normal,
+ 75, 80, 60, 65, 90, 102 
+ 
+ Gogoat: Grass,
+ 123, 100, 62, 97, 81, 68 
+ 
+ Goodra: Dragon,
+ 90, 100, 70, 110, 150, 80 
+ 
+ Goomy: Dragon,
+ 45, 50, 35, 55, 75, 40 
+ 
+ Gourgeist: Ghost, Grass,
+ 65, 90, 122, 58, 75, 84 
+ 
+ Gourgeist-Large: Ghost, Grass,
+ 75, 95, 122, 58, 75, 69 
+ 
+ Gourgeist-Small: Ghost, Grass,
+ 55, 85, 122, 58, 75, 99 
+ 
+ Gourgeist-Super: Ghost, Grass,
+ 85, 100, 122, 58, 75, 54 
+ 
+ Greninja: Water, Dark,
+ 72, 95, 67, 103, 71, 122 
+ 
+ Hawlucha: Fighting, Flying,
+ 78, 92, 75, 74, 63, 118 
+ 
+ Heliolisk: Electric, Normal,
+ 62, 55, 52, 109, 94, 109 
+ 
+ Helioptile: Electric, Normal,
+ 44, 38, 33, 61, 43, 70 
+ 
+ Honedge: Steel, Ghost,
+ 45, 80, 100, 35, 37, 28 
+ 
+ Hoopa: Psychic, Ghost,
+ 80, 110, 60, 150, 130, 70 
+ 
+ Hoopa-Unbound: Psychic, Dark,
+ 80, 160, 60, 170, 130, 80 
+ 
+ Inkay: Dark, Psychic,
+ 53, 54, 53, 37, 46, 45 
+ 
+ Kerfluffle: Fairy, Fighting,
+ 84, 78, 86, 115, 88, 119 
+ 
+ Klefki: Steel, Fairy,
+ 57, 80, 91, 80, 87, 75 
+ 
+ Litleo: Fire, Normal,
+ 62, 50, 58, 73, 54, 72 
+ 
+ Malamar: Dark, Psychic,
+ 86, 92, 88, 68, 75, 73 
+ 
+ Abomasnow-Mega: Grass, Ice,
+ 90, 132, 105, 132, 105, 30 
+ 
+ Absol-Mega: Dark,
+ 65, 150, 60, 115, 60, 115 
+ 
+ Aerodactyl-Mega: Rock, Flying,
+ 80, 135, 85, 70, 95, 150 
+ 
+ Aggron-Mega: Steel,
+ 70, 140, 230, 60, 80, 50 
+ 
+ Alakazam-Mega: Psychic,
+ 55, 50, 65, 175, 95, 150 
+ 
+ Altaria-Mega: Dragon, Fairy,
+ 75, 110, 110, 110, 105, 80 
+ 
+ Ampharos-Mega: Electric, Dragon,
+ 90, 95, 105, 165, 110, 45 
+ 
+ Audino-Mega: Normal, Fairy,
+ 103, 60, 126, 80, 126, 50 
+ 
+ Banette-Mega: Ghost,
+ 64, 165, 75, 93, 83, 75 
+ 
+ Beedrill-Mega: Bug, Poison,
+ 65, 150, 40, 15, 80, 145 
+ 
+ Blastoise-Mega: Water,
+ 79, 103, 120, 135, 115, 78 
+ 
+ Blaziken-Mega: Fire, Fighting,
+ 80, 160, 80, 130, 80, 100 
+ 
+ Camerupt-Mega: Fire, Ground,
+ 70, 120, 100, 145, 105, 20 
+ 
+ Charizard-Mega-X: Fire, Dragon,
+ 78, 130, 111, 130, 85, 100 
+ 
+ Charizard-Mega-Y: Fire, Flying,
+ 78, 104, 78, 159, 115, 100 
+ 
+ Crucibelle-Mega: Rock, Poison,
+ 106, 135, 75, 85, 125, 114 
+ 
+ Diancie-Mega: Rock, Fairy,
+ 50, 160, 110, 160, 110, 110 
+ 
+ Gallade-Mega: Psychic, Fighting,
+ 68, 165, 95, 65, 115, 110 
+ 
+ Garchomp-Mega: Dragon, Ground,
+ 108, 170, 115, 120, 95, 92 
+ 
+ Gardevoir-Mega: Psychic, Fairy,
+ 68, 85, 65, 165, 135, 100 
+ 
+ Gengar-Mega: Ghost, Poison,
+ 60, 65, 80, 170, 95, 130 
+ 
+ Glalie-Mega: Ice,
+ 80, 120, 80, 120, 80, 100 
+ 
+ Gyarados-Mega: Water, Dark,
+ 95, 155, 109, 70, 130, 81 
+ 
+ Heracross-Mega: Bug, Fighting,
+ 80, 185, 115, 40, 105, 75 
+ 
+ Houndoom-Mega: Dark, Fire,
+ 75, 90, 90, 140, 90, 115 
+ 
+ Kangaskhan-Mega: Normal,
+ 105, 125, 100, 60, 100, 100 
+ 
+ Latias-Mega: Dragon, Psychic,
+ 80, 100, 120, 140, 150, 110 
+ 
+ Latios-Mega: Dragon, Psychic,
+ 80, 130, 100, 160, 120, 110 
+ 
+ Lopunny-Mega: Normal, Fighting,
+ 65, 136, 94, 54, 96, 135 
+ 
+ Lucario-Mega: Fighting, Steel,
+ 70, 145, 88, 140, 70, 112 
+ 
+ Manectric-Mega: Electric,
+ 70, 75, 80, 135, 80, 135 
+ 
+ Mawile-Mega: Steel, Fairy,
+ 50, 105, 125, 55, 95, 50 
+ 
+ Medicham-Mega: Fighting, Psychic,
+ 60, 100, 85, 80, 85, 100 
+ 
+ Metagross-Mega: Steel, Psychic,
+ 80, 145, 150, 105, 110, 110 
+ 
+ Mewtwo-Mega-X: Psychic, Fighting,
+ 106, 190, 100, 154, 100, 130 
+ 
+ Mewtwo-Mega-Y: Psychic,
+ 106, 150, 70, 194, 120, 140 
+ 
+ Pidgeot-Mega: Normal, Flying,
+ 83, 80, 80, 135, 80, 121 
+ 
+ Pinsir-Mega: Bug, Flying,
+ 65, 155, 120, 65, 90, 105 
+ 
+ Rayquaza-Mega: Dragon, Flying,
+ 105, 180, 100, 180, 100, 115 
+ 
+ Sableye-Mega: Dark, Ghost,
+ 50, 85, 125, 85, 115, 20 
+ 
+ Salamence-Mega: Dragon, Flying,
+ 95, 145, 130, 120, 90, 120 
+ 
+ Sceptile-Mega: Grass, Dragon,
+ 70, 110, 75, 145, 85, 145 
+ 
+ Scizor-Mega: Bug, Steel,
+ 70, 150, 140, 65, 100, 75 
+ 
+ Sharpedo-Mega: Water, Dark,
+ 70, 140, 70, 110, 65, 105 
+ 
+ Slowbro-Mega: Water, Psychic,
+ 95, 75, 180, 130, 80, 30 
+ 
+ Steelix-Mega: Steel, Ground,
+ 75, 125, 230, 55, 95, 30 
+ 
+ Swampert-Mega: Water, Ground,
+ 100, 150, 110, 95, 110, 70 
+ 
+ Tyranitar-Mega: Rock, Dark,
+ 100, 164, 150, 95, 120, 71 
+ 
+ Venusaur-Mega: Grass, Poison,
+ 80, 100, 123, 122, 120, 80 
+ 
+ Meowstic: Psychic,
+ 74, 48, 76, 83, 81, 104 
+ 
+ Meowstic-F: Psychic,
+ 74, 48, 76, 83, 81, 104 
+ 
+ Naviathan: Water, Steel,
+ 103, 110, 90, 95, 65, 97 
+ 
+ Noibat: Flying, Dragon,
+ 40, 30, 35, 45, 40, 55 
+ 
+ Noivern: Flying, Dragon,
+ 85, 70, 80, 97, 80, 123 
+ 
+ Pancham: Fighting,
+ 67, 82, 62, 46, 48, 43 
+ 
+ Pangoro: Fighting, Dark,
+ 95, 124, 78, 69, 71, 58 
+ 
+ Phantump: Ghost, Grass,
+ 43, 70, 48, 50, 60, 38 
+ 
+ Pikachu-Cosplay: Electric,
+ 35, 55, 40, 50, 50, 90 
+ 
+ Pikachu-Rock-Star: Electric,
+ 35, 55, 40, 50, 50, 90 
+ 
+ Pikachu-Belle: Electric,
+ 35, 55, 40, 50, 50, 90 
+ 
+ Pikachu-PhD: Electric,
+ 35, 55, 40, 50, 50, 90 
+ 
+ Pikachu-Pop-Star: Electric,
+ 35, 55, 40, 50, 50, 90 
+ 
+ Pikachu-Libre: Electric,
+ 35, 55, 40, 50, 50, 90 
+ 
+ Plasmanta: Electric, Poison,
+ 60, 57, 119, 131, 98, 100 
+ 
+ Pluffle: Fairy,
+ 74, 38, 51, 65, 78, 49 
+ 
+ Groudon-Primal: Ground, Fire,
+ 100, 180, 160, 150, 90, 90 
+ 
+ Kyogre-Primal: Water,
+ 100, 150, 90, 180, 160, 90 
+ 
+ Pumpkaboo: Ghost, Grass,
+ 49, 66, 70, 44, 55, 51 
+ 
+ Pumpkaboo-Large: Ghost, Grass,
+ 54, 66, 70, 44, 55, 46 
+ 
+ Pumpkaboo-Small: Ghost, Grass,
+ 44, 66, 70, 44, 55, 56 
+ 
+ Pumpkaboo-Super: Ghost, Grass,
+ 59, 66, 70, 44, 55, 41 
+ 
+ Pyroar: Fire, Normal,
+ 86, 68, 72, 109, 66, 106 
+ 
+ Quilladin: Grass,
+ 61, 78, 95, 56, 58, 57 
+ 
+ Scatterbug: Bug,
+ 38, 35, 40, 27, 25, 35 
+ 
+ Skiddo: Grass,
+ 66, 65, 48, 62, 57, 52 
+ 
+ Skrelp: Poison, Water,
+ 50, 60, 60, 60, 60, 30 
+ 
+ Sliggoo: Dragon,
+ 68, 75, 53, 83, 113, 60 
+ 
+ Slurpuff: Fairy,
+ 82, 80, 86, 85, 75, 72 
+ 
+ Snugglow: Electric, Poison,
+ 40, 37, 79, 91, 68, 70 
+ 
+ Spewpa: Bug,
+ 45, 22, 60, 27, 30, 29 
+ 
+ Spritzee: Fairy,
+ 78, 52, 60, 63, 65, 23 
+ 
+ Swirlix: Fairy,
+ 62, 48, 66, 59, 57, 49 
+ 
+ Sylveon: Fairy,
+ 95, 65, 65, 110, 130, 60 
+ 
+ Talonflame: Fire, Flying,
+ 78, 81, 71, 74, 69, 126 
+ 
+ Trevenant: Ghost, Grass,
+ 85, 110, 76, 65, 82, 56 
+ 
+ Tyrantrum: Rock, Dragon,
+ 82, 121, 119, 69, 59, 71 
+ 
+ Tyrunt: Rock, Dragon,
+ 58, 89, 77, 45, 45, 48 
+ 
+ Vivillon: Bug, Flying,
+ 80, 52, 50, 90, 50, 89 
+ 
+ Vivillon-Fancy: Bug, Flying,
+ 80, 52, 50, 90, 50, 89 
+ 
+ Vivillon-Pokeball: Bug, Flying,
+ 80, 52, 50, 90, 50, 89 
+ 
+ Volcanion: Fire, Water,
+ 80, 110, 120, 130, 90, 70 
+ 
+ Volkraken: Water, Fire,
+ 100, 45, 80, 135, 100, 95 
+ 
+ Volkritter: Water, Fire,
+ 60, 30, 50, 80, 60, 70 
+ 
+ Xerneas: Fairy,
+ 126, 131, 95, 131, 98, 99 
+ 
+ Yveltal: Dark, Flying,
+ 126, 131, 95, 131, 98, 99 
+ 
+ Zygarde: Dragon, Ground,
+ 108, 100, 121, 81, 95, 95 
 
- Araquanid: 
- Water, Bug,
- 68, at: 70, df: 92, sa: 50, sd: 132, sp: 42 
- 
- Araquanid-Totem: 
- Water, Bug,
- 68, at: 70, df: 92, sa: 50, sd: 132, sp: 42 
- 
- Bewear: 
- Normal, Fighting,
- 120, at: 125, df: 80, sa: 55, sd: 60, sp: 60 
- 
- Blacephalon: 
- Fire, Ghost,
- 53, at: 127, df: 53, sa: 151, sd: 79, sp: 107 
- 
- Bounsweet: 
- Grass,
- 42, at: 30, df: 38, sa: 30, sd: 38, sp: 32 
- 
- Brionne: 
- Water,
- 60, at: 69, df: 69, sa: 91, sd: 81, sp: 50 
- 
- Bruxish: 
- Water, Psychic,
- 68, at: 105, df: 70, sa: 70, sd: 70, sp: 92 
- 
- Buzzwole: 
- Bug, Fighting,
- 107, at: 139, df: 139, sa: 53, sd: 53, sp: 79 
- 
- Caribolt: 
- Grass, Electric,
- 84, at: 106, df: 82, sa: 77, sd: 80, sp: 106 
- 
- Celesteela: 
- Steel, Flying,
- 97, at: 101, df: 103, sa: 107, sd: 101, sp: 61 
- 
- Charjabug: 
- Bug, Electric,
- 57, at: 82, df: 95, sa: 55, sd: 75, sp: 36 
- 
- Comfey: 
- Fairy,
- 51, at: 52, df: 90, sa: 82, sd: 110, sp: 100 
- 
- Cosmoem: 
- Psychic,
- 43, at: 29, df: 131, sa: 29, sd: 131, sp: 37 
- 
- Coribalis: 
- Water, Bug,
- 76, at: 69, df: 90, sa: 65, sd: 77, sp: 43 
- 
- Cosmog: 
- Psychic,
- 43, at: 29, df: 31, sa: 29, sd: 31, sp: 37 
- 
- Crabominable: 
- Fighting, Ice,
- 97, at: 132, df: 77, sa: 62, sd: 67, sp: 43 
- 
- Crabrawler: 
- Fighting,
- 47, at: 82, df: 57, sa: 42, sd: 47, sp: 63 
- 
- Cutiefly: 
- Bug, Fairy,
- 40, at: 45, df: 40, sa: 55, sd: 40, sp: 84 
- 
- Dartrix: 
- Grass, Flying,
- 78, at: 75, df: 75, sa: 70, sd: 70, sp: 52 
- 
- Decidueye: 
- Grass, Ghost,
- 78, at: 107, df: 75, sa: 100, sd: 100, sp: 70 
- 
- Dewpider: 
- Water, Bug,
- 38, at: 40, df: 52, sa: 40, sd: 72, sp: 27 
- 
- Dhelmise: 
- Ghost, Grass,
- 70, at: 131, df: 100, sa: 86, sd: 90, sp: 40 
- 
- Drampa: 
- Normal, Dragon,
- 78, at: 60, df: 85, sa: 135, sd: 91, sp: 36 
- 
- Diglett-Alola: 
- Ground, Steel,
- 10, at: 55, df: 30, sa: 35, sd: 45, sp: 90 
- 
- Dugtrio-Alola: 
- Ground, Steel,
- 35, at: 100, df: 60, sa: 50, sd: 70, sp: 110 
- 
- Eevee-Starter: 
- Normal,
- 65, at: 75, df: 70, sa: 65, sd: 85, sp: 75 
- 
- Electrelk: 
- Grass, Electric,
- 59, at: 81, df: 67, sa: 57, sd: 55, sp: 101 
- 
- Equilibra: 
- Steel, Ground,
- 102, at: 50, df: 96, sa: 133, sd: 118, sp: 60 
- 
- Exeggutor-Alola: 
- Grass, Dragon,
- 95, at: 105, df: 85, sa: 125, sd: 75, sp: 45 
- 
- Fawnifer: 
- Grass,
- 49, at: 61, df: 42, sa: 52, sd: 40, sp: 76 
- 
- Fomantis: 
- Grass,
- 40, at: 55, df: 35, sa: 50, sd: 35, sp: 35 
- 
- Geodude-Alola: 
- Rock, Electric,
- 40, at: 80, df: 100, sa: 30, sd: 30, sp: 20 
- 
- Golem-Alola: 
- Rock, Electric,
- 80, at: 120, df: 130, sa: 55, sd: 65, sp: 45 
- 
- Golisopod: 
- Bug, Water,
- 75, at: 125, df: 140, sa: 60, sd: 90, sp: 40 
- 
- Graveler-Alola: 
- Rock, Electric,
- 55, at: 95, df: 115, sa: 45, sd: 45, sp: 35 
- 
- Grimer-Alola: 
- Poison, Dark,
- 80, at: 80, df: 50, sa: 40, sd: 50, sp: 25 
- 
- Greninja-Ash: 
- Water, Dark,
- 72, at: 145, df: 67, sa: 153, sd: 71, sp: 132 
- 
- Grubbin: 
- Bug,
- 47, at: 62, df: 45, sa: 55, sd: 45, sp: 46 
- 
- Gumshoos: 
- Normal,
- 88, at: 110, df: 60, sa: 55, sd: 60, sp: 45 
- 
- Gumshoos-Totem: 
- Normal,
- 88, at: 110, df: 60, sa: 55, sd: 60, sp: 45 
- 
- Guzzlord: 
- Dark, Dragon,
- 223, at: 101, df: 53, sa: 97, sd: 53, sp: 43 
- 
- Hakamo-o: 
- Dragon, Fighting,
- 55, at: 75, df: 90, sa: 65, sd: 70, sp: 65 
- 
- Incineroar: 
- Fire, Dark,
- 95, at: 115, df: 90, sa: 80, sd: 90, sp: 60 
- 
- Jangmo-o: 
- Dragon,
- 45, at: 55, df: 65, sa: 45, sd: 45, sp: 45 
- 
- Justyke: 
- Steel, Ground,
- 72, at: 70, df: 56, sa: 83, sd: 68, sp: 30 
- 
- Jumbao: 
- Grass, Fairy,
- 92, at: 63, df: 97, sa: 124, sd: 104, sp: 96 
- 
- Kartana: 
- Grass, Steel,
- 59, at: 181, df: 131, sa: 59, sd: 31, sp: 109 
- 
- Komala: 
- Normal,
- 65, at: 115, df: 65, sa: 75, sd: 95, sp: 65 
- 
- Kommo-o: 
- Dragon, Fighting,
- 75, at: 110, df: 125, sa: 100, sd: 105, sp: 85 
- 
- Kommo-o-Totem: 
- Dragon, Fighting,
- 75, at: 110, df: 125, sa: 100, sd: 105, sp: 85 
- 
- Litten: 
- Fire,
- 45, at: 65, df: 40, sa: 60, sd: 40, sp: 70 
- 
- Lunala: 
- Psychic, Ghost,
- 137, at: 113, df: 89, sa: 137, sd: 107, sp: 97 
- 
- Lurantis: 
- Grass,
- 70, at: 105, df: 90, sa: 80, sd: 90, sp: 45 
- 
- Lurantis-Totem: 
- Grass,
- 70, at: 105, df: 90, sa: 80, sd: 90, sp: 45 
- 
- Lycanroc: 
- Rock,
- 75, at: 115, df: 65, sa: 55, sd: 65, sp: 112 
- 
- Lycanroc-Dusk: 
- Rock,
- 75, at: 117, df: 65, sa: 55, sd: 65, sp: 110 
- 
- Lycanroc-Midnight: 
- Rock,
- 85, at: 115, df: 75, sa: 55, sd: 75, sp: 82 
- 
- Magearna: 
- Steel, Fairy,
- 80, at: 95, df: 115, sa: 130, sd: 115, sp: 65 
- 
- Mareanie: 
- Poison, Water,
- 50, at: 53, df: 62, sa: 43, sd: 52, sp: 45 
- 
- Marowak-Alola: 
- Fire, Ghost,
- 60, at: 80, df: 110, sa: 50, sd: 80, sp: 45 
- 
- Marowak-Alola-Totem: 
- Fire, Ghost,
- 60, at: 80, df: 110, sa: 50, sd: 80, sp: 45 
- 
- Marshadow: 
- Fighting, Ghost,
- 90, at: 125, df: 80, sa: 90, sd: 90, sp: 125 
- 
- Melmetal: 
- Steel,
- 135, at: 143, df: 143, sa: 80, sd: 65, sp: 34 
- 
- Meltan: 
- Steel,
- 46, at: 65, df: 65, sa: 55, sd: 35, sp: 34 
- 
- Meowth-Alola: 
- Dark,
- 40, at: 35, df: 35, sa: 50, sd: 40, sp: 90 
- 
- Mimikyu: 
- Ghost, Fairy,
- 55, at: 90, df: 80, sa: 50, sd: 105, sp: 96 
- 
- Mimikyu-Busted: 
- Ghost, Fairy,
- 55, at: 90, df: 80, sa: 50, sd: 105, sp: 96 
- 
- Mimikyu-Busted-Totem: 
- Ghost, Fairy,
- 55, at: 90, df: 80, sa: 50, sd: 105, sp: 96 
- 
- Mimikyu-Totem: 
- Ghost, Fairy,
- 55, at: 90, df: 80, sa: 50, sd: 105, sp: 96 
- 
- Minior: 
- Rock, Flying,
- 60, at: 100, df: 60, sa: 100, sd: 60, sp: 120 
- 
- Minior-Meteor: 
- Rock, Flying,
- 60, at: 60, df: 100, sa: 60, sd: 100, sp: 60 
- 
- Morelull: 
- Grass, Fairy,
- 40, at: 35, df: 55, sa: 65, sd: 75, sp: 15 
- 
- Mudbray: 
- Ground,
- 70, at: 100, df: 70, sa: 45, sd: 55, sp: 45 
- 
- Mudsdale: 
- Ground,
- 100, at: 125, df: 100, sa: 55, sd: 85, sp: 35 
- 
- Muk-Alola: 
- Poison, Dark,
- 105, at: 105, df: 75, sa: 65, sd: 100, sp: 50 
- 
- Mumbao: 
- Grass, Fairy,
- 55, at: 30, df: 64, sa: 87, sd: 73, sp: 66 
- 
- Naganadel: 
- Poison, Dragon,
- 73, at: 73, df: 73, sa: 127, sd: 73, sp: 121 
- 
- Necrozma: 
- Psychic,
- 97, at: 107, df: 101, sa: 127, sd: 89, sp: 79 
- 
- Necrozma-Dawn-Wings: 
- Psychic, Ghost,
- 97, at: 113, df: 109, sa: 157, sd: 127, sp: 77 
- 
- Necrozma-Dusk-Mane: 
- Psychic, Steel,
- 97, at: 157, df: 127, sa: 113, sd: 109, sp: 77 
- 
- Necrozma-Ultra: 
- Psychic, Dragon,
- 97, at: 167, df: 97, sa: 167, sd: 97, sp: 129 
- 
- Nihilego: 
- Rock, Poison,
- 109, at: 53, df: 47, sa: 127, sd: 131, sp: 103 
- 
- Ninetales-Alola: 
- Ice, Fairy,
- 73, at: 67, df: 75, sa: 81, sd: 100, sp: 109 
- 
- Oranguru: 
- Normal, Psychic,
- 90, at: 60, df: 80, sa: 90, sd: 110, sp: 60 
- 
- Oricorio: 
- Fire, Flying,
- 75, at: 70, df: 70, sa: 98, sd: 70, sp: 93 
- 
- Oricorio-Pa\u: 
- Psychic, Flying,
- 75, at: 70, df: 70, sa: 98, sd: 70, sp: 93 
- 
- Oricorio-Pom-Pom: 
- Electric, Flying,
- 75, at: 70, df: 70, sa: 98, sd: 70, sp: 93 
- 
- Oricorio-Sensu: 
- Ghost, Flying,
- 75, at: 70, df: 70, sa: 98, sd: 70, sp: 93 
- 
- Pajantom: 
- Dragon, Ghost,
- 84, at: 133, df: 71, sa: 51, sd: 111, sp: 101 
- 
- Palossand: 
- Ghost, Ground,
- 85, at: 75, df: 110, sa: 100, sd: 75, sp: 35 
- 
- Passimian: 
- Fighting,
- 100, at: 120, df: 90, sa: 40, sd: 60, sp: 80 
- 
- Persian-Alola: 
- Dark,
- 65, at: 60, df: 60, sa: 75, sd: 65, sp: 115 
- 
- Pheromosa: 
- Bug, Fighting,
- 71, at: 137, df: 37, sa: 137, sd: 37, sp: 151 
- 
- Pikachu-Alola: 
- Electric,
- 35, at: 55, df: 40, sa: 50, sd: 50, sp: 90 
- 
- Pikachu-Hoenn: 
- Electric,
- 35, at: 55, df: 40, sa: 50, sd: 50, sp: 90 
- 
- Pikachu-Kalos: 
- Electric,
- 35, at: 55, df: 40, sa: 50, sd: 50, sp: 90 
- 
- Pikachu-Original: 
- Electric,
- 35, at: 55, df: 40, sa: 50, sd: 50, sp: 90 
- 
- Pikachu-Partner: 
- Electric,
- 35, at: 55, df: 40, sa: 50, sd: 50, sp: 90 
- 
- Pikachu-Sinnoh: 
- Electric,
- 35, at: 55, df: 40, sa: 50, sd: 50, sp: 90 
- 
- Pikachu-Starter: 
- Electric,
- 45, at: 80, df: 50, sa: 75, sd: 60, sp: 120 
- 
- Pikachu-Unova: 
- Electric,
- 35, at: 55, df: 40, sa: 50, sd: 50, sp: 90 
- 
- Pikipek: 
- Normal, Flying,
- 35, at: 75, df: 30, sa: 30, sd: 30, sp: 65 
- 
- Poipole: 
- Poison,
- 67, at: 73, df: 67, sa: 73, sd: 67, sp: 73 
- 
- Popplio: 
- Water,
- 50, at: 54, df: 54, sa: 66, sd: 56, sp: 40 
- 
- Primarina: 
- Water, Fairy,
- 80, at: 74, df: 74, sa: 126, sd: 116, sp: 60 
- 
- Pyukumuku: 
- Water,
- 55, at: 60, df: 130, sa: 30, sd: 130, sp: 5 
- 
- Raichu-Alola: 
- Electric, Psychic,
- 60, at: 85, df: 50, sa: 95, sd: 85, sp: 110 
- 
- Raticate-Alola: 
- Dark, Normal,
- 75, at: 71, df: 70, sa: 40, sd: 80, sp: 77 
- 
- Raticate-Alola-Totem: 
- Dark, Normal,
- 75, at: 71, df: 70, sa: 40, sd: 80, sp: 77 
- 
- Rattata-Alola: 
- Dark, Normal,
- 30, at: 56, df: 35, sa: 25, sd: 35, sp: 72 
- 
- Ribombee: 
- Bug, Fairy,
- 60, at: 55, df: 60, sa: 95, sd: 70, sp: 124 
- 
- Ribombee-Totem: 
- Bug, Fairy,
- 60, at: 55, df: 60, sa: 95, sd: 70, sp: 124 
- 
- Rockruff: 
- Rock,
- 45, at: 65, df: 40, sa: 30, sd: 40, sp: 60 
- 
- Rowlet: 
- Grass, Flying,
- 68, at: 55, df: 55, sa: 50, sd: 50, sp: 42 
- 
- Salandit: 
- Poison, Fire,
- 48, at: 44, df: 40, sa: 71, sd: 40, sp: 77 
- 
- Salazzle: 
- Poison, Fire,
- 68, at: 64, df: 60, sa: 111, sd: 60, sp: 117 
- 
- Salazzle-Totem: 
- Poison, Fire,
- 68, at: 64, df: 60, sa: 111, sd: 60, sp: 117 
- 
- Sandshrew-Alola: 
- Ice, Steel,
- 50, at: 75, df: 90, sa: 10, sd: 35, sp: 40 
- 
- Sandslash-Alola: 
- Ice, Steel,
- 75, at: 100, df: 120, sa: 25, sd: 65, sp: 65 
- 
- Sandygast: 
- Ghost, Ground,
- 55, at: 55, df: 80, sa: 70, sd: 45, sp: 15 
- 
- Shiinotic: 
- Grass, Fairy,
- 60, at: 45, df: 80, sa: 90, sd: 100, sp: 30 
- 
- Silvally: 
- Normal,
- 95, at: 95, df: 95, sa: 95, sd: 95, sp: 95 
- 
- Silvally-Bug: 
- Bug,
- 95, at: 95, df: 95, sa: 95, sd: 95, sp: 95 
- 
- Silvally-Dark: 
- Dark,
- 95, at: 95, df: 95, sa: 95, sd: 95, sp: 95 
- 
- Silvally-Dragon: 
- Dragon,
- 95, at: 95, df: 95, sa: 95, sd: 95, sp: 95 
- 
- Silvally-Electric: 
- Electric,
- 95, at: 95, df: 95, sa: 95, sd: 95, sp: 95 
- 
- Silvally-Fairy: 
- Fairy,
- 95, at: 95, df: 95, sa: 95, sd: 95, sp: 95 
- 
- Silvally-Fighting: 
- Fighting,
- 95, at: 95, df: 95, sa: 95, sd: 95, sp: 95 
- 
- Silvally-Fire: 
- Fire,
- 95, at: 95, df: 95, sa: 95, sd: 95, sp: 95 
- 
- Silvally-Flying: 
- Flying,
- 95, at: 95, df: 95, sa: 95, sd: 95, sp: 95 
- 
- Silvally-Ghost: 
- Ghost,
- 95, at: 95, df: 95, sa: 95, sd: 95, sp: 95 
- 
- Silvally-Grass: 
- Grass,
- 95, at: 95, df: 95, sa: 95, sd: 95, sp: 95 
- 
- Silvally-Ground: 
- Ground,
- 95, at: 95, df: 95, sa: 95, sd: 95, sp: 95 
- 
- Silvally-Ice: 
- Ice,
- 95, at: 95, df: 95, sa: 95, sd: 95, sp: 95 
- 
- Silvally-Poison: 
- Poison,
- 95, at: 95, df: 95, sa: 95, sd: 95, sp: 95 
- 
- Silvally-Psychic: 
- Psychic,
- 95, at: 95, df: 95, sa: 95, sd: 95, sp: 95 
- 
- Silvally-Rock: 
- Rock,
- 95, at: 95, df: 95, sa: 95, sd: 95, sp: 95 
- 
- Silvally-Steel: 
- Steel,
- 95, at: 95, df: 95, sa: 95, sd: 95, sp: 95 
- 
- Silvally-Water: 
- Water,
- 95, at: 95, df: 95, sa: 95, sd: 95, sp: 95 
- 
- Smogecko: 
- Fire,
- 48, at: 66, df: 43, sa: 58, sd: 48, sp: 56 
- 
- Smoguana: 
- Fire, Ground,
- 68, at: 86, df: 53, sa: 68, sd: 68, sp: 76 
- 
- Smokomodo: 
- Fire, Ground,
- 88, at: 116, df: 67, sa: 88, sd: 78, sp: 97 
- 
- Snaelstrom: 
- Water, Bug,
- 91, at: 94, df: 110, sa: 80, sd: 97, sp: 63 
- 
- Solgaleo: 
- Psychic, Steel,
- 137, at: 137, df: 107, sa: 113, sd: 89, sp: 97 
- 
- Stakataka: 
- Rock, Steel,
- 61, at: 131, df: 211, sa: 53, sd: 101, sp: 13 
- 
- Steenee: 
- Grass,
- 52, at: 40, df: 48, sa: 40, sd: 48, sp: 62 
- 
- Stufful: 
- Normal, Fighting,
- 70, at: 75, df: 50, sa: 45, sd: 50, sp: 50 
- 
- Swirlpool: 
- Water,
- 61, at: 49, df: 70, sa: 50, sd: 62, sp: 28 
- 
- Tapu Bulu: 
- Grass, Fairy,
- 70, at: 130, df: 115, sa: 85, sd: 95, sp: 75 
- 
- Tapu Fini: 
- Water, Fairy,
- 70, at: 75, df: 115, sa: 95, sd: 130, sp: 85 
- 
- Tapu Koko: 
- Electric, Fairy,
- 70, at: 115, df: 85, sa: 95, sd: 75, sp: 130 
- 
- Tapu Lele: 
- Psychic, Fairy,
- 70, at: 85, df: 75, sa: 130, sd: 115, sp: 95 
- 
- Togedemaru: 
- Electric, Steel,
- 65, at: 98, df: 63, sa: 40, sd: 73, sp: 96 
- 
- Togedemaru-Totem: 
- Electric, Steel,
- 65, at: 98, df: 63, sa: 40, sd: 73, sp: 96 
- 
- Torracat: 
- Fire,
- 65, at: 85, df: 50, sa: 80, sd: 50, sp: 90 
- 
- Toucannon: 
- Normal, Flying,
- 80, at: 120, df: 75, sa: 75, sd: 75, sp: 60 
- 
- Toxapex: 
- Poison, Water,
- 50, at: 63, df: 152, sa: 53, sd: 142, sp: 35 
- 
- Trumbeak: 
- Normal, Flying,
- 55, at: 85, df: 50, sa: 40, sd: 50, sp: 75 
- 
- Tsareena: 
- Grass,
- 72, at: 120, df: 98, sa: 50, sd: 98, sp: 72 
- 
- Turtonator: 
- Fire, Dragon,
- 60, at: 78, df: 135, sa: 91, sd: 85, sp: 36 
- 
- Type: Null: 
- Normal,
- 95, at: 95, df: 95, sa: 95, sd: 95, sp: 59 
- 
- Vikavolt: 
- Bug, Electric,
- 77, at: 70, df: 90, sa: 145, sd: 75, sp: 43 
- 
- Vikavolt-Totem: 
- Bug, Electric,
- 77, at: 70, df: 90, sa: 145, sd: 75, sp: 43 
- 
- Vulpix-Alola: 
- Ice,
- 38, at: 41, df: 40, sa: 50, sd: 65, sp: 65 
- 
- Wimpod: 
- Bug, Water,
- 25, at: 35, df: 40, sa: 20, sd: 30, sp: 80 
- 
- Wishiwashi: 
- Water,
- 45, at: 20, df: 20, sa: 25, sd: 25, sp: 40 
- 
- Wishiwashi-School: 
- Water,
- 45, at: 140, df: 130, sa: 140, sd: 135, sp: 30 
- 
- Xurkitree: 
- Electric,
- 83, at: 89, df: 71, sa: 173, sd: 71, sp: 83 
- 
- Yungoos: 
- Normal,
- 48, at: 70, df: 30, sa: 30, sd: 30, sp: 45 
- 
- Zeraora: 
- Electric,
- 88, at: 112, df: 75, sa: 102, sd: 80, sp: 143 
- 
- Zygarde-10%: 
- Dragon, Ground,
- 54, at: 100, df: 71, sa: 61, sd: 85, sp: 115 
- 
- Zygarde-Complete: 
- Dragon, Ground,
- 216, at: 100, df: 121, sa: 91, sd: 95, sp: 85 
- 
- Alcremie: 
- Fairy,
- 65, at: 60, df: 75, sa: 110, sd: 121, sp: 64 
- 
- Alcremie-Gmax: 
- Fairy,
- 65, at: 60, df: 75, sa: 110, sd: 121, sp: 64 
- 
- Appletun: 
- Grass, Dragon,
- 110, at: 85, df: 80, sa: 100, sd: 80, sp: 30 
- 
- Appletun-Gmax: 
- Grass, Dragon,
- 110, at: 85, df: 80, sa: 100, sd: 80, sp: 30 
- 
- Applin: 
- Grass, Dragon,
- 40, at: 40, df: 80, sa: 40, sd: 40, sp: 20 
- 
- Arctovish: 
- Water, Ice,
- 90, at: 90, df: 100, sa: 80, sd: 90, sp: 55 
- 
- Arctozolt: 
- Electric, Ice,
- 90, at: 100, df: 90, sa: 90, sd: 80, sp: 55 
- 
- Arrokuda: 
- Water,
- 41, at: 63, df: 40, sa: 40, sd: 30, sp: 66 
- 
- Articuno-Galar: 
- Psychic, Flying,
- 90, at: 85, df: 85, sa: 125, sd: 100, sp: 95 
- 
- Astrolotl: 
- Fire, Dragon,
- 108, at: 108, df: 74, sa: 92, sd: 64, sp: 114 
- 
- Barraskewda: 
- Water,
- 61, at: 123, df: 60, sa: 60, sd: 50, sp: 136 
- 
- Blastoise-Gmax: 
- Water,
- 79, at: 83, df: 100, sa: 85, sd: 105, sp: 78 
- 
- Blipbug: 
- Bug,
- 25, at: 20, df: 20, sa: 25, sd: 45, sp: 45 
- 
- Boltund: 
- Electric,
- 69, at: 90, df: 60, sa: 90, sd: 60, sp: 121 
- 
- Butterfree-Gmax: 
- Bug, Flying,
- 60, at: 45, df: 50, sa: 90, sd: 80, sp: 70 
- 
- Calyrex: 
- Psychic, Grass,
- 100, at: 80, df: 80, sa: 80, sd: 80, sp: 80 
- 
- Calyrex-Ice: 
- Psychic, Ice,
- 100, at: 165, df: 150, sa: 85, sd: 130, sp: 50 
- 
- Calyrex-Shadow: 
- Psychic, Ghost,
- 100, at: 85, df: 80, sa: 165, sd: 100, sp: 150 
- 
- Carkol: 
- Rock, Fire,
- 80, at: 60, df: 90, sa: 60, sd: 70, sp: 50 
- 
- Centiskorch: 
- Fire, Bug,
- 100, at: 115, df: 65, sa: 90, sd: 90, sp: 65 
- 
- Centiskorch-Gmax: 
- Fire, Bug,
- 100, at: 115, df: 65, sa: 90, sd: 90, sp: 65 
- 
- Charizard-Gmax: 
- Fire, Flying,
- 78, at: 84, df: 78, sa: 109, sd: 85, sp: 100 
- 
- Chewtle: 
- Water,
- 50, at: 64, df: 50, sa: 38, sd: 38, sp: 44 
- 
- Chromera: 
- Dark, Poison,
- 85, at: 85, df: 115, sa: 115, sd: 100, sp: 100 
- 
- Cinderace: 
- Fire,
- 80, at: 116, df: 75, sa: 65, sd: 75, sp: 119 
- 
- Cinderace-Gmax: 
- Fire,
- 80, at: 116, df: 75, sa: 65, sd: 75, sp: 119 
- 
- Clobbopus: 
- Fighting,
- 50, at: 68, df: 60, sa: 50, sd: 50, sp: 32 
- 
- Coalossal: 
- Rock, Fire,
- 110, at: 80, df: 120, sa: 80, sd: 90, sp: 30 
- 
- Coalossal-Gmax: 
- Rock, Fire,
- 110, at: 80, df: 120, sa: 80, sd: 90, sp: 30 
- 
- Copperajah: 
- Steel,
- 122, at: 130, df: 69, sa: 80, sd: 69, sp: 30 
- 
- Copperajah-Gmax: 
- Steel,
- 122, at: 130, df: 69, sa: 80, sd: 69, sp: 30 
- 
- Corsola-Galar: 
- Ghost,
- 60, at: 55, df: 100, sa: 65, sd: 100, sp: 30 
- 
- Corviknight: 
- Flying, Steel,
- 98, at: 87, df: 105, sa: 53, sd: 85, sp: 67 
- 
- Corviknight-Gmax: 
- Flying, Steel,
- 98, at: 87, df: 105, sa: 53, sd: 85, sp: 67 
- 
- Corvisquire: 
- Flying,
- 68, at: 67, df: 55, sa: 43, sd: 55, sp: 77 
- 
- Cramorant: 
- Flying, Water,
- 70, at: 85, df: 55, sa: 85, sd: 95, sp: 85 
- 
- Cramorant-Gorging: 
- Flying, Water,
- 70, at: 85, df: 55, sa: 85, sd: 95, sp: 85 
- 
- Cramorant-Gulping: 
- Flying, Water,
- 70, at: 85, df: 55, sa: 85, sd: 95, sp: 85 
- 
- Cufant: 
- Steel,
- 72, at: 80, df: 49, sa: 40, sd: 49, sp: 40 
- 
- Cursola: 
- Ghost,
- 60, at: 95, df: 50, sa: 145, sd: 130, sp: 30 
- 
- Darmanitan-Galar: 
- Ice,
- 105, at: 140, df: 55, sa: 30, sd: 55, sp: 95 
- 
- Darmanitan-Galar-Zen: 
- Ice, Fire,
- 105, at: 160, df: 55, sa: 30, sd: 55, sp: 135 
- 
- Darumaka-Galar: 
- Ice,
- 70, at: 90, df: 45, sa: 15, sd: 45, sp: 50 
- 
- Dottler: 
- Bug, Psychic,
- 50, at: 35, df: 80, sa: 50, sd: 90, sp: 30 
- 
- Dracovish: 
- Water, Dragon,
- 90, at: 90, df: 100, sa: 70, sd: 80, sp: 75 
- 
- Dracozolt: 
- Electric, Dragon,
- 90, at: 100, df: 90, sa: 80, sd: 70, sp: 75 
- 
- Dragapult: 
- Dragon, Ghost,
- 88, at: 120, df: 75, sa: 100, sd: 75, sp: 142 
- 
- Drakloak: 
- Dragon, Ghost,
- 68, at: 80, df: 50, sa: 60, sd: 50, sp: 102 
- 
- Drednaw: 
- Water, Rock,
- 90, at: 115, df: 90, sa: 48, sd: 68, sp: 74 
- 
- Drednaw-Gmax: 
- Water, Rock,
- 90, at: 115, df: 90, sa: 48, sd: 68, sp: 74 
- 
- Dreepy: 
- Dragon, Ghost,
- 28, at: 60, df: 30, sa: 40, sd: 30, sp: 82 
- 
- Drizzile: 
- Water,
- 65, at: 60, df: 55, sa: 95, sd: 55, sp: 90 
- 
- Dubwool: 
- Normal,
- 72, at: 80, df: 100, sa: 60, sd: 90, sp: 88 
- 
- Duraludon: 
- Steel, Dragon,
- 70, at: 95, df: 115, sa: 120, sd: 50, sp: 85 
- 
- Duraludon-Gmax: 
- Steel, Dragon,
- 70, at: 95, df: 115, sa: 120, sd: 50, sp: 85 
- 
- Eevee-Gmax: 
- Normal,
- 55, at: 55, df: 50, sa: 45, sd: 65, sp: 55 
- 
- Eiscue: 
- Ice,
- 75, at: 80, df: 110, sa: 65, sd: 90, sp: 50 
- 
- Eiscue-Noice: 
- Ice,
- 75, at: 80, df: 70, sa: 65, sd: 50, sp: 130 
- 
- Eldegoss: 
- Grass,
- 60, at: 50, df: 90, sa: 80, sd: 120, sp: 60 
- 
- Eternatus: 
- Poison, Dragon,
- 140, at: 85, df: 95, sa: 145, sd: 95, sp: 130 
- 
- Eternatus-Eternamax: 
- Poison, Dragon,
- 255, at: 115, df: 250, sa: 125, sd: 250, sp: 130 
- 
- Falinks: 
- Fighting,
- 65, at: 100, df: 100, sa: 70, sd: 60, sp: 75 
- 
- Farfetch\u2019d-Galar: 
- Fighting,
- 52, at: 95, df: 55, sa: 58, sd: 62, sp: 55 
- 
- Flapple: 
- Grass, Dragon,
- 70, at: 110, df: 80, sa: 95, sd: 60, sp: 70 
- 
- Flapple-Gmax: 
- Grass, Dragon,
- 70, at: 110, df: 80, sa: 95, sd: 60, sp: 70 
- 
- Frosmoth: 
- Ice, Bug,
- 70, at: 65, df: 60, sa: 125, sd: 90, sp: 65 
- 
- Garbodor-Gmax: 
- Poison,
- 80, at: 95, df: 82, sa: 60, sd: 82, sp: 75 
- 
- Gengar-Gmax: 
- Ghost, Poison,
- 60, at: 65, df: 60, sa: 130, sd: 75, sp: 110 
- 
- Glastrier: 
- Ice,
- 100, at: 145, df: 130, sa: 65, sd: 110, sp: 30 
- 
- Gossifleur: 
- Grass,
- 40, at: 40, df: 60, sa: 40, sd: 60, sp: 10 
- 
- Grapploct: 
- Fighting,
- 80, at: 118, df: 90, sa: 70, sd: 80, sp: 42 
- 
- Greedent: 
- Normal,
- 120, at: 95, df: 95, sa: 55, sd: 75, sp: 20 
- 
- Grimmsnarl: 
- Dark, Fairy,
- 95, at: 120, df: 65, sa: 95, sd: 75, sp: 60 
- 
- Grimmsnarl-Gmax: 
- Dark, Fairy,
- 95, at: 120, df: 65, sa: 95, sd: 75, sp: 60 
- 
- Grookey: 
- Grass,
- 50, at: 65, df: 50, sa: 40, sd: 40, sp: 65 
- 
- Hatenna: 
- Psychic,
- 42, at: 30, df: 45, sa: 56, sd: 53, sp: 39 
- 
- Hatterene: 
- Psychic, Fairy,
- 57, at: 90, df: 95, sa: 136, sd: 103, sp: 29 
- 
- Hatterene-Gmax: 
- Psychic, Fairy,
- 57, at: 90, df: 95, sa: 136, sd: 103, sp: 29 
- 
- Hattrem: 
- Psychic,
- 57, at: 40, df: 65, sa: 86, sd: 73, sp: 49 
- 
- Impidimp: 
- Dark, Fairy,
- 45, at: 45, df: 30, sa: 55, sd: 40, sp: 50 
- 
- Indeedee: 
- Psychic, Normal,
- 60, at: 65, df: 55, sa: 105, sd: 95, sp: 95 
- 
- Indeedee-F: 
- Psychic, Normal,
- 70, at: 55, df: 65, sa: 95, sd: 105, sp: 85 
- 
- Inteleon: 
- Water,
- 70, at: 85, df: 65, sa: 125, sd: 65, sp: 120 
- 
- Inteleon-Gmax: 
- Water,
- 70, at: 85, df: 65, sa: 125, sd: 65, sp: 120 
- 
- Kingler-Gmax: 
- Water,
- 55, at: 130, df: 115, sa: 50, sd: 50, sp: 75 
- 
- Kubfu: 
- Fighting,
- 60, at: 90, df: 60, sa: 53, sd: 50, sp: 72 
- 
- Lapras-Gmax: 
- Water, Ice,
- 130, at: 85, df: 80, sa: 85, sd: 95, sp: 60 
- 
- Linoone-Galar: 
- Dark, Normal,
- 78, at: 70, df: 61, sa: 50, sd: 61, sp: 100 
- 
- Magearna-Original: 
- Steel, Fairy,
- 80, at: 95, df: 115, sa: 130, sd: 115, sp: 65 
- 
- Machamp-Gmax: 
- Fighting,
- 90, at: 130, df: 80, sa: 65, sd: 85, sp: 55 
- 
- Melmetal-Gmax: 
- Steel,
- 135, at: 143, df: 143, sa: 80, sd: 65, sp: 34 
- 
- Meowth-Galar: 
- Steel,
- 50, at: 65, df: 55, sa: 40, sd: 40, sp: 40 
- 
- Meowth-Gmax: 
- Normal,
- 40, at: 45, df: 35, sa: 40, sd: 40, sp: 90 
- 
- Miasmaw: 
- Bug, Dragon,
- 85, at: 135, df: 60, sa: 115, sd: 85, sp: 92 
- 
- Miasmite: 
- Bug, Dragon,
- 40, at: 85, df: 60, sa: 52, sd: 52, sp: 44 
- 
- Milcery: 
- Fairy,
- 45, at: 40, df: 40, sa: 50, sd: 61, sp: 34 
- 
- Moltres-Galar: 
- Dark, Flying,
- 90, at: 85, df: 90, sa: 100, sd: 125, sp: 90 
- 
- Morgrem: 
- Dark, Fairy,
- 65, at: 60, df: 45, sa: 75, sd: 55, sp: 70 
- 
- Morpeko: 
- Electric, Dark,
- 58, at: 95, df: 58, sa: 70, sd: 58, sp: 97 
- 
- Morpeko-Hangry: 
- Electric, Dark,
- 58, at: 95, df: 58, sa: 70, sd: 58, sp: 97 
- 
- Mr. Mime-Galar: 
- Ice, Psychic,
- 50, at: 65, df: 65, sa: 90, sd: 90, sp: 100 
- 
- Mr. Rime: 
- Ice, Psychic,
- 80, at: 85, df: 75, sa: 110, sd: 100, sp: 70 
- 
- Nickit: 
- Dark,
- 40, at: 28, df: 28, sa: 47, sd: 52, sp: 50 
- 
- Obstagoon: 
- Dark, Normal,
- 93, at: 90, df: 101, sa: 60, sd: 81, sp: 95 
- 
- Orbeetle: 
- Bug, Psychic,
- 60, at: 45, df: 110, sa: 80, sd: 120, sp: 90 
- 
- Orbeetle-Gmax: 
- Bug, Psychic,
- 60, at: 45, df: 110, sa: 80, sd: 120, sp: 90 
- 
- Perrserker: 
- Steel,
- 70, at: 110, df: 100, sa: 50, sd: 60, sp: 50 
- 
- Pikachu-Gmax: 
- Electric,
- 35, at: 55, df: 40, sa: 50, sd: 50, sp: 90 
- 
- Pikachu-World: 
- Electric,
- 35, at: 55, df: 40, sa: 50, sd: 50, sp: 90 
- 
- Pincurchin: 
- Electric,
- 48, at: 101, df: 95, sa: 91, sd: 85, sp: 15 
- 
- Polteageist: 
- Ghost,
- 60, at: 65, df: 65, sa: 134, sd: 114, sp: 70 
- 
- Polteageist-Antique: 
- Ghost,
- 60, at: 65, df: 65, sa: 134, sd: 114, sp: 70 
- 
- Ponyta-Galar: 
- Psychic,
- 50, at: 85, df: 55, sa: 65, sd: 65, sp: 90 
- 
- Raboot: 
- Fire,
- 65, at: 86, df: 60, sa: 55, sd: 60, sp: 94 
- 
- Rapidash-Galar: 
- Psychic, Fairy,
- 65, at: 100, df: 70, sa: 80, sd: 80, sp: 105 
- 
- Regidrago: 
- Dragon,
- 200, at: 100, df: 50, sa: 100, sd: 50, sp: 80 
- 
- Regieleki: 
- Electric,
- 80, at: 100, df: 50, sa: 100, sd: 50, sp: 200 
- 
- Rillaboom: 
- Grass,
- 100, at: 125, df: 90, sa: 60, sd: 70, sp: 85 
- 
- Rillaboom-Gmax: 
- Grass,
- 100, at: 125, df: 90, sa: 60, sd: 70, sp: 85 
- 
- Rolycoly: 
- Rock,
- 30, at: 40, df: 50, sa: 40, sd: 50, sp: 30 
- 
- Rookidee: 
- Flying,
- 38, at: 47, df: 35, sa: 33, sd: 35, sp: 57 
- 
- Runerigus: 
- Ground, Ghost,
- 58, at: 95, df: 145, sa: 50, sd: 105, sp: 30 
- 
- Sandaconda: 
- Ground,
- 72, at: 107, df: 125, sa: 65, sd: 70, sp: 71 
- 
- Sandaconda-Gmax: 
- Ground,
- 72, at: 107, df: 125, sa: 65, sd: 70, sp: 71 
- 
- Scorbunny: 
- Fire,
- 50, at: 71, df: 40, sa: 40, sd: 40, sp: 69 
- 
- Silicobra: 
- Ground,
- 52, at: 57, df: 75, sa: 35, sd: 50, sp: 46 
- 
- Sinistea: 
- Ghost,
- 40, at: 45, df: 45, sa: 74, sd: 54, sp: 50 
- 
- Sinistea-Antique: 
- Ghost,
- 40, at: 45, df: 45, sa: 74, sd: 54, sp: 50 
- 
- Sirfetch'd: 
- Fighting,
- 62, at: 135, df: 95, sa: 68, sd: 82, sp: 65 
- 
- Sizzlipede: 
- Fire, Bug,
- 50, at: 65, df: 45, sa: 50, sd: 50, sp: 45 
- 
- Skwovet: 
- Normal,
- 70, at: 55, df: 55, sa: 35, sd: 35, sp: 25 
- 
- Slowbro-Galar: 
- Poison, Psychic,
- 95, at: 100, df: 95, sa: 100, sd: 70, sp: 30 
- 
- Slowking-Galar: 
- Poison, Psychic,
- 95, at: 65, df: 80, sa: 110, sd: 110, sp: 30 
- 
- Slowpoke-Galar: 
- Psychic,
- 90, at: 65, df: 65, sa: 40, sd: 40, sp: 15 
- 
- Solotl: 
- Fire, Dragon,
- 68, at: 48, df: 34, sa: 72, sd: 24, sp: 84 
- 
- Snom: 
- Ice, Bug,
- 30, at: 25, df: 35, sa: 45, sd: 30, sp: 20 
- 
- Snorlax-Gmax: 
- Normal,
- 160, at: 110, df: 65, sa: 65, sd: 110, sp: 30 
- 
- Sobble: 
- Water,
- 50, at: 40, df: 40, sa: 70, sd: 40, sp: 70 
- 
- Spectrier: 
- Ghost,
- 100, at: 65, df: 60, sa: 145, sd: 80, sp: 130 
- 
- Stonjourner: 
- Rock,
- 100, at: 125, df: 135, sa: 20, sd: 20, sp: 70 
- 
- Stunfisk-Galar: 
- Ground, Steel,
- 109, at: 81, df: 99, sa: 66, sd: 84, sp: 32 
- 
- Thievul: 
- Dark,
- 70, at: 58, df: 58, sa: 87, sd: 92, sp: 90 
- 
- Thwackey: 
- Grass,
- 70, at: 85, df: 70, sa: 55, sd: 60, sp: 80 
- 
- Toxel: 
- Electric, Poison,
- 40, at: 38, df: 35, sa: 54, sd: 35, sp: 40 
- 
- Toxtricity: 
- Electric, Poison,
- 75, at: 98, df: 70, sa: 114, sd: 70, sp: 75 
- 
- Toxtricity-Gmax: 
- Electric, Poison,
- 75, at: 98, df: 70, sa: 114, sd: 70, sp: 75 
- 
- Toxtricity-Low-Key: 
- Electric, Poison,
- 75, at: 98, df: 70, sa: 114, sd: 70, sp: 75 
- 
- Toxtricity-Low-Key-Gmax: 
- Electric, Poison,
- 75, at: 98, df: 70, sa: 114, sd: 70, sp: 75 
- 
- Urshifu: 
- Fighting, Dark,
- 100, at: 130, df: 100, sa: 63, sd: 60, sp: 97 
- 
- Urshifu-Rapid-Strike: 
- Fighting, Water,
- 100, at: 130, df: 100, sa: 63, sd: 60, sp: 97 
- 
- Urshifu-Rapid-Strike-Gmax: 
- Fighting, Water,
- 100, at: 130, df: 100, sa: 63, sd: 60, sp: 97 
- 
- Urshifu-Gmax: 
- Fighting, Dark,
- 100, at: 130, df: 100, sa: 63, sd: 60, sp: 97 
- 
- Venusaur-Gmax: 
- Grass, Poison,
- 80, at: 82, df: 83, sa: 100, sd: 100, sp: 80 
- 
- Weezing-Galar: 
- Poison, Fairy,
- 65, at: 90, df: 120, sa: 85, sd: 70, sp: 60 
- 
- Wooloo: 
- Normal,
- 42, at: 40, df: 55, sa: 40, sd: 45, sp: 48 
- 
- Yamask-Galar: 
- Ground, Ghost,
- 38, at: 55, df: 85, sa: 30, sd: 65, sp: 30 
- 
- Yamper: 
- Electric,
- 59, at: 45, df: 50, sa: 40, sd: 50, sp: 26 
- 
- Zacian: 
- Fairy,
- 92, at: 130, df: 115, sa: 80, sd: 115, sp: 138 
- 
- Zacian-Crowned: 
- Fairy, Steel,
- 92, at: 170, df: 115, sa: 80, sd: 115, sp: 148 
- 
- Zamazenta: 
- Fighting,
- 92, at: 130, df: 115, sa: 80, sd: 115, sp: 138 
- 
- Zamazenta-Crowned: 
- Fighting, Steel,
- 92, at: 130, df: 145, sa: 80, sd: 145, sp: 128 
- 
- Zapdos-Galar: 
- Fighting, Flying,
- 90, at: 125, df: 90, sa: 85, sd: 90, sp: 100 
- 
- Zarude: 
- Dark, Grass,
- 105, at: 120, df: 105, sa: 70, sd: 95, sp: 105 
- 
- Zarude-Dada: 
- Dark, Grass,
- 105, at: 120, df: 105, sa: 70, sd: 95, sp: 105 
- 
- Zigzagoon-Galar: 
- Dark, Normal,
- 38, at: 30, df: 41, sa: 30, sd: 41, sp: 60 
+ Araquanid: Water, Bug,
+ 68, 70, 92, 50, 132, 42 
+ 
+ Araquanid-Totem: Water, Bug,
+ 68, 70, 92, 50, 132, 42 
+ 
+ Bewear: Normal, Fighting,
+ 120, 125, 80, 55, 60, 60 
+ 
+ Blacephalon: Fire, Ghost,
+ 53, 127, 53, 151, 79, 107 
+ 
+ Bounsweet: Grass,
+ 42, 30, 38, 30, 38, 32 
+ 
+ Brionne: Water,
+ 60, 69, 69, 91, 81, 50 
+ 
+ Bruxish: Water, Psychic,
+ 68, 105, 70, 70, 70, 92 
+ 
+ Buzzwole: Bug, Fighting,
+ 107, 139, 139, 53, 53, 79 
+ 
+ Caribolt: Grass, Electric,
+ 84, 106, 82, 77, 80, 106 
+ 
+ Celesteela: Steel, Flying,
+ 97, 101, 103, 107, 101, 61 
+ 
+ Charjabug: Bug, Electric,
+ 57, 82, 95, 55, 75, 36 
+ 
+ Comfey: Fairy,
+ 51, 52, 90, 82, 110, 100 
+ 
+ Cosmoem: Psychic,
+ 43, 29, 131, 29, 131, 37 
+ 
+ Coribalis: Water, Bug,
+ 76, 69, 90, 65, 77, 43 
+ 
+ Cosmog: Psychic,
+ 43, 29, 31, 29, 31, 37 
+ 
+ Crabominable: Fighting, Ice,
+ 97, 132, 77, 62, 67, 43 
+ 
+ Crabrawler: Fighting,
+ 47, 82, 57, 42, 47, 63 
+ 
+ Cutiefly: Bug, Fairy,
+ 40, 45, 40, 55, 40, 84 
+ 
+ Dartrix: Grass, Flying,
+ 78, 75, 75, 70, 70, 52 
+ 
+ Decidueye: Grass, Ghost,
+ 78, 107, 75, 100, 100, 70 
+ 
+ Dewpider: Water, Bug,
+ 38, 40, 52, 40, 72, 27 
+ 
+ Dhelmise: Ghost, Grass,
+ 70, 131, 100, 86, 90, 40 
+ 
+ Drampa: Normal, Dragon,
+ 78, 60, 85, 135, 91, 36 
+ 
+ Diglett-Alola: Ground, Steel,
+ 10, 55, 30, 35, 45, 90 
+ 
+ Dugtrio-Alola: Ground, Steel,
+ 35, 100, 60, 50, 70, 110 
+ 
+ Eevee-Starter: Normal,
+ 65, 75, 70, 65, 85, 75 
+ 
+ Electrelk: Grass, Electric,
+ 59, 81, 67, 57, 55, 101 
+ 
+ Equilibra: Steel, Ground,
+ 102, 50, 96, 133, 118, 60 
+ 
+ Exeggutor-Alola: Grass, Dragon,
+ 95, 105, 85, 125, 75, 45 
+ 
+ Fawnifer: Grass,
+ 49, 61, 42, 52, 40, 76 
+ 
+ Fomantis: Grass,
+ 40, 55, 35, 50, 35, 35 
+ 
+ Geodude-Alola: Rock, Electric,
+ 40, 80, 100, 30, 30, 20 
+ 
+ Golem-Alola: Rock, Electric,
+ 80, 120, 130, 55, 65, 45 
+ 
+ Golisopod: Bug, Water,
+ 75, 125, 140, 60, 90, 40 
+ 
+ Graveler-Alola: Rock, Electric,
+ 55, 95, 115, 45, 45, 35 
+ 
+ Grimer-Alola: Poison, Dark,
+ 80, 80, 50, 40, 50, 25 
+ 
+ Greninja-Ash: Water, Dark,
+ 72, 145, 67, 153, 71, 132 
+ 
+ Grubbin: Bug,
+ 47, 62, 45, 55, 45, 46 
+ 
+ Gumshoos: Normal,
+ 88, 110, 60, 55, 60, 45 
+ 
+ Gumshoos-Totem: Normal,
+ 88, 110, 60, 55, 60, 45 
+ 
+ Guzzlord: Dark, Dragon,
+ 223, 101, 53, 97, 53, 43 
+ 
+ Hakamo-o: Dragon, Fighting,
+ 55, 75, 90, 65, 70, 65 
+ 
+ Incineroar: Fire, Dark,
+ 95, 115, 90, 80, 90, 60 
+ 
+ Jangmo-o: Dragon,
+ 45, 55, 65, 45, 45, 45 
+ 
+ Justyke: Steel, Ground,
+ 72, 70, 56, 83, 68, 30 
+ 
+ Jumbao: Grass, Fairy,
+ 92, 63, 97, 124, 104, 96 
+ 
+ Kartana: Grass, Steel,
+ 59, 181, 131, 59, 31, 109 
+ 
+ Komala: Normal,
+ 65, 115, 65, 75, 95, 65 
+ 
+ Kommo-o: Dragon, Fighting,
+ 75, 110, 125, 100, 105, 85 
+ 
+ Kommo-o-Totem: Dragon, Fighting,
+ 75, 110, 125, 100, 105, 85 
+ 
+ Litten: Fire,
+ 45, 65, 40, 60, 40, 70 
+ 
+ Lunala: Psychic, Ghost,
+ 137, 113, 89, 137, 107, 97 
+ 
+ Lurantis: Grass,
+ 70, 105, 90, 80, 90, 45 
+ 
+ Lurantis-Totem: Grass,
+ 70, 105, 90, 80, 90, 45 
+ 
+ Lycanroc: Rock,
+ 75, 115, 65, 55, 65, 112 
+ 
+ Lycanroc-Dusk: Rock,
+ 75, 117, 65, 55, 65, 110 
+ 
+ Lycanroc-Midnight: Rock,
+ 85, 115, 75, 55, 75, 82 
+ 
+ Magearna: Steel, Fairy,
+ 80, 95, 115, 130, 115, 65 
+ 
+ Mareanie: Poison, Water,
+ 50, 53, 62, 43, 52, 45 
+ 
+ Marowak-Alola: Fire, Ghost,
+ 60, 80, 110, 50, 80, 45 
+ 
+ Marowak-Alola-Totem: Fire, Ghost,
+ 60, 80, 110, 50, 80, 45 
+ 
+ Marshadow: Fighting, Ghost,
+ 90, 125, 80, 90, 90, 125 
+ 
+ Melmetal: Steel,
+ 135, 143, 143, 80, 65, 34 
+ 
+ Meltan: Steel,
+ 46, 65, 65, 55, 35, 34 
+ 
+ Meowth-Alola: Dark,
+ 40, 35, 35, 50, 40, 90 
+ 
+ Mimikyu: Ghost, Fairy,
+ 55, 90, 80, 50, 105, 96 
+ 
+ Mimikyu-Busted: Ghost, Fairy,
+ 55, 90, 80, 50, 105, 96 
+ 
+ Mimikyu-Busted-Totem: Ghost, Fairy,
+ 55, 90, 80, 50, 105, 96 
+ 
+ Mimikyu-Totem: Ghost, Fairy,
+ 55, 90, 80, 50, 105, 96 
+ 
+ Minior: Rock, Flying,
+ 60, 100, 60, 100, 60, 120 
+ 
+ Minior-Meteor: Rock, Flying,
+ 60, 60, 100, 60, 100, 60 
+ 
+ Morelull: Grass, Fairy,
+ 40, 35, 55, 65, 75, 15 
+ 
+ Mudbray: Ground,
+ 70, 100, 70, 45, 55, 45 
+ 
+ Mudsdale: Ground,
+ 100, 125, 100, 55, 85, 35 
+ 
+ Muk-Alola: Poison, Dark,
+ 105, 105, 75, 65, 100, 50 
+ 
+ Mumbao: Grass, Fairy,
+ 55, 30, 64, 87, 73, 66 
+ 
+ Naganadel: Poison, Dragon,
+ 73, 73, 73, 127, 73, 121 
+ 
+ Necrozma: Psychic,
+ 97, 107, 101, 127, 89, 79 
+ 
+ Necrozma-Dawn-Wings: Psychic, Ghost,
+ 97, 113, 109, 157, 127, 77 
+ 
+ Necrozma-Dusk-Mane: Psychic, Steel,
+ 97, 157, 127, 113, 109, 77 
+ 
+ Necrozma-Ultra: Psychic, Dragon,
+ 97, 167, 97, 167, 97, 129 
+ 
+ Nihilego: Rock, Poison,
+ 109, 53, 47, 127, 131, 103 
+ 
+ Ninetales-Alola: Ice, Fairy,
+ 73, 67, 75, 81, 100, 109 
+ 
+ Oranguru: Normal, Psychic,
+ 90, 60, 80, 90, 110, 60 
+ 
+ Oricorio: Fire, Flying,
+ 75, 70, 70, 98, 70, 93 
+ 
+ Oricorio-Pa\u: Psychic, Flying,
+ 75, 70, 70, 98, 70, 93 
+ 
+ Oricorio-Pom-Pom: Electric, Flying,
+ 75, 70, 70, 98, 70, 93 
+ 
+ Oricorio-Sensu: Ghost, Flying,
+ 75, 70, 70, 98, 70, 93 
+ 
+ Pajantom: Dragon, Ghost,
+ 84, 133, 71, 51, 111, 101 
+ 
+ Palossand: Ghost, Ground,
+ 85, 75, 110, 100, 75, 35 
+ 
+ Passimian: Fighting,
+ 100, 120, 90, 40, 60, 80 
+ 
+ Persian-Alola: Dark,
+ 65, 60, 60, 75, 65, 115 
+ 
+ Pheromosa: Bug, Fighting,
+ 71, 137, 37, 137, 37, 151 
+ 
+ Pikachu-Alola: Electric,
+ 35, 55, 40, 50, 50, 90 
+ 
+ Pikachu-Hoenn: Electric,
+ 35, 55, 40, 50, 50, 90 
+ 
+ Pikachu-Kalos: Electric,
+ 35, 55, 40, 50, 50, 90 
+ 
+ Pikachu-Original: Electric,
+ 35, 55, 40, 50, 50, 90 
+ 
+ Pikachu-Partner: Electric,
+ 35, 55, 40, 50, 50, 90 
+ 
+ Pikachu-Sinnoh: Electric,
+ 35, 55, 40, 50, 50, 90 
+ 
+ Pikachu-Starter: Electric,
+ 45, 80, 50, 75, 60, 120 
+ 
+ Pikachu-Unova: Electric,
+ 35, 55, 40, 50, 50, 90 
+ 
+ Pikipek: Normal, Flying,
+ 35, 75, 30, 30, 30, 65 
+ 
+ Poipole: Poison,
+ 67, 73, 67, 73, 67, 73 
+ 
+ Popplio: Water,
+ 50, 54, 54, 66, 56, 40 
+ 
+ Primarina: Water, Fairy,
+ 80, 74, 74, 126, 116, 60 
+ 
+ Pyukumuku: Water,
+ 55, 60, 130, 30, 130, 5 
+ 
+ Raichu-Alola: Electric, Psychic,
+ 60, 85, 50, 95, 85, 110 
+ 
+ Raticate-Alola: Dark, Normal,
+ 75, 71, 70, 40, 80, 77 
+ 
+ Raticate-Alola-Totem: Dark, Normal,
+ 75, 71, 70, 40, 80, 77 
+ 
+ Rattata-Alola: Dark, Normal,
+ 30, 56, 35, 25, 35, 72 
+ 
+ Ribombee: Bug, Fairy,
+ 60, 55, 60, 95, 70, 124 
+ 
+ Ribombee-Totem: Bug, Fairy,
+ 60, 55, 60, 95, 70, 124 
+ 
+ Rockruff: Rock,
+ 45, 65, 40, 30, 40, 60 
+ 
+ Rowlet: Grass, Flying,
+ 68, 55, 55, 50, 50, 42 
+ 
+ Salandit: Poison, Fire,
+ 48, 44, 40, 71, 40, 77 
+ 
+ Salazzle: Poison, Fire,
+ 68, 64, 60, 111, 60, 117 
+ 
+ Salazzle-Totem: Poison, Fire,
+ 68, 64, 60, 111, 60, 117 
+ 
+ Sandshrew-Alola: Ice, Steel,
+ 50, 75, 90, 10, 35, 40 
+ 
+ Sandslash-Alola: Ice, Steel,
+ 75, 100, 120, 25, 65, 65 
+ 
+ Sandygast: Ghost, Ground,
+ 55, 55, 80, 70, 45, 15 
+ 
+ Shiinotic: Grass, Fairy,
+ 60, 45, 80, 90, 100, 30 
+ 
+ Silvally: Normal,
+ 95, 95, 95, 95, 95, 95 
+ 
+ Silvally-Bug: Bug,
+ 95, 95, 95, 95, 95, 95 
+ 
+ Silvally-Dark: Dark,
+ 95, 95, 95, 95, 95, 95 
+ 
+ Silvally-Dragon: Dragon,
+ 95, 95, 95, 95, 95, 95 
+ 
+ Silvally-Electric: Electric,
+ 95, 95, 95, 95, 95, 95 
+ 
+ Silvally-Fairy: Fairy,
+ 95, 95, 95, 95, 95, 95 
+ 
+ Silvally-Fighting: Fighting,
+ 95, 95, 95, 95, 95, 95 
+ 
+ Silvally-Fire: Fire,
+ 95, 95, 95, 95, 95, 95 
+ 
+ Silvally-Flying: Flying,
+ 95, 95, 95, 95, 95, 95 
+ 
+ Silvally-Ghost: Ghost,
+ 95, 95, 95, 95, 95, 95 
+ 
+ Silvally-Grass: Grass,
+ 95, 95, 95, 95, 95, 95 
+ 
+ Silvally-Ground: Ground,
+ 95, 95, 95, 95, 95, 95 
+ 
+ Silvally-Ice: Ice,
+ 95, 95, 95, 95, 95, 95 
+ 
+ Silvally-Poison: Poison,
+ 95, 95, 95, 95, 95, 95 
+ 
+ Silvally-Psychic: Psychic,
+ 95, 95, 95, 95, 95, 95 
+ 
+ Silvally-Rock: Rock,
+ 95, 95, 95, 95, 95, 95 
+ 
+ Silvally-Steel: Steel,
+ 95, 95, 95, 95, 95, 95 
+ 
+ Silvally-Water: Water,
+ 95, 95, 95, 95, 95, 95 
+ 
+ Smogecko: Fire,
+ 48, 66, 43, 58, 48, 56 
+ 
+ Smoguana: Fire, Ground,
+ 68, 86, 53, 68, 68, 76 
+ 
+ Smokomodo: Fire, Ground,
+ 88, 116, 67, 88, 78, 97 
+ 
+ Snaelstrom: Water, Bug,
+ 91, 94, 110, 80, 97, 63 
+ 
+ Solgaleo: Psychic, Steel,
+ 137, 137, 107, 113, 89, 97 
+ 
+ Stakataka: Rock, Steel,
+ 61, 131, 211, 53, 101, 13 
+ 
+ Steenee: Grass,
+ 52, 40, 48, 40, 48, 62 
+ 
+ Stufful: Normal, Fighting,
+ 70, 75, 50, 45, 50, 50 
+ 
+ Swirlpool: Water,
+ 61, 49, 70, 50, 62, 28 
+ 
+ Tapu Bulu: Grass, Fairy,
+ 70, 130, 115, 85, 95, 75 
+ 
+ Tapu Fini: Water, Fairy,
+ 70, 75, 115, 95, 130, 85 
+ 
+ Tapu Koko: Electric, Fairy,
+ 70, 115, 85, 95, 75, 130 
+ 
+ Tapu Lele: Psychic, Fairy,
+ 70, 85, 75, 130, 115, 95 
+ 
+ Togedemaru: Electric, Steel,
+ 65, 98, 63, 40, 73, 96 
+ 
+ Togedemaru-Totem: Electric, Steel,
+ 65, 98, 63, 40, 73, 96 
+ 
+ Torracat: Fire,
+ 65, 85, 50, 80, 50, 90 
+ 
+ Toucannon: Normal, Flying,
+ 80, 120, 75, 75, 75, 60 
+ 
+ Toxapex: Poison, Water,
+ 50, 63, 152, 53, 142, 35 
+ 
+ Trumbeak: Normal, Flying,
+ 55, 85, 50, 40, 50, 75 
+ 
+ Tsareena: Grass,
+ 72, 120, 98, 50, 98, 72 
+ 
+ Turtonator: Fire, Dragon,
+ 60, 78, 135, 91, 85, 36 
+ 
+ Type: Null: Normal,
+ 95, 95, 95, 95, 95, 59 
+ 
+ Vikavolt: Bug, Electric,
+ 77, 70, 90, 145, 75, 43 
+ 
+ Vikavolt-Totem: Bug, Electric,
+ 77, 70, 90, 145, 75, 43 
+ 
+ Vulpix-Alola: Ice,
+ 38, 41, 40, 50, 65, 65 
+ 
+ Wimpod: Bug, Water,
+ 25, 35, 40, 20, 30, 80 
+ 
+ Wishiwashi: Water,
+ 45, 20, 20, 25, 25, 40 
+ 
+ Wishiwashi-School: Water,
+ 45, 140, 130, 140, 135, 30 
+ 
+ Xurkitree: Electric,
+ 83, 89, 71, 173, 71, 83 
+ 
+ Yungoos: Normal,
+ 48, 70, 30, 30, 30, 45 
+ 
+ Zeraora: Electric,
+ 88, 112, 75, 102, 80, 143 
+ 
+ Zygarde-10%: Dragon, Ground,
+ 54, 100, 71, 61, 85, 115 
+ 
+ Zygarde-Complete: Dragon, Ground,
+ 216, 100, 121, 91, 95, 85 
+ 
+ Alcremie: Fairy,
+ 65, 60, 75, 110, 121, 64 
+ 
+ Alcremie-Gmax: Fairy,
+ 65, 60, 75, 110, 121, 64 
+ 
+ Appletun: Grass, Dragon,
+ 110, 85, 80, 100, 80, 30 
+ 
+ Appletun-Gmax: Grass, Dragon,
+ 110, 85, 80, 100, 80, 30 
+ 
+ Applin: Grass, Dragon,
+ 40, 40, 80, 40, 40, 20 
+ 
+ Arctovish: Water, Ice,
+ 90, 90, 100, 80, 90, 55 
+ 
+ Arctozolt: Electric, Ice,
+ 90, 100, 90, 90, 80, 55 
+ 
+ Arrokuda: Water,
+ 41, 63, 40, 40, 30, 66 
+ 
+ Articuno-Galar: Psychic, Flying,
+ 90, 85, 85, 125, 100, 95 
+ 
+ Astrolotl: Fire, Dragon,
+ 108, 108, 74, 92, 64, 114 
+ 
+ Barraskewda: Water,
+ 61, 123, 60, 60, 50, 136 
+ 
+ Blastoise-Gmax: Water,
+ 79, 83, 100, 85, 105, 78 
+ 
+ Blipbug: Bug,
+ 25, 20, 20, 25, 45, 45 
+ 
+ Boltund: Electric,
+ 69, 90, 60, 90, 60, 121 
+ 
+ Butterfree-Gmax: Bug, Flying,
+ 60, 45, 50, 90, 80, 70 
+ 
+ Calyrex: Psychic, Grass,
+ 100, 80, 80, 80, 80, 80 
+ 
+ Calyrex-Ice: Psychic, Ice,
+ 100, 165, 150, 85, 130, 50 
+ 
+ Calyrex-Shadow: Psychic, Ghost,
+ 100, 85, 80, 165, 100, 150 
+ 
+ Carkol: Rock, Fire,
+ 80, 60, 90, 60, 70, 50 
+ 
+ Centiskorch: Fire, Bug,
+ 100, 115, 65, 90, 90, 65 
+ 
+ Centiskorch-Gmax: Fire, Bug,
+ 100, 115, 65, 90, 90, 65 
+ 
+ Charizard-Gmax: Fire, Flying,
+ 78, 84, 78, 109, 85, 100 
+ 
+ Chewtle: Water,
+ 50, 64, 50, 38, 38, 44 
+ 
+ Chromera: Dark, Poison,
+ 85, 85, 115, 115, 100, 100 
+ 
+ Cinderace: Fire,
+ 80, 116, 75, 65, 75, 119 
+ 
+ Cinderace-Gmax: Fire,
+ 80, 116, 75, 65, 75, 119 
+ 
+ Clobbopus: Fighting,
+ 50, 68, 60, 50, 50, 32 
+ 
+ Coalossal: Rock, Fire,
+ 110, 80, 120, 80, 90, 30 
+ 
+ Coalossal-Gmax: Rock, Fire,
+ 110, 80, 120, 80, 90, 30 
+ 
+ Copperajah: Steel,
+ 122, 130, 69, 80, 69, 30 
+ 
+ Copperajah-Gmax: Steel,
+ 122, 130, 69, 80, 69, 30 
+ 
+ Corsola-Galar: Ghost,
+ 60, 55, 100, 65, 100, 30 
+ 
+ Corviknight: Flying, Steel,
+ 98, 87, 105, 53, 85, 67 
+ 
+ Corviknight-Gmax: Flying, Steel,
+ 98, 87, 105, 53, 85, 67 
+ 
+ Corvisquire: Flying,
+ 68, 67, 55, 43, 55, 77 
+ 
+ Cramorant: Flying, Water,
+ 70, 85, 55, 85, 95, 85 
+ 
+ Cramorant-Gorging: Flying, Water,
+ 70, 85, 55, 85, 95, 85 
+ 
+ Cramorant-Gulping: Flying, Water,
+ 70, 85, 55, 85, 95, 85 
+ 
+ Cufant: Steel,
+ 72, 80, 49, 40, 49, 40 
+ 
+ Cursola: Ghost,
+ 60, 95, 50, 145, 130, 30 
+ 
+ Darmanitan-Galar: Ice,
+ 105, 140, 55, 30, 55, 95 
+ 
+ Darmanitan-Galar-Zen: Ice, Fire,
+ 105, 160, 55, 30, 55, 135 
+ 
+ Darumaka-Galar: Ice,
+ 70, 90, 45, 15, 45, 50 
+ 
+ Dottler: Bug, Psychic,
+ 50, 35, 80, 50, 90, 30 
+ 
+ Dracovish: Water, Dragon,
+ 90, 90, 100, 70, 80, 75 
+ 
+ Dracozolt: Electric, Dragon,
+ 90, 100, 90, 80, 70, 75 
+ 
+ Dragapult: Dragon, Ghost,
+ 88, 120, 75, 100, 75, 142 
+ 
+ Drakloak: Dragon, Ghost,
+ 68, 80, 50, 60, 50, 102 
+ 
+ Drednaw: Water, Rock,
+ 90, 115, 90, 48, 68, 74 
+ 
+ Drednaw-Gmax: Water, Rock,
+ 90, 115, 90, 48, 68, 74 
+ 
+ Dreepy: Dragon, Ghost,
+ 28, 60, 30, 40, 30, 82 
+ 
+ Drizzile: Water,
+ 65, 60, 55, 95, 55, 90 
+ 
+ Dubwool: Normal,
+ 72, 80, 100, 60, 90, 88 
+ 
+ Duraludon: Steel, Dragon,
+ 70, 95, 115, 120, 50, 85 
+ 
+ Duraludon-Gmax: Steel, Dragon,
+ 70, 95, 115, 120, 50, 85 
+ 
+ Eevee-Gmax: Normal,
+ 55, 55, 50, 45, 65, 55 
+ 
+ Eiscue: Ice,
+ 75, 80, 110, 65, 90, 50 
+ 
+ Eiscue-Noice: Ice,
+ 75, 80, 70, 65, 50, 130 
+ 
+ Eldegoss: Grass,
+ 60, 50, 90, 80, 120, 60 
+ 
+ Eternatus: Poison, Dragon,
+ 140, 85, 95, 145, 95, 130 
+ 
+ Eternatus-Eternamax: Poison, Dragon,
+ 255, 115, 250, 125, 250, 130 
+ 
+ Falinks: Fighting,
+ 65, 100, 100, 70, 60, 75 
+ 
+ Farfetch\u2019d-Galar: Fighting,
+ 52, 95, 55, 58, 62, 55 
+ 
+ Flapple: Grass, Dragon,
+ 70, 110, 80, 95, 60, 70 
+ 
+ Flapple-Gmax: Grass, Dragon,
+ 70, 110, 80, 95, 60, 70 
+ 
+ Frosmoth: Ice, Bug,
+ 70, 65, 60, 125, 90, 65 
+ 
+ Garbodor-Gmax: Poison,
+ 80, 95, 82, 60, 82, 75 
+ 
+ Gengar-Gmax: Ghost, Poison,
+ 60, 65, 60, 130, 75, 110 
+ 
+ Glastrier: Ice,
+ 100, 145, 130, 65, 110, 30 
+ 
+ Gossifleur: Grass,
+ 40, 40, 60, 40, 60, 10 
+ 
+ Grapploct: Fighting,
+ 80, 118, 90, 70, 80, 42 
+ 
+ Greedent: Normal,
+ 120, 95, 95, 55, 75, 20 
+ 
+ Grimmsnarl: Dark, Fairy,
+ 95, 120, 65, 95, 75, 60 
+ 
+ Grimmsnarl-Gmax: Dark, Fairy,
+ 95, 120, 65, 95, 75, 60 
+ 
+ Grookey: Grass,
+ 50, 65, 50, 40, 40, 65 
+ 
+ Hatenna: Psychic,
+ 42, 30, 45, 56, 53, 39 
+ 
+ Hatterene: Psychic, Fairy,
+ 57, 90, 95, 136, 103, 29 
+ 
+ Hatterene-Gmax: Psychic, Fairy,
+ 57, 90, 95, 136, 103, 29 
+ 
+ Hattrem: Psychic,
+ 57, 40, 65, 86, 73, 49 
+ 
+ Impidimp: Dark, Fairy,
+ 45, 45, 30, 55, 40, 50 
+ 
+ Indeedee: Psychic, Normal,
+ 60, 65, 55, 105, 95, 95 
+ 
+ Indeedee-F: Psychic, Normal,
+ 70, 55, 65, 95, 105, 85 
+ 
+ Inteleon: Water,
+ 70, 85, 65, 125, 65, 120 
+ 
+ Inteleon-Gmax: Water,
+ 70, 85, 65, 125, 65, 120 
+ 
+ Kingler-Gmax: Water,
+ 55, 130, 115, 50, 50, 75 
+ 
+ Kubfu: Fighting,
+ 60, 90, 60, 53, 50, 72 
+ 
+ Lapras-Gmax: Water, Ice,
+ 130, 85, 80, 85, 95, 60 
+ 
+ Linoone-Galar: Dark, Normal,
+ 78, 70, 61, 50, 61, 100 
+ 
+ Magearna-Original: Steel, Fairy,
+ 80, 95, 115, 130, 115, 65 
+ 
+ Machamp-Gmax: Fighting,
+ 90, 130, 80, 65, 85, 55 
+ 
+ Melmetal-Gmax: Steel,
+ 135, 143, 143, 80, 65, 34 
+ 
+ Meowth-Galar: Steel,
+ 50, 65, 55, 40, 40, 40 
+ 
+ Meowth-Gmax: Normal,
+ 40, 45, 35, 40, 40, 90 
+ 
+ Miasmaw: Bug, Dragon,
+ 85, 135, 60, 115, 85, 92 
+ 
+ Miasmite: Bug, Dragon,
+ 40, 85, 60, 52, 52, 44 
+ 
+ Milcery: Fairy,
+ 45, 40, 40, 50, 61, 34 
+ 
+ Moltres-Galar: Dark, Flying,
+ 90, 85, 90, 100, 125, 90 
+ 
+ Morgrem: Dark, Fairy,
+ 65, 60, 45, 75, 55, 70 
+ 
+ Morpeko: Electric, Dark,
+ 58, 95, 58, 70, 58, 97 
+ 
+ Morpeko-Hangry: Electric, Dark,
+ 58, 95, 58, 70, 58, 97 
+ 
+ Mr. Mime-Galar: Ice, Psychic,
+ 50, 65, 65, 90, 90, 100 
+ 
+ Mr. Rime: Ice, Psychic,
+ 80, 85, 75, 110, 100, 70 
+ 
+ Nickit: Dark,
+ 40, 28, 28, 47, 52, 50 
+ 
+ Obstagoon: Dark, Normal,
+ 93, 90, 101, 60, 81, 95 
+ 
+ Orbeetle: Bug, Psychic,
+ 60, 45, 110, 80, 120, 90 
+ 
+ Orbeetle-Gmax: Bug, Psychic,
+ 60, 45, 110, 80, 120, 90 
+ 
+ Perrserker: Steel,
+ 70, 110, 100, 50, 60, 50 
+ 
+ Pikachu-Gmax: Electric,
+ 35, 55, 40, 50, 50, 90 
+ 
+ Pikachu-World: Electric,
+ 35, 55, 40, 50, 50, 90 
+ 
+ Pincurchin: Electric,
+ 48, 101, 95, 91, 85, 15 
+ 
+ Polteageist: Ghost,
+ 60, 65, 65, 134, 114, 70 
+ 
+ Polteageist-Antique: Ghost,
+ 60, 65, 65, 134, 114, 70 
+ 
+ Ponyta-Galar: Psychic,
+ 50, 85, 55, 65, 65, 90 
+ 
+ Raboot: Fire,
+ 65, 86, 60, 55, 60, 94 
+ 
+ Rapidash-Galar: Psychic, Fairy,
+ 65, 100, 70, 80, 80, 105 
+ 
+ Regidrago: Dragon,
+ 200, 100, 50, 100, 50, 80 
+ 
+ Regieleki: Electric,
+ 80, 100, 50, 100, 50, 200 
+ 
+ Rillaboom: Grass,
+ 100, 125, 90, 60, 70, 85 
+ 
+ Rillaboom-Gmax: Grass,
+ 100, 125, 90, 60, 70, 85 
+ 
+ Rolycoly: Rock,
+ 30, 40, 50, 40, 50, 30 
+ 
+ Rookidee: Flying,
+ 38, 47, 35, 33, 35, 57 
+ 
+ Runerigus: Ground, Ghost,
+ 58, 95, 145, 50, 105, 30 
+ 
+ Sandaconda: Ground,
+ 72, 107, 125, 65, 70, 71 
+ 
+ Sandaconda-Gmax: Ground,
+ 72, 107, 125, 65, 70, 71 
+ 
+ Scorbunny: Fire,
+ 50, 71, 40, 40, 40, 69 
+ 
+ Silicobra: Ground,
+ 52, 57, 75, 35, 50, 46 
+ 
+ Sinistea: Ghost,
+ 40, 45, 45, 74, 54, 50 
+ 
+ Sinistea-Antique: Ghost,
+ 40, 45, 45, 74, 54, 50 
+ 
+ Sirfetch'd: Fighting,
+ 62, 135, 95, 68, 82, 65 
+ 
+ Sizzlipede: Fire, Bug,
+ 50, 65, 45, 50, 50, 45 
+ 
+ Skwovet: Normal,
+ 70, 55, 55, 35, 35, 25 
+ 
+ Slowbro-Galar: Poison, Psychic,
+ 95, 100, 95, 100, 70, 30 
+ 
+ Slowking-Galar: Poison, Psychic,
+ 95, 65, 80, 110, 110, 30 
+ 
+ Slowpoke-Galar: Psychic,
+ 90, 65, 65, 40, 40, 15 
+ 
+ Solotl: Fire, Dragon,
+ 68, 48, 34, 72, 24, 84 
+ 
+ Snom: Ice, Bug,
+ 30, 25, 35, 45, 30, 20 
+ 
+ Snorlax-Gmax: Normal,
+ 160, 110, 65, 65, 110, 30 
+ 
+ Sobble: Water,
+ 50, 40, 40, 70, 40, 70 
+ 
+ Spectrier: Ghost,
+ 100, 65, 60, 145, 80, 130 
+ 
+ Stonjourner: Rock,
+ 100, 125, 135, 20, 20, 70 
+ 
+ Stunfisk-Galar: Ground, Steel,
+ 109, 81, 99, 66, 84, 32 
+ 
+ Thievul: Dark,
+ 70, 58, 58, 87, 92, 90 
+ 
+ Thwackey: Grass,
+ 70, 85, 70, 55, 60, 80 
+ 
+ Toxel: Electric, Poison,
+ 40, 38, 35, 54, 35, 40 
+ 
+ Toxtricity: Electric, Poison,
+ 75, 98, 70, 114, 70, 75 
+ 
+ Toxtricity-Gmax: Electric, Poison,
+ 75, 98, 70, 114, 70, 75 
+ 
+ Toxtricity-Low-Key: Electric, Poison,
+ 75, 98, 70, 114, 70, 75 
+ 
+ Toxtricity-Low-Key-Gmax: Electric, Poison,
+ 75, 98, 70, 114, 70, 75 
+ 
+ Urshifu: Fighting, Dark,
+ 100, 130, 100, 63, 60, 97 
+ 
+ Urshifu-Rapid-Strike: Fighting, Water,
+ 100, 130, 100, 63, 60, 97 
+ 
+ Urshifu-Rapid-Strike-Gmax: Fighting, Water,
+ 100, 130, 100, 63, 60, 97 
+ 
+ Urshifu-Gmax: Fighting, Dark,
+ 100, 130, 100, 63, 60, 97 
+ 
+ Venusaur-Gmax: Grass, Poison,
+ 80, 82, 83, 100, 100, 80 
+ 
+ Weezing-Galar: Poison, Fairy,
+ 65, 90, 120, 85, 70, 60 
+ 
+ Wooloo: Normal,
+ 42, 40, 55, 40, 45, 48 
+ 
+ Yamask-Galar: Ground, Ghost,
+ 38, 55, 85, 30, 65, 30 
+ 
+ Yamper: Electric,
+ 59, 45, 50, 40, 50, 26 
+ 
+ Zacian: Fairy,
+ 92, 130, 115, 80, 115, 138 
+ 
+ Zacian-Crowned: Fairy, Steel,
+ 92, 170, 115, 80, 115, 148 
+ 
+ Zamazenta: Fighting,
+ 92, 130, 115, 80, 115, 138 
+ 
+ Zamazenta-Crowned: Fighting, Steel,
+ 92, 130, 145, 80, 145, 128 
+ 
+ Zapdos-Galar: Fighting, Flying,
+ 90, 125, 90, 85, 90, 100 
+ 
+ Zarude: Dark, Grass,
+ 105, 120, 105, 70, 95, 105 
+ 
+ Zarude-Dada: Dark, Grass,
+ 105, 120, 105, 70, 95, 105 
+ 
+ Zigzagoon-Galar: Dark, Normal,
+ 38, 30, 41, 30, 41, 60 
  
