@@ -1,9 +1,10 @@
 datei = open('pokemon.txt', 'r', encoding='UTF-8')
 Text = ""
+counter = 0
 for zeile in datei:
-    Text += datei.read()
-Text = Text.replace("{", "")
+    Text += zeile
 datei.close()
+Text.replace("at: ", "")
 print(Text)
 open('pokemon.txt', 'w', encoding='UTF-8').close()
 test = open('pokemon.txt', 'w', encoding='UTF-8')
